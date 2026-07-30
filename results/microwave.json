@@ -1,0 +1,66 @@
+[
+  {
+    "type": "Microwave",
+    "caseType": "Ticket",
+    "collection": "Microwave",
+    "network": "SLERS 2",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fdf1"
+    },
+    "equipmentName": "Meacham Microwave 1 to Molino",
+    "equipmentID": "R850S135M1",
+    "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+    "serialNumber": null,
+    "partNumber": null,
+    "make": null,
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbfb"
+    },
+    "imagePath": null,
+    "email": [
+      null,
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-07-06T15:25:31.507Z"
+  },
+  {
+    "type": "Microwave",
+    "caseType": "Ticket",
+    "collection": "Microwave",
+    "network": "SLERS 2",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fdf1"
+    },
+    "equipmentName": "Meacham Microwave 2 to Century CI",
+    "equipmentID": "R850S135M2",
+    "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+    "serialNumber": null,
+    "partNumber": null,
+    "make": null,
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbfb"
+    },
+    "imagePath": null,
+    "email": [
+      null,
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-07-06T15:26:20.441Z"
+  }
+]

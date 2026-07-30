@@ -1,0 +1,87 @@
+[
+  {
+    "type": "UPS",
+    "caseType": "Work Order",
+    "collection": "UPS/Rectifier",
+    "network": "SLERS 2",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fdf1"
+    },
+    "equipmentName": "Meacham UPS",
+    "equipmentID": "R850S135XU",
+    "serialNumber": "BJ242T0013",
+    "make": "POWERWARE",
+    "model": "9170 +",
+    "capacity": "9KVA/40",
+    "dateInstalled": null,
+    "batteryDate": "09/20/2025",
+    "hostName": null,
+    "ipAddress": "10.131.79.106",
+    "upsURL": "http://10.131.79.106/",
+    "pmFrequency": "Semi Annual",
+    "pmReminder": 4,
+    "pmNeeded": true,
+    "lastPM": [],
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+    "defaultVendor": {
+      "$oid": "6a394d727d89a2c17023feee"
+    },
+    "imagePath": null,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "email": [
+      "bulletproofpower@gmail.com",
+      "kevin.behana@l3harris.com",
+      "dan.keppel@l3harris.com",
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedTimestamp": "2026-06-26T15:54:02.448Z"
+  },
+  {
+    "type": "Rectifier",
+    "caseType": "Work Order",
+    "collection": "UPS/Rectifier",
+    "network": "SLERS 2",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fdf1"
+    },
+    "equipmentName": "Meacham Rectifier Rack",
+    "equipmentID": "R850S135MR",
+    "serialNumber": "11094",
+    "make": "TWIN PACK PLUS",
+    "model": "TWPP-48-100-CE",
+    "capacity": "50A-07",
+    "dateInstalled": null,
+    "batteryDate": "01/21/2025",
+    "pmFrequency": "Semi Annual",
+    "pmReminder": 4,
+    "pmNeeded": true,
+    "lastPM": [],
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+    "defaultVendor": {
+      "$oid": "6a394d727d89a2c17023feee"
+    },
+    "imagePath": null,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "email": [
+      "bulletproofpower@gmail.com",
+      "kevin.behana@l3harris.com",
+      "dan.keppel@l3harris.com",
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedTimestamp": "2026-06-26T16:54:53.803Z"
+  }
+]

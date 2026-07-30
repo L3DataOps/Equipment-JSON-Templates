@@ -1,0 +1,28 @@
+[
+    {
+        "type": "hvac",
+        "caseType": "Work Order",
+        "siteid": { "$oid": "Enter ObjectID from MongoDB Here" },
+        "equipmentName": "SiteName HVAC 1 or HVAC 2",
+        "equipmentID": "Enter AMMS equipment number here",
+        "make": "",
+        "model": "",
+        "serialNumber":"",
+        "capacity": "",
+        "pmFrequency": "Annual",
+        "pmReminder": 10,
+        "pmNeeded": true,
+        "lastPM": [
+            {
+                "completionDate": "",
+                "caseNumber": null
+            }
+        ],
+        "dateInstalled": "",
+        "additionalInfo": "",
+        "defaultVendor": { "$oid": "Enter ObjectID from MOngoDB Here" },
+        "email": { "$oid": "Enter ObjectID from MOngoDB Here" },
+        "lastEditedBy":{ "$oid": "Enter ObjectID from MOngoDB Here" },
+        "lastEditedTimestamp": null
+    }
+]

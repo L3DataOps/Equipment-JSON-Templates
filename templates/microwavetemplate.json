@@ -1,0 +1,41 @@
+[
+    {
+        "type": "Microwave",
+        "caseType": "Ticket",
+        "siteid": { "$oid": "Enter ObjectID from MongoDB Here" }, 
+        "equipmentName": "SiteName Edgelink Mux",
+        "equipmentID": "Enter AMMS equipment number here",
+        "additionalInfo": "",
+        "hostName":"",
+        "ipAddress": "",
+        "defaultVendor": { "$oid": "Enter ObjectID from MongoDB Here" },
+        "lastEditedBy":{ "$oid": "Enter ObjectID from MongoDB Here" },
+        "lastEditedTimestamp": null
+    },
+    {
+        "type": "Microwave",
+        "caseType": "Ticket",
+        "siteid": { "$oid": "Enter ObjectID from MongoDB Here" }, 
+        "equipmentName": "SiteName Microwave X to SiteName",
+        "equipmentID": "Enter AMMS equipment number here",
+        "additionalInfo": "",
+        "serialNumber": "",
+        "make": "Manufacturer",
+        "model": "Model/Part Number",
+        "defaultVendor": { "$oid": "Enter ObjectID from MongoDB Here" },
+        "lastEditedBy":{ "$oid": "Enter ObjectID from MongoDB Here" },
+        "lastEditedTimestamp": null
+    },
+    {
+        "type": "Microwave",
+        "caseType": "Ticket",
+        "siteid": { "$oid": "Enter ObjectID from MongoDB Here" }, 
+        "equipmentName": "SiteName Service Shelf",
+        "equipmentID": "Enter AMMS equipment number here",
+        "additionalInfo": "",
+        "defaultVendor": { "$oid": "Enter ObjectID from MongoDB Here" },
+        "lastEditedBy":{ "$oid": "Enter ObjectID from MongoDB Here" },
+        "lastEditedTimestamp": null
+    }
+
+]

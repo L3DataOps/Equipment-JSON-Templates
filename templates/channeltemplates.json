@@ -1,0 +1,42 @@
+[
+    {
+        "type": "Channel",
+        "caseType": "Ticket",
+        "siteid": {
+          "$oid": "Enter ObjectID from MongoDB Here"
+        },
+        "equipmentName": "SiteName Mutual Aid X",
+        "equipmentID": "Enter AMMS equipment number here",
+        "additionalInfo": "",
+        "hostName": "",
+        "ipAddress": "",
+        "frequency": "MHz",
+        "defaultVendor": {
+          "$oid": "Enter ObjectID from MongoDB Here"
+        },
+        "lastEditedBy": {
+          "$oid": "Enter ObjectID from MongoDB Here"
+        },
+        "lastEditedTimestamp": null
+      },
+      {
+        "type": "Channel",
+        "caseType": "Ticket",
+        "siteid": {
+          "$oid": "Enter ObjectID from MongoDB Here"
+        },
+        "equipmentName": "SiteName Channel X",
+        "equipmentID": "Enter AMMS equipment number here",
+        "additionalInfo": "",
+        "hostName": "",
+        "ipAddress": "",
+        "frequency": "MHz",
+        "defaultVendor": {
+          "$oid": "Enter ObjectID from MongoDB Here"
+        },
+        "lastEditedBy": {
+          "$oid": "Enter ObjectID from MongoDB Here"
+        },
+        "lastEditedTimestamp": null
+      }
+]

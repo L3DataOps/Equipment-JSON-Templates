@@ -1,0 +1,27 @@
+[
+    {
+        "type": "Mutual Aid Equipment",
+        "caseType": "Ticket",
+        "siteid": {
+          "$oid": "Enter ObjectID from MongoDB Here"
+        },
+        "equipmentName": "SiteName X",
+        "equipmentID": "Enter AMMS equipment number here",
+        "additionalInfo": "",
+        "hostName": "",
+        "ipAddress": "",
+        "frequency": "MHz",
+        "defaultVendor": {
+          "$oid": "Enter ObjectID from MongoDB Here"
+        },
+        "lastEditedBy": {
+          "$oid": "Enter ObjectID from MongoDB Here"
+        },
+        "lastEditedTimestamp": null
+    }
+
+]  
+
+
+
+   

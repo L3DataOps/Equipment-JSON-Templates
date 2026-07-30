@@ -1,0 +1,1155 @@
+[{
+  "_id": {
+    "$oid": "69fca8e57d89a2c17023fbf0"
+  },
+  "vendorName": "CI Brevard",
+  "vendorNumber": "321-636-9885",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T14:50:20.903Z",
+  "imagePath": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null
+},
+{
+  "_id": {
+    "$oid": "69fca8e57d89a2c17023fbf1"
+  },
+  "vendorName": "CI Fort Myers",
+  "vendorNumber": "239-514-4428",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T14:52:56.501Z",
+  "imagePath": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null
+},
+{
+  "_id": {
+    "$oid": "69fca8e57d89a2c17023fbf2"
+  },
+  "vendorName": "CI Hernando",
+  "vendorNumber": "239-206-0209",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T14:53:34.658Z",
+  "imagePath": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null
+},
+{
+  "_id": {
+    "$oid": "69fca8e57d89a2c17023fbf3"
+  },
+  "vendorName": "CI Lake Worth",
+  "vendorNumber": "305-436-8233",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T14:54:33.739Z",
+  "imagePath": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null
+},
+{
+  "_id": {
+    "$oid": "69fca8e57d89a2c17023fbf4"
+  },
+  "vendorName": "CI Miami",
+  "vendorNumber": "305-436-8233",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T14:55:15.877Z",
+  "imagePath": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null
+},
+{
+  "_id": {
+    "$oid": "69fca8e57d89a2c17023fbf5"
+  },
+  "vendorName": "CI Mobile",
+  "vendorNumber": "251-476-4000",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T14:55:47.518Z",
+  "imagePath": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null
+},
+{
+  "_id": {
+    "$oid": "69fca8e57d89a2c17023fbf6"
+  },
+  "vendorName": "CI Tampa",
+  "vendorNumber": "813-887-1888",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T14:56:11.790Z",
+  "imagePath": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null
+},
+{
+  "_id": {
+    "$oid": "69fca8e57d89a2c17023fbf7"
+  },
+  "vendorName": "CI Vero Beach",
+  "vendorNumber": "772-569-5355",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T14:56:48.509Z",
+  "imagePath": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null
+},
+{
+  "_id": {
+    "$oid": "69fca8e57d89a2c17023fbf8"
+  },
+  "vendorName": "CI Volusia",
+  "vendorNumber": "386-947-9999",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T14:57:12.446Z",
+  "imagePath": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null
+},
+{
+  "_id": {
+    "$oid": "69fca8e57d89a2c17023fbf9"
+  },
+  "vendorName": "CI West Palm Beach",
+  "vendorNumber": "561-688-0330",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T14:57:57.054Z",
+  "imagePath": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null
+},
+{
+  "_id": {
+    "$oid": "69fca8e57d89a2c17023fbfa"
+  },
+  "vendorName": "WMS Jacksonville",
+  "vendorNumber": "850-657-6720",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T14:58:37.422Z",
+  "imagePath": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null
+},
+{
+  "_id": {
+    "$oid": "69fca8e57d89a2c17023fbfb"
+  },
+  "vendorName": "WMS Quincy",
+  "vendorNumber": "850-657-8952",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T14:59:02.582Z",
+  "imagePath": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null
+},
+{
+  "_id": {
+    "$oid": "69fca8e57d89a2c17023fbfc"
+  },
+  "vendorName": "WMS Tallahassee",
+  "vendorNumber": "850-395-1250",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T14:59:21.838Z",
+  "imagePath": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null
+},
+{
+  "_id": {
+    "$oid": "6a394d727d89a2c17023feea"
+  },
+  "vendorName": "IPS Integrated Power Services (TAW)",
+  "vendorNumber": null,
+  "vendorEmail": "harriscomm@ips.us",
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "lastEditedTimestamp": "2026-06-18T13:46:15.196Z",
+  "imagePath": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null
+},
+{
+  "_id": {
+    "$oid": "6a394d727d89a2c17023feeb"
+  },
+  "vendorName": "Peak Power Services",
+  "vendorNumber": "813-248-5200 (After Hours) 813-676-7916",
+  "vendorEmail": "commercialservice@peakpowerservices.com",
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "lastEditedTimestamp": "2026-06-18T13:57:42.529Z",
+  "imagePath": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null
+},
+{
+  "_id": {
+    "$oid": "6a394d727d89a2c17023feec"
+  },
+  "vendorName": "On-Site Group",
+  "vendorNumber": "407-832-3353",
+  "vendorEmail": "onsitegroupinc1@gmail.com",
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "lastEditedTimestamp": "2026-06-18T14:02:08.626Z",
+  "imagePath": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null
+},
+{
+  "_id": {
+    "$oid": "6a394d727d89a2c17023feed"
+  },
+  "vendorName": "EOLA Power",
+  "vendorNumber": "800-399-7414",
+  "vendorEmail": [
+    "dfriedman@eolapower.com",
+    "ndiaz@eolapower.com"
+  ],
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "lastEditedTimestamp": "2026-06-18T16:54:16.433Z",
+  "imagePath": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null
+},
+{
+  "_id": {
+    "$oid": "6a394d727d89a2c17023feee"
+  },
+  "vendorName": "Power Systems Specialists",
+  "vendorNumber": null,
+  "vendorEmail": "bulletproofpower@gmail.com",
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "lastEditedTimestamp": "2026-06-18T17:04:17.550Z",
+  "imagePath": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null
+},
+{
+  "_id": {
+    "$oid": "6a394d727d89a2c17023feef"
+  },
+  "vendorName": "Custom Tower",
+  "vendorNumber": "337-303-7810",
+  "vendorEmail": "ricky@customtowerllc.com",
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "lastEditedTimestamp": "2026-06-18T17:33:05.367Z",
+  "imagePath": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null
+},
+{
+  "_id": {
+    "$oid": "6a394d727d89a2c17023fef0"
+  },
+  "vendorName": "Impact Tower",
+  "vendorNumber": null,
+  "vendorEmail": "impact.telecomm@gmail.com",
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "lastEditedTimestamp": "2026-06-18T17:40:36.304Z",
+  "imagePath": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null
+},
+{
+  "_id": {
+    "$oid": "6a394d727d89a2c17023fef1"
+  },
+  "vendorName": "Innovative Towers",
+  "vendorNumber": "352-210-0904",
+  "vendorEmail": "EJones@inntow.com",
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "lastEditedTimestamp": "2026-06-18T17:50:43.022Z",
+  "imagePath": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null
+},
+{
+  "_id": {
+    "$oid": "6a394d727d89a2c17023fef2"
+  },
+  "vendorName": "International Towers",
+  "vendorNumber": "708-825-3091",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "lastEditedTimestamp": "2026-06-18T17:55:34.571Z",
+  "imagePath": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null
+},
+{
+  "_id": {
+    "$oid": "6a394d727d89a2c17023fef3"
+  },
+  "vendorName": "New-Tech Towers",
+  "vendorNumber": null,
+  "vendorEmail": "chris.miller@ntctowers.com",
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "lastEditedTimestamp": "2026-06-18T17:58:09.612Z",
+  "imagePath": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null
+},
+{
+  "_id": {
+    "$oid": "6a394d727d89a2c17023fef4"
+  },
+  "vendorName": "Peak Power Tower",
+  "vendorNumber": null,
+  "vendorEmail": "dscharlach@peakpowerservices.com",
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "lastEditedTimestamp": "2026-06-18T18:00:01.663Z",
+  "imagePath": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff13"
+  },
+  "vendorName": "CENTRAL FLORIDA ELECTRIC COOPERATIVE",
+  "vendorNumber": "800-227-1302",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T15:24:50.335Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff14"
+  },
+  "vendorName": "CENTRAL FLORIDA POWER",
+  "vendorNumber": "352-493-2511",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T15:39:12.447Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff15"
+  },
+  "vendorName": "CHOCTAWHATCHEE ELECTRIC CORP",
+  "vendorNumber": "800-342-0990",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T15:39:35.347Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff16"
+  },
+  "vendorName": "CITY OF ALACHUA ELECTRICITY",
+  "vendorNumber": "386-462-1231 (Afterhours)  386-418-6185",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T15:40:59.352Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff17"
+  },
+  "vendorName": "CITY OF OCALA",
+  "vendorNumber": "352-351-6666",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T15:41:28.858Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff18"
+  },
+  "vendorName": "CITY OF QUINCY",
+  "vendorNumber": "850-627-9506",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T15:41:56.855Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff19"
+  },
+  "vendorName": "CITY OF TALLAHASSEE",
+  "vendorNumber": "850-891-4968",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T15:53:33.936Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff1a"
+  },
+  "vendorName": "CLAY ELECTRIC COOP",
+  "vendorNumber": "855-939-3840",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T15:53:52.649Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff1b"
+  },
+  "vendorName": "DUKE ENERGY",
+  "vendorNumber": "877-372-8477",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T15:54:16.677Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff1c"
+  },
+  "vendorName": "ESCAMBIA RURAL ELECTRIC",
+  "vendorNumber": "877-688-3732",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T15:54:34.244Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff1d"
+  },
+  "vendorName": "FLORIDA KEYS ELECTRIC",
+  "vendorNumber": "800-858-8845",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T15:57:44.193Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff1e"
+  },
+  "vendorName": "FLORIDA POWER & LIGHT",
+  "vendorNumber": "800-468-8243",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T15:58:03.721Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff1f"
+  },
+  "vendorName": "FLORIDA PUBLIC UTILITIES",
+  "vendorNumber": "800-427-7712",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T15:58:20.708Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff20"
+  },
+  "vendorName": "GAINESVILLE REGIONAL",
+  "vendorNumber": "800-818-3436",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T15:58:39.355Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff21"
+  },
+  "vendorName": "GLADES ELECTRIC",
+  "vendorNumber": "800-226-4024",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T15:58:56.775Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff22"
+  },
+  "vendorName": "GLADES UTILITY",
+  "vendorNumber": "863-946-0061",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T15:59:22.826Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff23"
+  },
+  "vendorName": "WALTON COUNTY ELECTRIC (Greg Boyd)",
+  "vendorNumber": "678-714-8544",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T15:59:57.465Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff24"
+  },
+  "vendorName": "GULF COAST",
+  "vendorNumber": "850-265-3631 (Afterhours) 334-427-3360",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T16:00:38.223Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff25"
+  },
+  "vendorName": "GULF POWER CORP",
+  "vendorNumber": "800-225-5797",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T16:01:00.758Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff26"
+  },
+  "vendorName": "JACKSONVILLE ELECTRIC",
+  "vendorNumber": "904-665-6000",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T16:01:15.450Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff27"
+  },
+  "vendorName": "KEYS ENERGY SERVICES",
+  "vendorNumber": "305-295-1000",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T16:01:35.029Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff28"
+  },
+  "vendorName": "LAKELAND ELECTRIC",
+  "vendorNumber": "863-834-9535",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T16:01:55.207Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff29"
+  },
+  "vendorName": "LEE COUNTY COOPS",
+  "vendorNumber": "800-282-1643",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T16:02:12.047Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff2a"
+  },
+  "vendorName": "SUMTER ELECTRIC",
+  "vendorNumber": "800-732-6141",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T16:02:27.613Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff2b"
+  },
+  "vendorName": "LCEC",
+  "vendorNumber": "239-656-2300",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T16:02:42.767Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff2c"
+  },
+  "vendorName": "CITY OF GREEN COVE",
+  "vendorNumber": "904-297-7300",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T16:03:06.999Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff2d"
+  },
+  "vendorName": "OKEFENOKE ELECTRIC",
+  "vendorNumber": "800-262-5131",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T16:03:23.177Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff2e"
+  },
+  "vendorName": "OUC - ORLANDO UTILITY COM",
+  "vendorNumber": "407-423-9018",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T16:03:44.971Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff2f"
+  },
+  "vendorName": "PEACE RIVER ELECTRIC",
+  "vendorNumber": "800-282-3824",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T16:04:01.508Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff30"
+  },
+  "vendorName": "SPRINT",
+  "vendorNumber": "877-520-5002",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T16:04:17.679Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff31"
+  },
+  "vendorName": "SUWANNEE VALLEY ELECTRIC",
+  "vendorNumber": "386-364-5200",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T16:04:58.476Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff32"
+  },
+  "vendorName": "TALQUIN ELECTRIC",
+  "vendorNumber": "850-627-7651",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T16:05:14.089Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff33"
+  },
+  "vendorName": "TAMPA ELECTRIC COMPANY",
+  "vendorNumber": "888-223-0800",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T16:05:31.607Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff34"
+  },
+  "vendorName": "TRI COUNTY ELECTRIC",
+  "vendorNumber": "850-973-2285",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T16:05:50.031Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff35"
+  },
+  "vendorName": "WEST FLORIDA ELECTRIC",
+  "vendorNumber": "844-688-2431",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T16:06:36.316Z"
+},
+{
+  "_id": {
+    "$oid": "6a469c047d89a2c17023ff36"
+  },
+  "vendorName": "WITHLACOOCHEE RIVER ELECTRIC",
+  "vendorNumber": "352-795-4382",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-02T16:06:52.939Z"
+},
+{
+  "_id": {
+    "$oid": "6a4e68f17d89a2c17023ff3a"
+  },
+  "vendorName": "LUMENSERVE",
+  "vendorNumber": null,
+  "vendorEmail": "kevin.bethke@lumenserve.com",
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-08T15:10:35.197Z"
+},
+{
+  "_id": {
+    "$oid": "6a512aa57d89a2c17023ff43"
+  },
+  "vendorName": "Palmdale Oil",
+  "vendorNumber": null,
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-10T17:21:07.499Z"
+},
+{
+  "_id": {
+    "$oid": "6a512aa57d89a2c17023ff44"
+  },
+  "vendorName": "Jaguar Fuel",
+  "vendorNumber": null,
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-10T17:21:16.872Z"
+},
+{
+  "_id": {
+    "$oid": "6a512aa57d89a2c17023ff45"
+  },
+  "vendorName": "Suburban Propane",
+  "vendorNumber": null,
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-07-10T17:21:50.996Z"
+}]

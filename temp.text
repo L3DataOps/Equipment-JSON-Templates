@@ -1,0 +1,35 @@
+{
+    "siteName": "Enter Site Name",
+    "altSiteName": "Alt SiteName",
+    "siteNumber": "Enter ROOT site number",
+    "network": "SLERS or SLERS 2",
+    "address": "    ",
+    "city": "   ",
+    "state": "FL",
+    "zip": "    ",
+    "county": " ",
+    "region": " ",
+    "imc": "    ",
+    "latitude": 0,
+    "longitude": 0,
+    "asrNumber": "  ",
+    "towerOwner": " ",
+    "gateCode": "   ",
+    "channelCount": 0,
+    "isMicrowaveOnly": false,
+    "additionalInfo": " ",
+    "timezone": "Central or Eastern",
+    "defaultVendor": {
+      "$oid": "Enter ObjectID from MOngoDB Here"
+    },
+    "tanks": {
+      "$oid": "Enter ObjectID from MOngoDB Here"
+    },
+    "dispatch": {
+      "$oid": "Enter ObjectID from MOngoDB Here"
+    },
+    "lastEditedBy": {
+      "$oid": "Enter ObjectID from MOngoDB Here"
+    },
+    "lastEditedTimestamp": null
+  },

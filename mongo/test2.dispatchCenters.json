@@ -1,0 +1,728 @@
+[{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fbff"
+  },
+  "dispatchName": "Fort Myers Florida Highway Patrol",
+  "dispatchAltName": "FMRCC FHP",
+  "dispatchPhoneNumber": "239-938-1800",
+  "disptachExtension": "3",
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T15:52:20.833Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc00"
+  },
+  "dispatchName": "Jacksonville Florida Highway Patrol",
+  "dispatchAltName": "JRCC FHP",
+  "dispatchPhoneNumber": "904-301-3700",
+  "disptachExtension": "8",
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T15:55:33.924Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc01"
+  },
+  "dispatchName": "Lake Worth Florida Highway Patrol",
+  "dispatchAltName": "LWRCC FHP",
+  "dispatchPhoneNumber": "561-357-4051",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T15:56:21.420Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc02"
+  },
+  "dispatchName": "Miami Florida Highway Patrol",
+  "dispatchAltName": "MRCC FHP",
+  "dispatchPhoneNumber": "305-470-2500",
+  "disptachExtension": "3",
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T15:57:02.024Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc03"
+  },
+  "dispatchName": "Sanford Florida Highway Patrol",
+  "dispatchAltName": "SRCC FHP",
+  "dispatchPhoneNumber": "407-737-2200",
+  "disptachExtension": "3",
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T15:58:08.202Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc04"
+  },
+  "dispatchName": "Tallahassee Florida Highway Patrol",
+  "dispatchAltName": "TRCC FHP",
+  "dispatchPhoneNumber": "800-459-6861",
+  "disptachExtension": "8",
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T15:59:40.355Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc05"
+  },
+  "dispatchName": "Tampa Florida Highway Patrol",
+  "dispatchAltName": "TBRCC FHP",
+  "dispatchPhoneNumber": "813-631-4020",
+  "disptachExtension": "3",
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T16:00:33.515Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc06"
+  },
+  "dispatchName": "Lake Worth Fish and Wildlife Conservation Commission",
+  "dispatchAltName": "LWRCC FWCC",
+  "dispatchPhoneNumber": "561-357-4202",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T16:02:34.408Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc07"
+  },
+  "dispatchName": "Sanford Fish and Wildlife Conservation Commission",
+  "dispatchAltName": "SRCC FWCC",
+  "dispatchPhoneNumber": "407-275-4150",
+  "disptachExtension": "7",
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T16:04:19.912Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc08"
+  },
+  "dispatchName": "Tallahassee Fish and Wildlife Conservation Commission",
+  "dispatchAltName": "TRCC FWCC",
+  "dispatchPhoneNumber": "850-245-7716",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T16:05:15.347Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc09"
+  },
+  "dispatchName": "Jacksonville Fish and Wildlife Conservation Commission",
+  "dispatchAltName": "JRCC FWCC",
+  "dispatchPhoneNumber": "904-359-3883",
+  "disptachExtension": "7",
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T16:06:01.566Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc0a"
+  },
+  "dispatchName": "Tampa Fish and Wildlife Conservation Commission",
+  "dispatchAltName": "TBRCC FWCC",
+  "dispatchPhoneNumber": "813-558-5050",
+  "disptachExtension": "7",
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T16:10:09.243Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc0b"
+  },
+  "dispatchName": "Miami Fish and Wildlife Conservation Commission",
+  "dispatchAltName": "MRCC FWCC",
+  "dispatchPhoneNumber": "305-470-6863",
+  "disptachExtension": "1",
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T16:11:13.246Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc0c"
+  },
+  "dispatchName": "Baker County Sheriffs Office",
+  "dispatchAltName": "Baker County SO",
+  "dispatchPhoneNumber": "904-259-2861",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T16:16:30.284Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc0d"
+  },
+  "dispatchName": "Bradford County Sheriffs Office",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "904-966-6161",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T16:18:17.867Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc0e"
+  },
+  "dispatchName": "Broward County EMS",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "954-831-8200",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T16:21:39.956Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc0f"
+  },
+  "dispatchName": "Capitol Police",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "850-488-1790",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T16:22:16.402Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc10"
+  },
+  "dispatchName": "Carrabelle Police Department",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "850-323-0061",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T16:23:42.560Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc11"
+  },
+  "dispatchName": "City of Miami Police",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "305-579-3449",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T16:24:28.262Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc12"
+  },
+  "dispatchName": "City of Miami Fire",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "305-579-6275",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T16:25:33.991Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc13"
+  },
+  "dispatchName": "Chiefland Police Department",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "352-493-6779",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T16:28:46.403Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc14"
+  },
+  "dispatchName": "Destin Battalion Chief",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "850-837-8413",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T16:29:37.367Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc15"
+  },
+  "dispatchName": "Destin Fire Control",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "850-837-3879",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T16:30:06.832Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc16"
+  },
+  "dispatchName": "Dixie County Sheriffs Office",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "352-498-1231",
+  "disptachExtension": "0",
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T16:31:04.675Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc17"
+  },
+  "dispatchName": "Franklin County Sheriffs Office",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "850-670-8500",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T16:34:15.479Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc18"
+  },
+  "dispatchName": "Glades County",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "863-946-1600",
+  "disptachExtension": "2169",
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T16:35:54.717Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc19"
+  },
+  "dispatchName": "Hendry County Sheriffs Office",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "863-674-0406",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T16:40:39.947Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc1a"
+  },
+  "dispatchName": "Hillsborough County Sheriffs Office",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "813-247-8200",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T16:41:16.330Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc1b"
+  },
+  "dispatchName": "Lafayette County Sheriff Office",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "386-294-1222",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T16:43:07.748Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc1c"
+  },
+  "dispatchName": "Levy County Department of Public Safety",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "352-486-3387",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T16:50:45.013Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc1d"
+  },
+  "dispatchName": "Levy County Sheriffs Office",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "352-486-5111",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T16:51:11.912Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc1e"
+  },
+  "dispatchName": "Miami-Dade County (Allen Smoak)",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "305-546-2104",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T16:52:36.035Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc1f"
+  },
+  "dispatchName": "Okaloosa County EMS",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "850-689-5755",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T16:53:16.124Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc20"
+  },
+  "dispatchName": "Okaloosa County Sheriffs Office",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "850-651-7400",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T16:55:49.889Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc21"
+  },
+  "dispatchName": "Okeechobee County DPS (Earl Wooten)",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "863-763-5544",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T16:57:27.348Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc22"
+  },
+  "dispatchName": "Okeechobee Police Department",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "863-763-5521",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T16:57:55.273Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc23"
+  },
+  "dispatchName": "Okeechobee Sheriffs Office",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "863-763-3117",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T16:58:31.452Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc24"
+  },
+  "dispatchName": "Port St. Joe Police",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "850-229-8265",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T16:59:29.040Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc25"
+  },
+  "dispatchName": "Road Rangers (Lakeland)",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "813-564-5681",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T17:01:31.558Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc26"
+  },
+  "dispatchName": "Road Rangers (McCaw, Clearwater, Tampa IMC)",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "813-615-8660",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T17:01:54.015Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc27"
+  },
+  "dispatchName": "Seminole Big Cypress Dispatch",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "863-983-2285",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T16:17:22.496Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc28"
+  },
+  "dispatchName": "Seminole Brighton Dispatch",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "863-763-5731",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T17:20:47.062Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc29"
+  },
+  "dispatchName": "Seminole Hollywood Dispatch",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "954-967-8900",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T17:21:17.870Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc2a"
+  },
+  "dispatchName": "Seminole Tampa Dispatch",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "954-931-8956",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T17:22:04.080Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc2b"
+  },
+  "dispatchName": "South Walton Fire Department",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "850-267-0167",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T17:23:44.074Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc2c"
+  },
+  "dispatchName": "Seminole Dispatch",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "954-967-8900",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T17:24:14.907Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc2d"
+  },
+  "dispatchName": "Seminole Tribe",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "954-967-8900",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T17:24:44.809Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc2e"
+  },
+  "dispatchName": "Sumter County Sheriffs Office",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "352-793-2621",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T17:26:00.774Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc2f"
+  },
+  "dispatchName": "Taylor County",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "850-584-2429",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T17:26:50.735Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc30"
+  },
+  "dispatchName": "Union County Sheriffs Office",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "386-496-4300",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T17:28:01.045Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc31"
+  },
+  "dispatchName": "Valparaiso Police Department",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "850-729-5400",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T17:28:55.106Z"
+},
+{
+  "_id": {
+    "$oid": "69fcd4577d89a2c17023fc32"
+  },
+  "dispatchName": "Walton County Sheriffs Office",
+  "dispatchAltName": null,
+  "dispatchPhoneNumber": "850-892-8111",
+  "disptachExtension": null,
+  "dispatchEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-05-07T17:30:20.579Z"
+}]

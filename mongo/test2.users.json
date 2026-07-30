@@ -1,0 +1,352 @@
+[{
+  "_id": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "username": "dtoolsee",
+  "password": "$2b$10$/zlHHdqCkF1WiQQ3KpR1aeJmhqh8/pJTlADUhZ/hZzGUcxRjVeWaC",
+  "role": "admin",
+  "firstname": "Daniel",
+  "lastname": "Toolsee",
+  "email": "daniel.toolsee@l3harris.com"
+},
+{
+  "_id": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "username": "mperez",
+  "password": "$2b$10$rWeovMOZjGIRgeT/swv5meCw9aZOlwpiY3IpyAgWHvG6myI3Nw70K",
+  "role": "admin",
+  "firstname": "Marcos",
+  "lastname": "Perez",
+  "email": "marcos.perez@l3harris.com"
+},
+{
+  "_id": {
+    "$oid": "69fc9a275d7502a03d84520f"
+  },
+  "username": "ogarcia",
+  "password": "$2b$10$gozZZfwBhguzgc53maFB9ejlxiZbXyAPBurcuQNwAJn.gZHyxwyf.",
+  "role": "admin",
+  "firstname": "Ozzy",
+  "lastname": "Garcia",
+  "email": "ozzy.garcia@l3harris.com"
+},
+{
+  "_id": {
+    "$oid": "69fc9a275d7502a03d845210"
+  },
+  "username": "scrouch",
+  "password": "$2b$10$9uAwrizeZA1WtgzsNF0qfOC74bdjZbVhzTjGgZRnayoP9P051khJm",
+  "role": "admin",
+  "firstname": "Steve",
+  "lastname": "Crouch",
+  "email": "steve.crouch@l3harris.com"
+},
+{
+  "_id": {
+    "$oid": "69fc9a275d7502a03d845211"
+  },
+  "username": "bstewart",
+  "password": "$2b$10$npED0ruCgqwz2xLpXWMDwObQZZ5FKcrlav95IXSnMBb6ycm980UmO",
+  "role": "admin",
+  "firstname": "Brandon",
+  "lastname": "Stewart",
+  "email": "brandon.stewart@l3harris.com"
+},
+{
+  "_id": {
+    "$oid": "69fc9a275d7502a03d845212"
+  },
+  "username": "cford",
+  "password": "$2b$10$DnvxPpS7utOuaUJ0213oLed8UI9V58c2qxG8sesd2wCjfMp6OFlqa",
+  "role": "noc",
+  "firstname": "Chandler",
+  "lastname": "Ford",
+  "email": "chandler.ford@l3harris.com"
+},
+{
+  "_id": {
+    "$oid": "69fc9a275d7502a03d845213"
+  },
+  "username": "ldobbins",
+  "password": "$2b$10$/53Qja1WR/H.4PUKe78nK.tgc8sw.hoRiT1m3hEnnWxV4wdo1SCai",
+  "role": "noc",
+  "firstname": "Lucas",
+  "lastname": "Dobbins",
+  "email": "lucas.dobbins@l3harris.com"
+},
+{
+  "_id": {
+    "$oid": "69fc9a275d7502a03d845214"
+  },
+  "username": "jcannon",
+  "password": "$2b$10$8kP0Gjcq5BYdjJEW7Y4vs.xEQAS.sIwkdUmHwGZ.I.ipFJ1nx0YoC",
+  "role": "noc",
+  "firstname": "Jeff",
+  "lastname": "Cannon",
+  "email": "jeff.cannon@l3harris.com"
+},
+{
+  "_id": {
+    "$oid": "69fc9a275d7502a03d845215"
+  },
+  "username": "kwhite",
+  "password": "$2b$10$kVUn2GxRxD0ctGhFTmy.u.FfW8Np9lPObe5CcoDawRUfNTFyZhwFO",
+  "role": "noc",
+  "firstname": "Kevin",
+  "lastname": "White",
+  "email": "kevin.r.white@l3harris.com"
+},
+{
+  "_id": {
+    "$oid": "69fc9a275d7502a03d845216"
+  },
+  "username": "tobriant",
+  "password": "$2b$10$MCjZhuqGdJ5Vy4Yl8vXV3.nvF9i1orT5kigIx/v4AJcttPTudfaie",
+  "role": "noc",
+  "firstname": "Terry",
+  "lastname": "OBriant",
+  "email": "terry.obriant@l3harris.com"
+},
+{
+  "_id": {
+    "$oid": "69fc9a275d7502a03d845217"
+  },
+  "username": "tjohnson",
+  "password": "$2b$10$lHnqa3gDW1hfl..oT3780O6thG3DBe3boNqgGmL4oW2BmSX4b5DDe",
+  "role": "noc",
+  "firstname": "Terry",
+  "lastname": "Johnson",
+  "email": "terry.johnson@l3harris.com"
+},
+{
+  "_id": {
+    "$oid": "69fc9a275d7502a03d845218"
+  },
+  "username": "smorris",
+  "password": "$2b$10$c0OmHAGCJ0jntn9C1sCK7upjW5qVe7eOdMqQkKU1mNAj1tDnyZ8cm",
+  "role": "noc",
+  "firstname": "Shawn",
+  "lastname": "Morris",
+  "email": "shawn.g.morris@l3harris.com"
+},
+{
+  "_id": {
+    "$oid": "69fc9a275d7502a03d845219"
+  },
+  "username": "rbeckler",
+  "password": "$2b$10$YK6zxssrDVVkXwm1mHc.M.TbQCf2qPvbexfXnOr39r9ASqt9pWhia",
+  "role": "noc",
+  "firstname": "Roger",
+  "lastname": "Beckler",
+  "email": "roger.beckler@l3harris.com"
+},
+{
+  "_id": {
+    "$oid": "69fc9a275d7502a03d84521a"
+  },
+  "username": "bblankenship",
+  "password": "$2b$10$WIIEpmF3ENar8B.kDTyrc.2xVDh9nX2tByebPl1ds9YsCO30R5HOK",
+  "role": "noc",
+  "firstname": "Brian",
+  "lastname": "Blankenship",
+  "email": "brian.blankenship@l3harris.com"
+},
+{
+  "_id": {
+    "$oid": "69fc9a275d7502a03d84521b"
+  },
+  "username": "jschley",
+  "password": "$2b$10$iXiiOmCVAfpo5hffFrF.Hu3gnc/FHUHFDkL4zU/l47CRrrWpQx2ya",
+  "role": "noc",
+  "firstname": "Joshua",
+  "lastname": "Schley",
+  "email": "josh.schley@l3harris.com"
+},
+{
+  "_id": {
+    "$oid": "69fc9a275d7502a03d84521c"
+  },
+  "username": "ksmallwood",
+  "password": "$2b$10$EZ4GvKkdA1eMP2Hy8mV.aOG5e5M8ASQxBKvpWgH4JZFJonQYar/aq",
+  "role": "noc",
+  "firstname": "Keith",
+  "lastname": "Smallwood",
+  "email": "keith.smallwood@l3harris.com"
+},
+{
+  "_id": {
+    "$oid": "69fc9a275d7502a03d84521d"
+  },
+  "username": "lnatta",
+  "password": "$2b$10$L6SO6C9b58MwcCyjTp7wuOZZK6YgHde6K01njSZt4ndhx1Gh8SIOi",
+  "role": "noc",
+  "firstname": "Leo",
+  "lastname": "Natta",
+  "email": "leo.natta@l3harris.com"
+},
+{
+  "_id": {
+    "$oid": "69fc9a275d7502a03d84521e"
+  },
+  "username": "adionicio",
+  "password": "$2b$10$xQNDA8q/xNRNuWkV3s1K8.75DzboBFSHRbJqDm5b9yLk5WlKb64b2",
+  "role": "noc",
+  "firstname": "Alvin",
+  "lastname": "Dionicio",
+  "email": "alvin.dionicio@l3harris.com"
+},
+{
+  "_id": {
+    "$oid": "69fc9a275d7502a03d84521f"
+  },
+  "username": "rmambru",
+  "password": "$2b$10$fjvkNht/LfqeKE4nPNKI8.ovqxadUHqAqsCQ.cSJKQFI6J3Sg29du",
+  "role": "noc",
+  "firstname": "Raudy",
+  "lastname": "Mambru",
+  "email": "raudy.mambru@l3harris.com"
+},
+{
+  "_id": {
+    "$oid": "69fc9a275d7502a03d845220"
+  },
+  "username": "ddominguez",
+  "password": "$2b$10$q6wZSg9xqNW/Fjuhgnrgv.AooyLW9CJRjefqVr7q0AaCReMDtRi16",
+  "role": "noc",
+  "firstname": "Dixie",
+  "lastname": "Dominguez",
+  "email": "dixie.dominguez@l3harris.com"
+},
+{
+  "_id": {
+    "$oid": "69fc9a275d7502a03d845221"
+  },
+  "username": "sdaniel",
+  "password": "$2b$10$Fh5srBEfDO3y2sujcI1Fi.sHd85n2PFqi0/4I1R29jPNY1EsV3qCS",
+  "role": "noc",
+  "firstname": "Shadia",
+  "lastname": "Daniel",
+  "email": "shadia.daniel@l3harris.com"
+},
+{
+  "_id": {
+    "$oid": "69fc9a275d7502a03d845222"
+  },
+  "username": "liletsin",
+  "password": "$2b$10$W8uQw3posSwu3IDFjJAXQebuWrbd63kFQi24bfP8iFbdB9lN1efsa",
+  "role": "noc",
+  "firstname": "Lens",
+  "lastname": "Iletsin",
+  "email": "lens.iletsin@l3harris.com"
+},
+{
+  "_id": {
+    "$oid": "69fc9a275d7502a03d845223"
+  },
+  "username": "csanchez",
+  "password": "$2b$10$/RDG4xcbgno.pmIHcWe49udlCGBufVvoSVmcbEC87JU/A42SHCy4m",
+  "role": "noc",
+  "firstname": "Carlos",
+  "lastname": "Sanchez",
+  "email": "carlos.sanchez@l3harris.com"
+},
+{
+  "_id": {
+    "$oid": "69fc9a275d7502a03d845224"
+  },
+  "username": "bpurvis",
+  "password": "$2b$10$/uE/lsxCklgLZ0jAyzIujOakGQlgb8XF7CRYebs5LdKH7CWN0AHES",
+  "role": "noc",
+  "firstname": "Bret",
+  "lastname": "Purvis",
+  "email": "bret.purvis@l3harris.com"
+},
+{
+  "_id": {
+    "$oid": "69fc9a275d7502a03d845225"
+  },
+  "username": "aarjona",
+  "password": "$2b$10$4OMSBV/EuKHAidmKjmmSH.7DFaAW8DFuMhF3/shRRPes9Zxqtv4Ke",
+  "role": "noc",
+  "firstname": "Andrew",
+  "lastname": "Arjona",
+  "email": "andrew.arjona@l3harris.com"
+},
+{
+  "_id": {
+    "$oid": "69fc9a275d7502a03d845226"
+  },
+  "username": "mblair",
+  "password": "$2b$10$KTTOkSotkwAZ5EL090n4lOxF1WIOcECH5VWnA/DWyptjTYxy6Zhka",
+  "role": "noc",
+  "firstname": "Mac",
+  "lastname": "Blair",
+  "email": "christian.blair@l3harris.com"
+},
+{
+  "_id": {
+    "$oid": "69fc9a275d7502a03d845227"
+  },
+  "username": "jdalton",
+  "password": "$2b$10$u17tvhJOKnwnKKjfxnZ9aeNMgvxuxKHxqtsbBa5k/4p3px7S8FA6m",
+  "role": "noc",
+  "firstname": "Joey",
+  "lastname": "Dalton",
+  "email": "joseph.dalton@l3harris.com"
+},
+{
+  "_id": {
+    "$oid": "69fc9a275d7502a03d845228"
+  },
+  "username": "mlewis",
+  "password": "$2b$10$C9l42LDMIl666R5EwgPV6uje1ibfsaCBEtvUWqcq7WsGRhHsBK7LS",
+  "role": "noc",
+  "firstname": "Myles",
+  "lastname": "Lewis",
+  "email": "myles.lewis@l3harris.com"
+},
+{
+  "_id": {
+    "$oid": "69fc9a275d7502a03d845229"
+  },
+  "username": "kbehanna",
+  "password": "$2b$10$p7.HZ4ghDznnTTrq3JdJF.s3R5UYDq.8o/BvgdS9fnHiLc93bYWDC",
+  "role": "noc",
+  "firstname": "Kevin",
+  "lastname": "Behanna",
+  "email": "kevin.behanna@l3harris.com"
+},
+{
+  "_id": {
+    "$oid": "69fc9a275d7502a03d84522a"
+  },
+  "username": "kratliff",
+  "password": "$2b$10$bwysZ/UaP4j5x3PeneyEnOpJtMuqX645IgL/r24isKVCfpIKAeZoG",
+  "role": "noc",
+  "firstname": "Kevin",
+  "lastname": "Ratliff",
+  "email": "kevin.ratliff@l3harris.com"
+},
+{
+  "_id": {
+    "$oid": "69fc9a275d7502a03d84522b"
+  },
+  "username": "vmarzello",
+  "password": "$2b$10$22JibqO6WXaU.QaK11BryejP/dxgVY9s01FbEllJ38eL67awDwDlq",
+  "role": "noc",
+  "firstname": "Vinny",
+  "lastname": "Marzello",
+  "email": "vinny.marzello@l3harris.com"
+},
+{
+  "_id": {
+    "$oid": "69fc9a275d7502a03d84522c"
+  },
+  "username": "ftorres",
+  "password": "$2b$10$4rynvOuJ5h5cdr6MuPzW0usB2Uz92CjRxB1rsL/i79hNuYIWNCCfG",
+  "role": "noc",
+  "firstname": "Felix",
+  "lastname": "Torres",
+  "email": "felix.torres@l3harris.com"
+}]

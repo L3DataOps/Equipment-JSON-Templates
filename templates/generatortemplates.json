@@ -1,0 +1,49 @@
+[
+    {
+        "type": "Generator",
+        "caseType": "Work Order",
+        "siteid": { "$oid": "Enter ObjectID from MongoDB Here" }, 
+        "equipmentName": "SiteName Generator",
+        "equipmentID": "Enter AMMS equipment number here",
+        "serialNumber": "",
+        "make": "Manufacturer",
+        "model": "Model Number",
+        "fuelType": "Propane or Diesel",
+        "capacity": "Enter KW value here",
+        "dateInstalled": "",
+        "batteryDate": "",
+        "exerciseDay": "",
+        "exerciseTime": "",
+        "runTime": 0,
+        "additionalInfo": "",
+        "pmFrequency": "Annual",
+        "pmReminder": 10,
+        "pmNeeded": true,
+        "lastPM": [
+            {
+                "completionDate": "",
+                "caseNumber": null
+            }
+        ],
+        "defaultVendor": { "$oid": "Enter ObjectID from MOngoDB Here" },
+        "email": { "$oid": "Enter ObjectID from MOngoDB Here" },
+        "lastEditedBy":{ "$oid": "Enter ObjectID from MOngoDB Here" },
+        "lastEditedTimestamp": null
+    },
+    {
+        "type": "Automatic Transfer Switch",
+        "caseType": "Work Order",
+        "siteid": { "$oid": "Enter ObjectID from MongoDB Here" }, 
+        "equipmentName": "SiteName ATS",
+        "equipmentID": "Enter AMMS equipment number here",
+        "serialNumber": "",
+        "make": "Manufacturer",
+        "model": "Model Number",
+        "dateInstalled": "",
+        "additionalInfo": "",
+        "defaultVendor": { "$oid": "Enter ObjectID from MOngoDB Here" },
+        "email":{ "$oid": "Enter ObjectID from MOngoDB Here" },
+        "lastEditedBy":{ "$oid": "Enter ObjectID from MOngoDB Here" },
+        "lastEditedTimestamp": null
+    }
+]
