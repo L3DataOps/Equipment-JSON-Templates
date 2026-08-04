@@ -1,0 +1,82 @@
+[
+  {
+    "type": "HVAC",
+    "caseType": "Work Order",
+    "collection": "HVAC",
+    "network": "SLERS 2",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fdf1"
+    },
+    "equipmentName": "Meacham HVAC 1",
+    "equipmentID": "R850S135XH1",
+    "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+    "make": "BARD",
+    "model": "WA421-AO5XP5XXJ",
+    "serialNumber": "126B021706349-02",
+    "capacity": "LEFT",
+    "dateInstalled": null,
+    "pmFrequency": "Annual",
+    "pmReminder": 10,
+    "pmNeeded": true,
+    "lastPM": [],
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "6a394d727d89a2c17023feeb"
+    },
+    "imagePath": null,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "email": [
+      "commercialservice@peakpowerservices.com",
+      "kevin.behana@l3harris.com",
+      "dan.keppel@l3harris.com",
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedTimestamp": "2026-06-29T13:47:32.024Z"
+  },
+  {
+    "type": "HVAC",
+    "caseType": "Work Order",
+    "collection": "HVAC",
+    "network": "SLERS 2",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fdf1"
+    },
+    "equipmentName": "Meacham HVAC 2",
+    "equipmentID": "R850S135XH2",
+    "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+    "make": "BARD",
+    "model": "WA421-AO5XP5XXJ",
+    "serialNumber": "126B021706348-02",
+    "capacity": "RIGHT",
+    "dateInstalled": null,
+    "pmFrequency": "Annual",
+    "pmReminder": 10,
+    "pmNeeded": true,
+    "lastPM": [],
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "6a394d727d89a2c17023feeb"
+    },
+    "imagePath": null,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "email": [
+      "commercialservice@peakpowerservices.com",
+      "kevin.behana@l3harris.com",
+      "dan.keppel@l3harris.com",
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedTimestamp": "2026-06-29T13:55:58.975Z"
+  }
+]

@@ -1,0 +1,196 @@
+[
+  {
+    "type": "Tower",
+    "caseType": "Ticket",
+    "collection": "Tower",
+    "network": "SLERS 2",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fdf1"
+    },
+    "equipmentName": "Meacham Tower",
+    "equipmentID": "R850S135XT",
+    "serialNumber": null,
+    "make": null,
+    "model": null,
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbfb"
+    },
+    "imagePath": null,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "email": [
+      null,
+      "kevin.behana@l3harris.com",
+      "dan.keppel@l3harris.com",
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedTimestamp": "2026-07-09T12:42:31.141Z"
+  },
+  {
+    "type": "Combiner",
+    "caseType": "Ticket",
+    "collection": "Tower",
+    "network": "SLERS 2",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fdf1"
+    },
+    "equipmentName": "Meacham Combiner 1",
+    "equipmentID": "R850S135U1CMB",
+    "serialNumber": null,
+    "make": null,
+    "model": null,
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbfb"
+    },
+    "imagePath": null,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "email": [
+      null,
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedTimestamp": "2026-07-09T12:56:21.167Z"
+  },
+  {
+    "type": "Combiner",
+    "caseType": "Ticket",
+    "collection": "Tower",
+    "network": "SLERS 2",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fdf1"
+    },
+    "equipmentName": "Meacham Combiner 2",
+    "equipmentID": "R850S135U2CMB",
+    "serialNumber": null,
+    "make": null,
+    "model": null,
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbfb"
+    },
+    "imagePath": null,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "email": [
+      null,
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedTimestamp": "2026-07-09T12:57:21.735Z"
+  },
+  {
+    "type": "Tower Top Amplifier",
+    "caseType": "Ticket",
+    "collection": "Tower",
+    "network": "SLERS 2",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fdf1"
+    },
+    "equipmentName": "Meacham Tower Top Amplifier",
+    "equipmentID": "R850S135UT",
+    "serialNumber": null,
+    "make": null,
+    "model": null,
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbfb"
+    },
+    "imagePath": null,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "email": [
+      null,
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedTimestamp": "2026-07-09T13:00:06.607Z"
+  },
+  {
+    "type": "Multicoupler",
+    "caseType": "Ticket",
+    "collection": "Tower",
+    "network": "SLERS 2",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fdf1"
+    },
+    "equipmentName": "Meacham Multicoupler",
+    "equipmentID": "R850S135U1RXC",
+    "serialNumber": null,
+    "make": null,
+    "model": null,
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbfb"
+    },
+    "imagePath": null,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "email": [
+      null,
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedTimestamp": "2026-07-09T13:04:38.942Z"
+  },
+  {
+    "type": "Dehydrator",
+    "caseType": "Ticket",
+    "collection": "Tower",
+    "network": "SLERS 2",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fdf1"
+    },
+    "equipmentName": "Meacham Dehydrator",
+    "equipmentID": "R850S135MD",
+    "serialNumber": null,
+    "make": null,
+    "model": null,
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbfb"
+    },
+    "imagePath": null,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "email": [
+      null,
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedTimestamp": "2026-07-09T13:05:32.407Z"
+  }
+]

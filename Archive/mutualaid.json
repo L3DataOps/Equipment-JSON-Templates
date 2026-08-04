@@ -1,0 +1,469 @@
+[
+  {
+    "type": "Mutual Aid",
+    "caseType": "Ticket",
+    "collection": "Channels",
+    "network": "SLERS 2",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fdf1"
+    },
+    "equipmentName": "Meacham Mutual Aid Calling",
+    "equipmentID": "R850S135C1",
+    "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+    "hostName": null,
+    "ipAddress": null,
+    "frequency": null,
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbfb"
+    },
+    "imagePath": null,
+    "email": [
+      null,
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-06-29T18:08:56.905Z"
+  },
+  {
+    "type": "Mutual Aid",
+    "caseType": "Ticket",
+    "collection": "Channels",
+    "network": "SLERS 2",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fdf1"
+    },
+    "equipmentName": "Meacham Mutual Aid TAC 91",
+    "equipmentID": "R850S135C2",
+    "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+    "hostName": null,
+    "ipAddress": null,
+    "frequency": null,
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbfb"
+    },
+    "imagePath": null,
+    "email": [
+      null,
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-06-29T18:10:12.889Z"
+  },
+  {
+    "type": "Mutual Aid",
+    "caseType": "Ticket",
+    "collection": "Channels",
+    "network": "SLERS 2",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fdf1"
+    },
+    "equipmentName": "Meacham Mutual Aid TAC 92",
+    "equipmentID": "R850S135C3",
+    "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+    "hostName": null,
+    "ipAddress": null,
+    "frequency": null,
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbfb"
+    },
+    "imagePath": null,
+    "email": [
+      null,
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-06-29T18:45:12.498Z"
+  },
+  {
+    "type": "Mutual Aid",
+    "caseType": "Ticket",
+    "collection": "Channels",
+    "network": "SLERS 2",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fdf1"
+    },
+    "equipmentName": "Meacham Mutual Aid TAC 93",
+    "equipmentID": "R850S135C4",
+    "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+    "hostName": null,
+    "ipAddress": null,
+    "frequency": null,
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbfb"
+    },
+    "imagePath": null,
+    "email": [
+      null,
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-06-29T18:45:46.605Z"
+  },
+  {
+    "type": "Mutual Aid",
+    "caseType": "Ticket",
+    "collection": "Channels",
+    "network": "SLERS 2",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fdf1"
+    },
+    "equipmentName": "Meacham Mutual Aid TAC 94",
+    "equipmentID": "R850S135C5",
+    "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+    "hostName": null,
+    "ipAddress": null,
+    "frequency": null,
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbfb"
+    },
+    "imagePath": null,
+    "email": [
+      null,
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-06-29T18:46:19.886Z"
+  },
+  {
+    "type": "Mutual Aid GPS",
+    "caseType": "Ticket",
+    "collection": "Channels",
+    "network": "SLERS 2",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fdf1"
+    },
+    "equipmentName": "Meacham Mutual Aid GPS ",
+    "equipmentID": "R850S135CCG",
+    "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+    "modelNumber": null,
+    "serialNumber": null,
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbfb"
+    },
+    "imagePath": null,
+    "email": [
+      null,
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-06-29T18:47:25.960Z"
+  },
+  {
+    "type": "Mutual Aid Multiplexer",
+    "caseType": "Ticket",
+    "collection": "Channels",
+    "network": "SLERS 2",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fdf1"
+    },
+    "equipmentName": "Meacham Mutual Aid Multiplexer ",
+    "equipmentID": "R850S135CCM",
+    "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbfb"
+    },
+    "imagePath": null,
+    "email": [
+      null,
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-06-29T18:47:52.423Z"
+  },
+  {
+    "type": "Mutual Aid Power Supply",
+    "caseType": "Ticket",
+    "collection": "Channels",
+    "network": "SLERS 2",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fdf1"
+    },
+    "equipmentName": "Meacham Mutual Aid Power Supply ",
+    "equipmentID": "R850S135CCPS",
+    "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbfb"
+    },
+    "imagePath": null,
+    "email": [
+      null,
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-06-29T18:48:18.286Z"
+  },
+  {
+    "type": "Mutual Aid Sync Shelf",
+    "caseType": "Ticket",
+    "collection": "Channels",
+    "network": "SLERS 2",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fdf1"
+    },
+    "equipmentName": "Meacham Mutual Aid Sync Shelf",
+    "equipmentID": "R850S135CCS",
+    "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbfb"
+    },
+    "imagePath": null,
+    "email": [
+      null,
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-06-29T18:48:47.998Z"
+  },
+  {
+    "type": "Mutual Aid Test Unit Radio",
+    "caseType": "Ticket",
+    "collection": "Channels",
+    "network": "SLERS 2",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fdf1"
+    },
+    "equipmentName": "Meacham Mutual Aid Test Unit Radio",
+    "equipmentID": "R850S135CCT",
+    "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbfb"
+    },
+    "imagePath": null,
+    "email": [
+      null,
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-06-29T19:10:38.186Z"
+  },
+  {
+    "type": "Mutual Aid",
+    "caseType": "Ticket",
+    "collection": "Channels",
+    "network": "SLERS",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fec5"
+    },
+    "equipmentName": "Big Pine Mutual Aid Calling",
+    "equipmentID": "X106C1",
+    "additionalInfo": "From Orlando take the Florida Turnpike south to the end and take US 1 into the Keys. Follow US 1 to Big Pine Key. Turn right onto Key Deer Blvd. Turn left into the correctional institution. Check in with the Office and go to the tower site. KE  Cross Street information:  Key Deer Blvd. and Wilder Road, Big Pine Key   As of 04/18/2017:  At 450 Key Deer Blvd, Road Prison, I gave Sergeant Stanley the FDOT front gate lock with combination 3368 and it will be installed onto the front gate chain when they close next week.  Directions: From Key Deer Blvd in Big Pine Key, Florida one would turn right (West) at the traffic light driving west on the blvd and then at address 450 one would turn left (South) at the main gate which will be locked, then one would find the lock with FDOT marking and use the combination code 3368 to remove the chain and open gate, then one would drive onto the facility driving South until you see a parking lot on your left (East) and then one would turn left (East) into the parking lot and park and walk to the shelter gate where the FDOT lock combination is also 3368.   Additional Access Information: The after hours (5pm-7am) contact number 305-470-5830 this is the Sun Guide Building they are open 24/7.  If something is going on during regular hours please contact me at 305 470-5431, if I'm not available you can ask for Renato Marrero, or Ruel Umbay, or Keith Jimmerson.  South Dade is approximately 100 miles away. The nearest Sheriff Department to contact is on Cudjo Key about 10 miles south and their non- emergency number is 305 289-2351.  They will  dispatch a Deputy upon request.   They also will be performing enhanced nighttime patrolling.  Please let me know if you have any questions.  Thank you,  Guy Gladson, PE Florida Department of Transportation District 6 Deputy Maintenance Engineer 305 470-5431  022119 0906 TLO - Per George, FDOT combo is 0305 should open silver lock.  And FWCC lock is 2796.  When all else fails, try old faithful 7022  030824 - Combo for unlabeled lock is 1313.  012225 DAD - Brian took over Guy Gladson's position. Brian: 305-470-5358",
+    "hostName": null,
+    "ipAddress": null,
+    "frequency": null,
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbf4"
+    },
+    "imagePath": null,
+    "email": [
+      null,
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-07-14T14:27:23.343Z"
+  },
+  {
+    "type": "Mutual Aid",
+    "caseType": "Ticket",
+    "collection": "Channels",
+    "network": "SLERS",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fec5"
+    },
+    "equipmentName": "Big Pine Mutual Aid TAC 91",
+    "equipmentID": "X106C2",
+    "additionalInfo": "From Orlando take the Florida Turnpike south to the end and take US 1 into the Keys. Follow US 1 to Big Pine Key. Turn right onto Key Deer Blvd. Turn left into the correctional institution. Check in with the Office and go to the tower site. KE  Cross Street information:  Key Deer Blvd. and Wilder Road, Big Pine Key   As of 04/18/2017:  At 450 Key Deer Blvd, Road Prison, I gave Sergeant Stanley the FDOT front gate lock with combination 3368 and it will be installed onto the front gate chain when they close next week.  Directions: From Key Deer Blvd in Big Pine Key, Florida one would turn right (West) at the traffic light driving west on the blvd and then at address 450 one would turn left (South) at the main gate which will be locked, then one would find the lock with FDOT marking and use the combination code 3368 to remove the chain and open gate, then one would drive onto the facility driving South until you see a parking lot on your left (East) and then one would turn left (East) into the parking lot and park and walk to the shelter gate where the FDOT lock combination is also 3368.   Additional Access Information: The after hours (5pm-7am) contact number 305-470-5830 this is the Sun Guide Building they are open 24/7.  If something is going on during regular hours please contact me at 305 470-5431, if I'm not available you can ask for Renato Marrero, or Ruel Umbay, or Keith Jimmerson.  South Dade is approximately 100 miles away. The nearest Sheriff Department to contact is on Cudjo Key about 10 miles south and their non- emergency number is 305 289-2351.  They will  dispatch a Deputy upon request.   They also will be performing enhanced nighttime patrolling.  Please let me know if you have any questions.  Thank you,  Guy Gladson, PE Florida Department of Transportation District 6 Deputy Maintenance Engineer 305 470-5431  022119 0906 TLO - Per George, FDOT combo is 0305 should open silver lock.  And FWCC lock is 2796.  When all else fails, try old faithful 7022  030824 - Combo for unlabeled lock is 1313.  012225 DAD - Brian took over Guy Gladson's position. Brian: 305-470-5358",
+    "hostName": null,
+    "ipAddress": null,
+    "frequency": null,
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbf4"
+    },
+    "imagePath": null,
+    "email": [
+      null,
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-07-14T14:59:44.192Z"
+  },
+  {
+    "type": "Mutual Aid",
+    "caseType": "Ticket",
+    "collection": "Channels",
+    "network": "SLERS",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fec5"
+    },
+    "equipmentName": "Big Pine Mutual Aid TAC 92",
+    "equipmentID": "X106C3",
+    "additionalInfo": "From Orlando take the Florida Turnpike south to the end and take US 1 into the Keys. Follow US 1 to Big Pine Key. Turn right onto Key Deer Blvd. Turn left into the correctional institution. Check in with the Office and go to the tower site. KE  Cross Street information:  Key Deer Blvd. and Wilder Road, Big Pine Key   As of 04/18/2017:  At 450 Key Deer Blvd, Road Prison, I gave Sergeant Stanley the FDOT front gate lock with combination 3368 and it will be installed onto the front gate chain when they close next week.  Directions: From Key Deer Blvd in Big Pine Key, Florida one would turn right (West) at the traffic light driving west on the blvd and then at address 450 one would turn left (South) at the main gate which will be locked, then one would find the lock with FDOT marking and use the combination code 3368 to remove the chain and open gate, then one would drive onto the facility driving South until you see a parking lot on your left (East) and then one would turn left (East) into the parking lot and park and walk to the shelter gate where the FDOT lock combination is also 3368.   Additional Access Information: The after hours (5pm-7am) contact number 305-470-5830 this is the Sun Guide Building they are open 24/7.  If something is going on during regular hours please contact me at 305 470-5431, if I'm not available you can ask for Renato Marrero, or Ruel Umbay, or Keith Jimmerson.  South Dade is approximately 100 miles away. The nearest Sheriff Department to contact is on Cudjo Key about 10 miles south and their non- emergency number is 305 289-2351.  They will  dispatch a Deputy upon request.   They also will be performing enhanced nighttime patrolling.  Please let me know if you have any questions.  Thank you,  Guy Gladson, PE Florida Department of Transportation District 6 Deputy Maintenance Engineer 305 470-5431  022119 0906 TLO - Per George, FDOT combo is 0305 should open silver lock.  And FWCC lock is 2796.  When all else fails, try old faithful 7022  030824 - Combo for unlabeled lock is 1313.  012225 DAD - Brian took over Guy Gladson's position. Brian: 305-470-5358",
+    "hostName": null,
+    "ipAddress": null,
+    "frequency": null,
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbf4"
+    },
+    "imagePath": null,
+    "email": [
+      null,
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-07-14T15:00:33.137Z"
+  },
+  {
+    "type": "Mutual Aid",
+    "caseType": "Ticket",
+    "collection": "Channels",
+    "network": "SLERS",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fec5"
+    },
+    "equipmentName": "Big Pine Mutual Aid TAC 93",
+    "equipmentID": "X106C4",
+    "additionalInfo": "From Orlando take the Florida Turnpike south to the end and take US 1 into the Keys. Follow US 1 to Big Pine Key. Turn right onto Key Deer Blvd. Turn left into the correctional institution. Check in with the Office and go to the tower site. KE  Cross Street information:  Key Deer Blvd. and Wilder Road, Big Pine Key   As of 04/18/2017:  At 450 Key Deer Blvd, Road Prison, I gave Sergeant Stanley the FDOT front gate lock with combination 3368 and it will be installed onto the front gate chain when they close next week.  Directions: From Key Deer Blvd in Big Pine Key, Florida one would turn right (West) at the traffic light driving west on the blvd and then at address 450 one would turn left (South) at the main gate which will be locked, then one would find the lock with FDOT marking and use the combination code 3368 to remove the chain and open gate, then one would drive onto the facility driving South until you see a parking lot on your left (East) and then one would turn left (East) into the parking lot and park and walk to the shelter gate where the FDOT lock combination is also 3368.   Additional Access Information: The after hours (5pm-7am) contact number 305-470-5830 this is the Sun Guide Building they are open 24/7.  If something is going on during regular hours please contact me at 305 470-5431, if I'm not available you can ask for Renato Marrero, or Ruel Umbay, or Keith Jimmerson.  South Dade is approximately 100 miles away. The nearest Sheriff Department to contact is on Cudjo Key about 10 miles south and their non- emergency number is 305 289-2351.  They will  dispatch a Deputy upon request.   They also will be performing enhanced nighttime patrolling.  Please let me know if you have any questions.  Thank you,  Guy Gladson, PE Florida Department of Transportation District 6 Deputy Maintenance Engineer 305 470-5431  022119 0906 TLO - Per George, FDOT combo is 0305 should open silver lock.  And FWCC lock is 2796.  When all else fails, try old faithful 7022  030824 - Combo for unlabeled lock is 1313.  012225 DAD - Brian took over Guy Gladson's position. Brian: 305-470-5358",
+    "hostName": null,
+    "ipAddress": null,
+    "frequency": null,
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbf4"
+    },
+    "imagePath": null,
+    "email": [
+      null,
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-07-14T15:01:09.862Z"
+  },
+  {
+    "type": "Mutual Aid",
+    "caseType": "Ticket",
+    "collection": "Channels",
+    "network": "SLERS",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fec5"
+    },
+    "equipmentName": "Big Pine Mutual Aid TAC 94",
+    "equipmentID": "X106C5",
+    "additionalInfo": "From Orlando take the Florida Turnpike south to the end and take US 1 into the Keys. Follow US 1 to Big Pine Key. Turn right onto Key Deer Blvd. Turn left into the correctional institution. Check in with the Office and go to the tower site. KE  Cross Street information:  Key Deer Blvd. and Wilder Road, Big Pine Key   As of 04/18/2017:  At 450 Key Deer Blvd, Road Prison, I gave Sergeant Stanley the FDOT front gate lock with combination 3368 and it will be installed onto the front gate chain when they close next week.  Directions: From Key Deer Blvd in Big Pine Key, Florida one would turn right (West) at the traffic light driving west on the blvd and then at address 450 one would turn left (South) at the main gate which will be locked, then one would find the lock with FDOT marking and use the combination code 3368 to remove the chain and open gate, then one would drive onto the facility driving South until you see a parking lot on your left (East) and then one would turn left (East) into the parking lot and park and walk to the shelter gate where the FDOT lock combination is also 3368.   Additional Access Information: The after hours (5pm-7am) contact number 305-470-5830 this is the Sun Guide Building they are open 24/7.  If something is going on during regular hours please contact me at 305 470-5431, if I'm not available you can ask for Renato Marrero, or Ruel Umbay, or Keith Jimmerson.  South Dade is approximately 100 miles away. The nearest Sheriff Department to contact is on Cudjo Key about 10 miles south and their non- emergency number is 305 289-2351.  They will  dispatch a Deputy upon request.   They also will be performing enhanced nighttime patrolling.  Please let me know if you have any questions.  Thank you,  Guy Gladson, PE Florida Department of Transportation District 6 Deputy Maintenance Engineer 305 470-5431  022119 0906 TLO - Per George, FDOT combo is 0305 should open silver lock.  And FWCC lock is 2796.  When all else fails, try old faithful 7022  030824 - Combo for unlabeled lock is 1313.  012225 DAD - Brian took over Guy Gladson's position. Brian: 305-470-5358",
+    "hostName": null,
+    "ipAddress": null,
+    "frequency": null,
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbf4"
+    },
+    "imagePath": null,
+    "email": [
+      null,
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-07-14T15:01:40.045Z"
+  }
+]
