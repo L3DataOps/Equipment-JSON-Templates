@@ -1,63 +1,18 @@
 [
   {
-    "type": "Generator",
-    "caseType": "Work Order",
-    "collection": "Generator",
-    "network": "SLERS 2",
-    "siteid": {
-      "$oid": "6a21a18e7d89a2c17023fdf1"
-    },
-    "equipmentName": "Meacham Generator",
-    "equipmentID": "R850S135XG",
-    "serialNumber": "0730416",
-    "make": "KOHLER",
-    "model": "40RE0ZJB",
-    "fuelType": "DIESEL",
-    "capacity": "40 KW",
-    "dateInstalled": null,
-    "batteryDate": "05/02/2022",
-    "exerciseDay": "Wednesday",
-    "exerciseTime": "0200",
-    "runTime": "217",
-    "pmFrequency": "Annual",
-    "pmReminder": 10,
-    "pmNeeded": true,
-    "lastPM": [],
-    "reserveField1": null,
-    "reserveField2": null,
-    "reserveField3": null,
-    "reserveField4": null,
-    "reserveField5": null,
-    "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
-    "defaultVendor": {
-      "$oid": "6a394d727d89a2c17023feea"
-    },
-    "imagePath": null,
-    "lastEditedBy": {
-      "$oid": "69fc9a275d7502a03d84520e"
-    },
-    "email": [
-      "harriscomm@ips.us",
-      "kevin.behana@l3harris.com",
-      "dan.keppel@l3harris.com",
-      "pspcsysops@l3harris.com"
-    ],
-    "lastEditedTimestamp": "2026-06-26T15:50:29.970Z"
-  },
-  {
     "type": "ATS",
     "caseType": "Work Order",
     "collection": "Generator",
     "network": "SLERS 2",
     "siteid": {
-      "$oid": "6a21a18e7d89a2c17023fdf1"
+      "$oid": "6a21a18e7d89a2c17023fe22"
     },
-    "equipmentName": "Meacham ATS",
-    "equipmentID": "R850S135XATS",
-    "serialNumber": "RES016488",
+    "equipmentName": "Adams ATS",
+    "equipmentID": "R850S019XATS",
+    "serialNumber": "K0726820",
     "make": "KOHLER",
-    "model": "EST31624I",
-    "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+    "model": "K5642310225",
+    "additionalInfo": "Start out going South on TPC DR toward HAZELTINE NATIONAL DR. 0.2 miles;  Turn RIGHT onto HAZELTINE NATIONAL DR. 0.9 miles;  Turn LEFT onto FL-436 S/S SEMORAN BLVD. 0.4 miles;  Take the SR-528-TOLL W ramp toward TAMPA. 0.5 miles;  Merge onto BEE LINE EXWY/FL-528 W (Portions toll). 5.8 miles;  Take the TURNPIKE exit toward US-17/US-441/US-92. for 0.1 miles;   Take the TURNPIKE exit. for 0.9 miles; Merge onto FLORIDA'S TURNPIKE N (Portions toll). 53.7 miles;  Stay straight to go onto I-75 N. for 24.5 miles;  Take the US-27 N exit- exit number 354- toward WILLISTON/TALLAHASSEE.  for 0.3 miles;  Turn LEFT onto US-27 N/FL-500 N. Continue to follow US-27 N. for 21.3 miles;  Stay straight to go onto W NOBLE AVE/US-27 ALT/FL-121. Continue to follow US-27 ALT N. for 93.2 miles;  Turn LEFT onto W HAMPTON SPRINGS AVE/FL-30. Continue to follow FL-30. 40.5 miles;  Turn LEFT onto FL-363/PORT LEON RD. for 2.0 mi; Turn RIGHT onto SHELL ISLAND RD. for 0.1 miles;  Turn LEFT onto LADD DR. for 0.1 miles;  Turn RIGHT onto WARD ST. 0.1 miles;  End at Saint Marks, FL 32355 US or I-10 to Hwy 27 turns into Hwy 363 South continue on Hwy 363 and 1700 ft before Highway 98 right hand side. From I-10, Exit 199, take US 27 south to the junction of SR 363 and continue south on SR 363. Follow SR 363 south to the site, about 1.1 miles north of the junction of US 98. The site is on the right by the welding shop.",
     "reserveField1": null,
     "reserveField2": null,
     "reserveField3": null,
@@ -68,213 +23,58 @@
     },
     "imagePath": null,
     "email": [
-      "harriscomm@ips.us",
+      "pspcsysops@l3harris.com",
       "kevin.behana@l3harris.com",
       "dan.keppel@l3harris.com",
-      "pspcsysops@l3harris.com"
+      "harriscomm@ips.us"
     ],
     "lastEditedBy": {
       "$oid": "69fc9a275d7502a03d84520e"
     },
-    "lastEditedTimestamp": "2026-07-08T12:43:24.396Z"
+    "lastEditedTimestamp": "2026-08-05T15:46:25.413Z"
   },
   {
-    "type": "Fuel",
+    "type": "Generator",
     "caseType": "Work Order",
     "collection": "Generator",
     "network": "SLERS 2",
     "siteid": {
-      "$oid": "6a21a18e7d89a2c17023fdf1"
+      "$oid": "6a21a18e7d89a2c17023fe22"
     },
-    "equipmentName": "Meacham Fuel",
+    "equipmentName": "Adams Generator",
+    "equipmentID": "R850S019XG",
+    "serialNumber": "0728846",
+    "make": "KOHLER",
+    "model": "60RZG",
+    "fuelType": "Propane",
+    "capacity": "60 KW",
+    "dateInstalled": null,
+    "batteryDate": "12/28/2023",
+    "exerciseDay": "Thursday",
+    "exerciseTime": "0200",
+    "runTime": "114824",
+    "pmType": "Generator",
+    "pmNeeded": true,
+    "pmHistory": [],
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "additionalInfo": "Start out going South on TPC DR toward HAZELTINE NATIONAL DR. 0.2 miles;  Turn RIGHT onto HAZELTINE NATIONAL DR. 0.9 miles;  Turn LEFT onto FL-436 S/S SEMORAN BLVD. 0.4 miles;  Take the SR-528-TOLL W ramp toward TAMPA. 0.5 miles;  Merge onto BEE LINE EXWY/FL-528 W (Portions toll). 5.8 miles;  Take the TURNPIKE exit toward US-17/US-441/US-92. for 0.1 miles;   Take the TURNPIKE exit. for 0.9 miles; Merge onto FLORIDA'S TURNPIKE N (Portions toll). 53.7 miles;  Stay straight to go onto I-75 N. for 24.5 miles;  Take the US-27 N exit- exit number 354- toward WILLISTON/TALLAHASSEE.  for 0.3 miles;  Turn LEFT onto US-27 N/FL-500 N. Continue to follow US-27 N. for 21.3 miles;  Stay straight to go onto W NOBLE AVE/US-27 ALT/FL-121. Continue to follow US-27 ALT N. for 93.2 miles;  Turn LEFT onto W HAMPTON SPRINGS AVE/FL-30. Continue to follow FL-30. 40.5 miles;  Turn LEFT onto FL-363/PORT LEON RD. for 2.0 mi; Turn RIGHT onto SHELL ISLAND RD. for 0.1 miles;  Turn LEFT onto LADD DR. for 0.1 miles;  Turn RIGHT onto WARD ST. 0.1 miles;  End at Saint Marks, FL 32355 US or I-10 to Hwy 27 turns into Hwy 363 South continue on Hwy 363 and 1700 ft before Highway 98 right hand side. From I-10, Exit 199, take US 27 south to the junction of SR 363 and continue south on SR 363. Follow SR 363 south to the site, about 1.1 miles north of the junction of US 98. The site is on the right by the welding shop.",
+    "defaultVendor": {
+      "$oid": "6a394d727d89a2c17023feea"
+    },
+    "imagePath": null,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
     "email": [
-      null,
+      "pspcsysops@l3harris.com",
       "kevin.behana@l3harris.com",
       "dan.keppel@l3harris.com",
-      "pspcsysops@l3harris.com"
+      "harriscomm@ips.us"
     ],
-    "pmFrequency": "Monthly",
-    "pmReminder": 1,
-    "pmNeeded": true,
-    "lastPM": [],
-    "reserveField1": null,
-    "reserveField2": null,
-    "lastEditedBy": {
-      "$oid": "69fc9a275d7502a03d84520e"
-    },
-    "lastEditedTimestamp": "2026-07-14T18:50:53.328Z",
-    "fuelTanks": [
-      {
-        "tankNumber": 1,
-        "equipmentID": "R850S135XFT1",
-        "serialNumber": "123456",
-        "make": "gfewdv",
-        "model": "egbrbfvdw",
-        "capacity": null,
-        "fuelType": null,
-        "fuelHistory": [
-          {
-            "recordDate": null,
-            "recordCaseNumber": null,
-            "recordType": null,
-            "previousPercentageAmount": null,
-            "currentPercentageAmount": null,
-            "gallonsFilled": null,
-            "lastFillVendor": null
-          }
-        ],
-        "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
-        "defaultVendor": {
-          "$oid": "6a512aa57d89a2c17023ff45"
-        },
-        "imagePath": null,
-        "lastEditedBy": {
-          "$oid": "69fc9a275d7502a03d84520e"
-        },
-        "lastEditedTimestamp": "2026-07-14T18:50:53.328Z"
-      },
-      {
-        "tankNumber": 2,
-        "equipmentID": "R850S135XFT2",
-        "serialNumber": "fwgethgwfe",
-        "make": "efw",
-        "model": "1345431fdf",
-        "capacity": 0,
-        "fuelType": null,
-        "fuelHistory": [
-          {
-            "recordDate": null,
-            "recordCaseNumber": null,
-            "recordType": null,
-            "previousPercentageAmount": null,
-            "currentPercentageAmount": null,
-            "gallonsFilled": null,
-            "lastFillVendor": null
-          }
-        ],
-        "additionalInfo": "wfegwefewe",
-        "defaultVendor": {
-          "$oid": "6a512aa57d89a2c17023ff45"
-        },
-        "imagePath": null,
-        "lastEditedBy": {
-          "$oid": "69fc9a275d7502a03d84520e"
-        },
-        "lastEditedTimestamp": "2026-07-14T18:50:53.328Z"
-      }
-    ]
-  },
-  {
-    "type": "Fuel",
-    "caseType": "Work Order",
-    "collection": "Generator",
-    "network": "SLERS 2",
-    "siteid": {
-      "$oid": "6a21a18e7d89a2c17023fdf1"
-    },
-    "equipmentName": "Meacham Fuel",
-    "email": [
-      null,
-      "pspcsysops@l3harris.com"
-    ],
-    "pmFrequency": "Monthly",
-    "pmReminder": 1,
-    "pmNeeded": true,
-    "lastPM": [],
-    "reserveField1": null,
-    "reserveField2": null,
-    "lastEditedBy": {
-      "$oid": "69fc9a275d7502a03d84520e"
-    },
-    "lastEditedTimestamp": "2026-07-14T19:01:20.332Z",
-    "fuelTanks": [
-      {
-        "tankNumber": 1,
-        "equipmentID": "R850S135XFT1",
-        "serialNumber": "2345",
-        "make": "efwefg",
-        "model": null,
-        "capacity": 0,
-        "fuelType": null,
-        "fuelHistory": [
-          {
-            "recordDate": null,
-            "recordCaseNumber": null,
-            "recordType": null,
-            "previousPercentageAmount": null,
-            "currentPercentageAmount": null,
-            "gallonsFilled": null,
-            "lastFillVendor": null
-          }
-        ],
-        "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
-        "defaultVendor": {
-          "$oid": "6a512aa57d89a2c17023ff45"
-        },
-        "imagePath": null,
-        "lastEditedBy": {
-          "$oid": "69fc9a275d7502a03d84520e"
-        },
-        "lastEditedTimestamp": "2026-07-14T19:01:20.332Z"
-      },
-      {
-        "tankNumber": 2,
-        "equipmentID": "R850S135XFT2",
-        "serialNumber": "234543",
-        "make": "efgefgf",
-        "model": "efg",
-        "capacity": 0,
-        "fuelType": null,
-        "fuelHistory": [
-          {
-            "recordDate": null,
-            "recordCaseNumber": null,
-            "recordType": null,
-            "previousPercentageAmount": null,
-            "currentPercentageAmount": null,
-            "gallonsFilled": null,
-            "lastFillVendor": null
-          }
-        ],
-        "additionalInfo": "efgefgefgefgerg4ergefwefeggref",
-        "defaultVendor": {
-          "$oid": "6a512aa57d89a2c17023ff45"
-        },
-        "imagePath": null,
-        "lastEditedBy": {
-          "$oid": "69fc9a275d7502a03d84520e"
-        },
-        "lastEditedTimestamp": "2026-07-14T19:01:20.332Z"
-      },
-      {
-        "tankNumber": 3,
-        "equipmentID": "R850S135XFT3",
-        "serialNumber": "2er3gefwe",
-        "make": "efwgffw",
-        "model": null,
-        "capacity": 0,
-        "fuelType": null,
-        "fuelHistory": [
-          {
-            "recordDate": null,
-            "recordCaseNumber": null,
-            "recordType": null,
-            "previousPercentageAmount": null,
-            "currentPercentageAmount": null,
-            "gallonsFilled": null,
-            "lastFillVendor": null
-          }
-        ],
-        "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
-        "defaultVendor": {
-          "$oid": "6a512aa57d89a2c17023ff45"
-        },
-        "imagePath": null,
-        "lastEditedBy": {
-          "$oid": "69fc9a275d7502a03d84520e"
-        },
-        "lastEditedTimestamp": "2026-07-14T19:01:20.332Z"
-      }
-    ]
+    "lastEditedTimestamp": "2026-08-05T18:45:09.059Z"
   }
 ]

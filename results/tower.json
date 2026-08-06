@@ -1,14 +1,14 @@
 [
   {
-    "type": "Tower",
+    "type": "Dehydrator",
     "caseType": "Ticket",
     "collection": "Tower",
     "network": "SLERS 2",
     "siteid": {
-      "$oid": "6a21a18e7d89a2c17023fdf1"
+      "$oid": "6a21a18e7d89a2c17023fe22"
     },
-    "equipmentName": "Meacham Tower",
-    "equipmentID": "R850S135XT",
+    "equipmentName": "Adams Dehydrator",
+    "equipmentID": "R850S019MD",
     "serialNumber": null,
     "make": null,
     "model": null,
@@ -17,21 +17,18 @@
     "reserveField3": null,
     "reserveField4": null,
     "reserveField5": null,
-    "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+    "additionalInfo": "Start out going South on TPC DR toward HAZELTINE NATIONAL DR. 0.2 miles;  Turn RIGHT onto HAZELTINE NATIONAL DR. 0.9 miles;  Turn LEFT onto FL-436 S/S SEMORAN BLVD. 0.4 miles;  Take the SR-528-TOLL W ramp toward TAMPA. 0.5 miles;  Merge onto BEE LINE EXWY/FL-528 W (Portions toll). 5.8 miles;  Take the TURNPIKE exit toward US-17/US-441/US-92. for 0.1 miles;   Take the TURNPIKE exit. for 0.9 miles; Merge onto FLORIDA'S TURNPIKE N (Portions toll). 53.7 miles;  Stay straight to go onto I-75 N. for 24.5 miles;  Take the US-27 N exit- exit number 354- toward WILLISTON/TALLAHASSEE.  for 0.3 miles;  Turn LEFT onto US-27 N/FL-500 N. Continue to follow US-27 N. for 21.3 miles;  Stay straight to go onto W NOBLE AVE/US-27 ALT/FL-121. Continue to follow US-27 ALT N. for 93.2 miles;  Turn LEFT onto W HAMPTON SPRINGS AVE/FL-30. Continue to follow FL-30. 40.5 miles;  Turn LEFT onto FL-363/PORT LEON RD. for 2.0 mi; Turn RIGHT onto SHELL ISLAND RD. for 0.1 miles;  Turn LEFT onto LADD DR. for 0.1 miles;  Turn RIGHT onto WARD ST. 0.1 miles;  End at Saint Marks, FL 32355 US or I-10 to Hwy 27 turns into Hwy 363 South continue on Hwy 363 and 1700 ft before Highway 98 right hand side. From I-10, Exit 199, take US 27 south to the junction of SR 363 and continue south on SR 363. Follow SR 363 south to the site, about 1.1 miles north of the junction of US 98. The site is on the right by the welding shop.",
     "defaultVendor": {
-      "$oid": "69fca8e57d89a2c17023fbfb"
+      "$oid": "69fca8e57d89a2c17023fbfc"
     },
     "imagePath": null,
     "lastEditedBy": {
       "$oid": "69fc9a275d7502a03d84520e"
     },
     "email": [
-      null,
-      "kevin.behana@l3harris.com",
-      "dan.keppel@l3harris.com",
       "pspcsysops@l3harris.com"
     ],
-    "lastEditedTimestamp": "2026-07-09T12:42:31.141Z"
+    "lastEditedTimestamp": "2026-08-05T13:30:22.750Z"
   },
   {
     "type": "Combiner",
@@ -39,10 +36,10 @@
     "collection": "Tower",
     "network": "SLERS 2",
     "siteid": {
-      "$oid": "6a21a18e7d89a2c17023fdf1"
+      "$oid": "6a21a18e7d89a2c17023fe22"
     },
-    "equipmentName": "Meacham Combiner 1",
-    "equipmentID": "R850S135U1CMB",
+    "equipmentName": "Adams Combiner 1",
+    "equipmentID": "R850S019U1CMB",
     "serialNumber": null,
     "make": null,
     "model": null,
@@ -51,83 +48,18 @@
     "reserveField3": null,
     "reserveField4": null,
     "reserveField5": null,
-    "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+    "additionalInfo": "Start out going South on TPC DR toward HAZELTINE NATIONAL DR. 0.2 miles;  Turn RIGHT onto HAZELTINE NATIONAL DR. 0.9 miles;  Turn LEFT onto FL-436 S/S SEMORAN BLVD. 0.4 miles;  Take the SR-528-TOLL W ramp toward TAMPA. 0.5 miles;  Merge onto BEE LINE EXWY/FL-528 W (Portions toll). 5.8 miles;  Take the TURNPIKE exit toward US-17/US-441/US-92. for 0.1 miles;   Take the TURNPIKE exit. for 0.9 miles; Merge onto FLORIDA'S TURNPIKE N (Portions toll). 53.7 miles;  Stay straight to go onto I-75 N. for 24.5 miles;  Take the US-27 N exit- exit number 354- toward WILLISTON/TALLAHASSEE.  for 0.3 miles;  Turn LEFT onto US-27 N/FL-500 N. Continue to follow US-27 N. for 21.3 miles;  Stay straight to go onto W NOBLE AVE/US-27 ALT/FL-121. Continue to follow US-27 ALT N. for 93.2 miles;  Turn LEFT onto W HAMPTON SPRINGS AVE/FL-30. Continue to follow FL-30. 40.5 miles;  Turn LEFT onto FL-363/PORT LEON RD. for 2.0 mi; Turn RIGHT onto SHELL ISLAND RD. for 0.1 miles;  Turn LEFT onto LADD DR. for 0.1 miles;  Turn RIGHT onto WARD ST. 0.1 miles;  End at Saint Marks, FL 32355 US or I-10 to Hwy 27 turns into Hwy 363 South continue on Hwy 363 and 1700 ft before Highway 98 right hand side. From I-10, Exit 199, take US 27 south to the junction of SR 363 and continue south on SR 363. Follow SR 363 south to the site, about 1.1 miles north of the junction of US 98. The site is on the right by the welding shop.",
     "defaultVendor": {
-      "$oid": "69fca8e57d89a2c17023fbfb"
+      "$oid": "69fca8e57d89a2c17023fbfc"
     },
     "imagePath": null,
     "lastEditedBy": {
       "$oid": "69fc9a275d7502a03d84520e"
     },
     "email": [
-      null,
       "pspcsysops@l3harris.com"
     ],
-    "lastEditedTimestamp": "2026-07-09T12:56:21.167Z"
-  },
-  {
-    "type": "Combiner",
-    "caseType": "Ticket",
-    "collection": "Tower",
-    "network": "SLERS 2",
-    "siteid": {
-      "$oid": "6a21a18e7d89a2c17023fdf1"
-    },
-    "equipmentName": "Meacham Combiner 2",
-    "equipmentID": "R850S135U2CMB",
-    "serialNumber": null,
-    "make": null,
-    "model": null,
-    "reserveField1": null,
-    "reserveField2": null,
-    "reserveField3": null,
-    "reserveField4": null,
-    "reserveField5": null,
-    "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
-    "defaultVendor": {
-      "$oid": "69fca8e57d89a2c17023fbfb"
-    },
-    "imagePath": null,
-    "lastEditedBy": {
-      "$oid": "69fc9a275d7502a03d84520e"
-    },
-    "email": [
-      null,
-      "pspcsysops@l3harris.com"
-    ],
-    "lastEditedTimestamp": "2026-07-09T12:57:21.735Z"
-  },
-  {
-    "type": "Tower Top Amplifier",
-    "caseType": "Ticket",
-    "collection": "Tower",
-    "network": "SLERS 2",
-    "siteid": {
-      "$oid": "6a21a18e7d89a2c17023fdf1"
-    },
-    "equipmentName": "Meacham Tower Top Amplifier",
-    "equipmentID": "R850S135UT",
-    "serialNumber": null,
-    "make": null,
-    "model": null,
-    "reserveField1": null,
-    "reserveField2": null,
-    "reserveField3": null,
-    "reserveField4": null,
-    "reserveField5": null,
-    "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
-    "defaultVendor": {
-      "$oid": "69fca8e57d89a2c17023fbfb"
-    },
-    "imagePath": null,
-    "lastEditedBy": {
-      "$oid": "69fc9a275d7502a03d84520e"
-    },
-    "email": [
-      null,
-      "pspcsysops@l3harris.com"
-    ],
-    "lastEditedTimestamp": "2026-07-09T13:00:06.607Z"
+    "lastEditedTimestamp": "2026-08-05T13:57:15.951Z"
   },
   {
     "type": "Multicoupler",
@@ -135,10 +67,10 @@
     "collection": "Tower",
     "network": "SLERS 2",
     "siteid": {
-      "$oid": "6a21a18e7d89a2c17023fdf1"
+      "$oid": "6a21a18e7d89a2c17023fe22"
     },
-    "equipmentName": "Meacham Multicoupler",
-    "equipmentID": "R850S135U1RXC",
+    "equipmentName": "Adams Multicoupler",
+    "equipmentID": "R850S019U1RXC",
     "serialNumber": null,
     "make": null,
     "model": null,
@@ -147,30 +79,29 @@
     "reserveField3": null,
     "reserveField4": null,
     "reserveField5": null,
-    "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+    "additionalInfo": "Start out going South on TPC DR toward HAZELTINE NATIONAL DR. 0.2 miles;  Turn RIGHT onto HAZELTINE NATIONAL DR. 0.9 miles;  Turn LEFT onto FL-436 S/S SEMORAN BLVD. 0.4 miles;  Take the SR-528-TOLL W ramp toward TAMPA. 0.5 miles;  Merge onto BEE LINE EXWY/FL-528 W (Portions toll). 5.8 miles;  Take the TURNPIKE exit toward US-17/US-441/US-92. for 0.1 miles;   Take the TURNPIKE exit. for 0.9 miles; Merge onto FLORIDA'S TURNPIKE N (Portions toll). 53.7 miles;  Stay straight to go onto I-75 N. for 24.5 miles;  Take the US-27 N exit- exit number 354- toward WILLISTON/TALLAHASSEE.  for 0.3 miles;  Turn LEFT onto US-27 N/FL-500 N. Continue to follow US-27 N. for 21.3 miles;  Stay straight to go onto W NOBLE AVE/US-27 ALT/FL-121. Continue to follow US-27 ALT N. for 93.2 miles;  Turn LEFT onto W HAMPTON SPRINGS AVE/FL-30. Continue to follow FL-30. 40.5 miles;  Turn LEFT onto FL-363/PORT LEON RD. for 2.0 mi; Turn RIGHT onto SHELL ISLAND RD. for 0.1 miles;  Turn LEFT onto LADD DR. for 0.1 miles;  Turn RIGHT onto WARD ST. 0.1 miles;  End at Saint Marks, FL 32355 US or I-10 to Hwy 27 turns into Hwy 363 South continue on Hwy 363 and 1700 ft before Highway 98 right hand side. From I-10, Exit 199, take US 27 south to the junction of SR 363 and continue south on SR 363. Follow SR 363 south to the site, about 1.1 miles north of the junction of US 98. The site is on the right by the welding shop.",
     "defaultVendor": {
-      "$oid": "69fca8e57d89a2c17023fbfb"
+      "$oid": "69fca8e57d89a2c17023fbfc"
     },
     "imagePath": null,
     "lastEditedBy": {
       "$oid": "69fc9a275d7502a03d84520e"
     },
     "email": [
-      null,
       "pspcsysops@l3harris.com"
     ],
-    "lastEditedTimestamp": "2026-07-09T13:04:38.942Z"
+    "lastEditedTimestamp": "2026-08-05T14:30:21.186Z"
   },
   {
-    "type": "Dehydrator",
+    "type": "Combiner",
     "caseType": "Ticket",
     "collection": "Tower",
     "network": "SLERS 2",
     "siteid": {
-      "$oid": "6a21a18e7d89a2c17023fdf1"
+      "$oid": "6a21a18e7d89a2c17023fe22"
     },
-    "equipmentName": "Meacham Dehydrator",
-    "equipmentID": "R850S135MD",
+    "equipmentName": "Adams Combiner 2",
+    "equipmentID": "R850S019U2CMB",
     "serialNumber": null,
     "make": null,
     "model": null,
@@ -179,18 +110,81 @@
     "reserveField3": null,
     "reserveField4": null,
     "reserveField5": null,
-    "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+    "additionalInfo": "Start out going South on TPC DR toward HAZELTINE NATIONAL DR. 0.2 miles;  Turn RIGHT onto HAZELTINE NATIONAL DR. 0.9 miles;  Turn LEFT onto FL-436 S/S SEMORAN BLVD. 0.4 miles;  Take the SR-528-TOLL W ramp toward TAMPA. 0.5 miles;  Merge onto BEE LINE EXWY/FL-528 W (Portions toll). 5.8 miles;  Take the TURNPIKE exit toward US-17/US-441/US-92. for 0.1 miles;   Take the TURNPIKE exit. for 0.9 miles; Merge onto FLORIDA'S TURNPIKE N (Portions toll). 53.7 miles;  Stay straight to go onto I-75 N. for 24.5 miles;  Take the US-27 N exit- exit number 354- toward WILLISTON/TALLAHASSEE.  for 0.3 miles;  Turn LEFT onto US-27 N/FL-500 N. Continue to follow US-27 N. for 21.3 miles;  Stay straight to go onto W NOBLE AVE/US-27 ALT/FL-121. Continue to follow US-27 ALT N. for 93.2 miles;  Turn LEFT onto W HAMPTON SPRINGS AVE/FL-30. Continue to follow FL-30. 40.5 miles;  Turn LEFT onto FL-363/PORT LEON RD. for 2.0 mi; Turn RIGHT onto SHELL ISLAND RD. for 0.1 miles;  Turn LEFT onto LADD DR. for 0.1 miles;  Turn RIGHT onto WARD ST. 0.1 miles;  End at Saint Marks, FL 32355 US or I-10 to Hwy 27 turns into Hwy 363 South continue on Hwy 363 and 1700 ft before Highway 98 right hand side. From I-10, Exit 199, take US 27 south to the junction of SR 363 and continue south on SR 363. Follow SR 363 south to the site, about 1.1 miles north of the junction of US 98. The site is on the right by the welding shop.",
     "defaultVendor": {
-      "$oid": "69fca8e57d89a2c17023fbfb"
+      "$oid": "69fca8e57d89a2c17023fbfc"
     },
     "imagePath": null,
     "lastEditedBy": {
       "$oid": "69fc9a275d7502a03d84520e"
     },
     "email": [
-      null,
       "pspcsysops@l3harris.com"
     ],
-    "lastEditedTimestamp": "2026-07-09T13:05:32.407Z"
+    "lastEditedTimestamp": "2026-08-05T15:07:43.968Z"
+  },
+  {
+    "type": "Tower Top Amplifier",
+    "caseType": "Ticket",
+    "collection": "Tower",
+    "network": "SLERS 2",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fe22"
+    },
+    "equipmentName": "Adams Tower Top Amplifier",
+    "equipmentID": "R850S019UT",
+    "serialNumber": null,
+    "make": null,
+    "model": null,
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "additionalInfo": "Start out going South on TPC DR toward HAZELTINE NATIONAL DR. 0.2 miles;  Turn RIGHT onto HAZELTINE NATIONAL DR. 0.9 miles;  Turn LEFT onto FL-436 S/S SEMORAN BLVD. 0.4 miles;  Take the SR-528-TOLL W ramp toward TAMPA. 0.5 miles;  Merge onto BEE LINE EXWY/FL-528 W (Portions toll). 5.8 miles;  Take the TURNPIKE exit toward US-17/US-441/US-92. for 0.1 miles;   Take the TURNPIKE exit. for 0.9 miles; Merge onto FLORIDA'S TURNPIKE N (Portions toll). 53.7 miles;  Stay straight to go onto I-75 N. for 24.5 miles;  Take the US-27 N exit- exit number 354- toward WILLISTON/TALLAHASSEE.  for 0.3 miles;  Turn LEFT onto US-27 N/FL-500 N. Continue to follow US-27 N. for 21.3 miles;  Stay straight to go onto W NOBLE AVE/US-27 ALT/FL-121. Continue to follow US-27 ALT N. for 93.2 miles;  Turn LEFT onto W HAMPTON SPRINGS AVE/FL-30. Continue to follow FL-30. 40.5 miles;  Turn LEFT onto FL-363/PORT LEON RD. for 2.0 mi; Turn RIGHT onto SHELL ISLAND RD. for 0.1 miles;  Turn LEFT onto LADD DR. for 0.1 miles;  Turn RIGHT onto WARD ST. 0.1 miles;  End at Saint Marks, FL 32355 US or I-10 to Hwy 27 turns into Hwy 363 South continue on Hwy 363 and 1700 ft before Highway 98 right hand side. From I-10, Exit 199, take US 27 south to the junction of SR 363 and continue south on SR 363. Follow SR 363 south to the site, about 1.1 miles north of the junction of US 98. The site is on the right by the welding shop.",
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbfc"
+    },
+    "imagePath": null,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "email": [
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedTimestamp": "2026-08-05T15:34:59.262Z"
+  },
+  {
+    "type": "Tower",
+    "caseType": "Ticket",
+    "collection": "Tower",
+    "network": "SLERS 2",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fe22"
+    },
+    "equipmentName": "Adams Tower",
+    "equipmentID": "R850S019XT",
+    "serialNumber": null,
+    "make": null,
+    "model": "300' SLF SPT TOWER",
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "additionalInfo": "Start out going South on TPC DR toward HAZELTINE NATIONAL DR. 0.2 miles;  Turn RIGHT onto HAZELTINE NATIONAL DR. 0.9 miles;  Turn LEFT onto FL-436 S/S SEMORAN BLVD. 0.4 miles;  Take the SR-528-TOLL W ramp toward TAMPA. 0.5 miles;  Merge onto BEE LINE EXWY/FL-528 W (Portions toll). 5.8 miles;  Take the TURNPIKE exit toward US-17/US-441/US-92. for 0.1 miles;   Take the TURNPIKE exit. for 0.9 miles; Merge onto FLORIDA'S TURNPIKE N (Portions toll). 53.7 miles;  Stay straight to go onto I-75 N. for 24.5 miles;  Take the US-27 N exit- exit number 354- toward WILLISTON/TALLAHASSEE.  for 0.3 miles;  Turn LEFT onto US-27 N/FL-500 N. Continue to follow US-27 N. for 21.3 miles;  Stay straight to go onto W NOBLE AVE/US-27 ALT/FL-121. Continue to follow US-27 ALT N. for 93.2 miles;  Turn LEFT onto W HAMPTON SPRINGS AVE/FL-30. Continue to follow FL-30. 40.5 miles;  Turn LEFT onto FL-363/PORT LEON RD. for 2.0 mi; Turn RIGHT onto SHELL ISLAND RD. for 0.1 miles;  Turn LEFT onto LADD DR. for 0.1 miles;  Turn RIGHT onto WARD ST. 0.1 miles;  End at Saint Marks, FL 32355 US or I-10 to Hwy 27 turns into Hwy 363 South continue on Hwy 363 and 1700 ft before Highway 98 right hand side. From I-10, Exit 199, take US 27 south to the junction of SR 363 and continue south on SR 363. Follow SR 363 south to the site, about 1.1 miles north of the junction of US 98. The site is on the right by the welding shop.",
+    "defaultVendor": {
+      "$oid": "6a738e177d89a2c17023ff9d"
+    },
+    "imagePath": null,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "email": [
+      "pspcsysops@l3harris.com",
+      "kevin.behana@l3harris.com",
+      "dan.keppel@l3harris.com"
+    ],
+    "lastEditedTimestamp": "2026-08-05T19:26:23.306Z"
   }
 ]

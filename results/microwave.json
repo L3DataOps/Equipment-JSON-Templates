@@ -5,31 +5,30 @@
     "collection": "Microwave",
     "network": "SLERS 2",
     "siteid": {
-      "$oid": "6a21a18e7d89a2c17023fdf1"
+      "$oid": "6a21a18e7d89a2c17023fe22"
     },
-    "equipmentName": "Meacham Microwave 1 to Molino",
-    "equipmentID": "R850S135M1",
-    "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+    "equipmentName": "Adams Microwave 1 to Duchaine",
+    "equipmentID": "R850S019M1",
+    "additionalInfo": "Start out going South on TPC DR toward HAZELTINE NATIONAL DR. 0.2 miles;  Turn RIGHT onto HAZELTINE NATIONAL DR. 0.9 miles;  Turn LEFT onto FL-436 S/S SEMORAN BLVD. 0.4 miles;  Take the SR-528-TOLL W ramp toward TAMPA. 0.5 miles;  Merge onto BEE LINE EXWY/FL-528 W (Portions toll). 5.8 miles;  Take the TURNPIKE exit toward US-17/US-441/US-92. for 0.1 miles;   Take the TURNPIKE exit. for 0.9 miles; Merge onto FLORIDA'S TURNPIKE N (Portions toll). 53.7 miles;  Stay straight to go onto I-75 N. for 24.5 miles;  Take the US-27 N exit- exit number 354- toward WILLISTON/TALLAHASSEE.  for 0.3 miles;  Turn LEFT onto US-27 N/FL-500 N. Continue to follow US-27 N. for 21.3 miles;  Stay straight to go onto W NOBLE AVE/US-27 ALT/FL-121. Continue to follow US-27 ALT N. for 93.2 miles;  Turn LEFT onto W HAMPTON SPRINGS AVE/FL-30. Continue to follow FL-30. 40.5 miles;  Turn LEFT onto FL-363/PORT LEON RD. for 2.0 mi; Turn RIGHT onto SHELL ISLAND RD. for 0.1 miles;  Turn LEFT onto LADD DR. for 0.1 miles;  Turn RIGHT onto WARD ST. 0.1 miles;  End at Saint Marks, FL 32355 US or I-10 to Hwy 27 turns into Hwy 363 South continue on Hwy 363 and 1700 ft before Highway 98 right hand side. From I-10, Exit 199, take US 27 south to the junction of SR 363 and continue south on SR 363. Follow SR 363 south to the site, about 1.1 miles north of the junction of US 98. The site is on the right by the welding shop.",
     "serialNumber": null,
-    "partNumber": null,
-    "make": null,
+    "partNumber": "MDR8706",
+    "make": "ALCATEL",
     "reserveField1": null,
     "reserveField2": null,
     "reserveField3": null,
     "reserveField4": null,
     "reserveField5": null,
     "defaultVendor": {
-      "$oid": "69fca8e57d89a2c17023fbfb"
+      "$oid": "69fca8e57d89a2c17023fbfc"
     },
     "imagePath": null,
     "email": [
-      null,
       "pspcsysops@l3harris.com"
     ],
     "lastEditedBy": {
       "$oid": "69fc9a275d7502a03d84520e"
     },
-    "lastEditedTimestamp": "2026-07-06T15:25:31.507Z"
+    "lastEditedTimestamp": "2026-08-05T13:24:10.365Z"
   },
   {
     "type": "Microwave",
@@ -37,30 +36,60 @@
     "collection": "Microwave",
     "network": "SLERS 2",
     "siteid": {
-      "$oid": "6a21a18e7d89a2c17023fdf1"
+      "$oid": "6a21a18e7d89a2c17023fe22"
     },
-    "equipmentName": "Meacham Microwave 2 to Century CI",
-    "equipmentID": "R850S135M2",
-    "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+    "equipmentName": "Adams Microwave 2 to Crawfordville",
+    "equipmentID": "R850S019M2",
+    "additionalInfo": "Start out going South on TPC DR toward HAZELTINE NATIONAL DR. 0.2 miles;  Turn RIGHT onto HAZELTINE NATIONAL DR. 0.9 miles;  Turn LEFT onto FL-436 S/S SEMORAN BLVD. 0.4 miles;  Take the SR-528-TOLL W ramp toward TAMPA. 0.5 miles;  Merge onto BEE LINE EXWY/FL-528 W (Portions toll). 5.8 miles;  Take the TURNPIKE exit toward US-17/US-441/US-92. for 0.1 miles;   Take the TURNPIKE exit. for 0.9 miles; Merge onto FLORIDA'S TURNPIKE N (Portions toll). 53.7 miles;  Stay straight to go onto I-75 N. for 24.5 miles;  Take the US-27 N exit- exit number 354- toward WILLISTON/TALLAHASSEE.  for 0.3 miles;  Turn LEFT onto US-27 N/FL-500 N. Continue to follow US-27 N. for 21.3 miles;  Stay straight to go onto W NOBLE AVE/US-27 ALT/FL-121. Continue to follow US-27 ALT N. for 93.2 miles;  Turn LEFT onto W HAMPTON SPRINGS AVE/FL-30. Continue to follow FL-30. 40.5 miles;  Turn LEFT onto FL-363/PORT LEON RD. for 2.0 mi; Turn RIGHT onto SHELL ISLAND RD. for 0.1 miles;  Turn LEFT onto LADD DR. for 0.1 miles;  Turn RIGHT onto WARD ST. 0.1 miles;  End at Saint Marks, FL 32355 US or I-10 to Hwy 27 turns into Hwy 363 South continue on Hwy 363 and 1700 ft before Highway 98 right hand side. From I-10, Exit 199, take US 27 south to the junction of SR 363 and continue south on SR 363. Follow SR 363 south to the site, about 1.1 miles north of the junction of US 98. The site is on the right by the welding shop.",
     "serialNumber": null,
-    "partNumber": null,
-    "make": null,
+    "partNumber": "MDR8706",
+    "make": "ALCATEL",
     "reserveField1": null,
     "reserveField2": null,
     "reserveField3": null,
     "reserveField4": null,
     "reserveField5": null,
     "defaultVendor": {
-      "$oid": "69fca8e57d89a2c17023fbfb"
+      "$oid": "69fca8e57d89a2c17023fbfc"
     },
     "imagePath": null,
     "email": [
-      null,
       "pspcsysops@l3harris.com"
     ],
     "lastEditedBy": {
       "$oid": "69fc9a275d7502a03d84520e"
     },
-    "lastEditedTimestamp": "2026-07-06T15:26:20.441Z"
+    "lastEditedTimestamp": "2026-08-05T13:26:39.681Z"
+  },
+  {
+    "type": "Microwave",
+    "caseType": "Ticket",
+    "collection": "Microwave",
+    "network": "SLERS 2",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fe22"
+    },
+    "equipmentName": "Adams Microwave 3 to Aucilla",
+    "equipmentID": "R850S019M3",
+    "additionalInfo": "Start out going South on TPC DR toward HAZELTINE NATIONAL DR. 0.2 miles;  Turn RIGHT onto HAZELTINE NATIONAL DR. 0.9 miles;  Turn LEFT onto FL-436 S/S SEMORAN BLVD. 0.4 miles;  Take the SR-528-TOLL W ramp toward TAMPA. 0.5 miles;  Merge onto BEE LINE EXWY/FL-528 W (Portions toll). 5.8 miles;  Take the TURNPIKE exit toward US-17/US-441/US-92. for 0.1 miles;   Take the TURNPIKE exit. for 0.9 miles; Merge onto FLORIDA'S TURNPIKE N (Portions toll). 53.7 miles;  Stay straight to go onto I-75 N. for 24.5 miles;  Take the US-27 N exit- exit number 354- toward WILLISTON/TALLAHASSEE.  for 0.3 miles;  Turn LEFT onto US-27 N/FL-500 N. Continue to follow US-27 N. for 21.3 miles;  Stay straight to go onto W NOBLE AVE/US-27 ALT/FL-121. Continue to follow US-27 ALT N. for 93.2 miles;  Turn LEFT onto W HAMPTON SPRINGS AVE/FL-30. Continue to follow FL-30. 40.5 miles;  Turn LEFT onto FL-363/PORT LEON RD. for 2.0 mi; Turn RIGHT onto SHELL ISLAND RD. for 0.1 miles;  Turn LEFT onto LADD DR. for 0.1 miles;  Turn RIGHT onto WARD ST. 0.1 miles;  End at Saint Marks, FL 32355 US or I-10 to Hwy 27 turns into Hwy 363 South continue on Hwy 363 and 1700 ft before Highway 98 right hand side. From I-10, Exit 199, take US 27 south to the junction of SR 363 and continue south on SR 363. Follow SR 363 south to the site, about 1.1 miles north of the junction of US 98. The site is on the right by the welding shop.",
+    "serialNumber": null,
+    "partNumber": "MDR8706",
+    "make": "ALCATEL",
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbfc"
+    },
+    "imagePath": null,
+    "email": [
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-08-05T13:28:05.501Z"
   }
 ]
