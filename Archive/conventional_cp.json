@@ -1,18 +1,15 @@
 [
   {
-    "type": "Mutual Aid",
+    "type": "CP Conventional",
     "caseType": "Ticket",
-    "collection": "Channels",
+    "collection": "CP Conventional",
     "network": "SLERS 2",
     "siteid": {
       "$oid": "6a21a18e7d89a2c17023fe22"
     },
-    "equipmentName": "Adams Mutual Aid Calling",
-    "equipmentID": "R850S019C1",
+    "equipmentName": "Adams Conventional Analog Voter Calling",
+    "equipmentID": "R850S019CCPA1",
     "additionalInfo": "Start out going South on TPC DR toward HAZELTINE NATIONAL DR. 0.2 miles;  Turn RIGHT onto HAZELTINE NATIONAL DR. 0.9 miles;  Turn LEFT onto FL-436 S/S SEMORAN BLVD. 0.4 miles;  Take the SR-528-TOLL W ramp toward TAMPA. 0.5 miles;  Merge onto BEE LINE EXWY/FL-528 W (Portions toll). 5.8 miles;  Take the TURNPIKE exit toward US-17/US-441/US-92. for 0.1 miles;   Take the TURNPIKE exit. for 0.9 miles; Merge onto FLORIDA'S TURNPIKE N (Portions toll). 53.7 miles;  Stay straight to go onto I-75 N. for 24.5 miles;  Take the US-27 N exit- exit number 354- toward WILLISTON/TALLAHASSEE.  for 0.3 miles;  Turn LEFT onto US-27 N/FL-500 N. Continue to follow US-27 N. for 21.3 miles;  Stay straight to go onto W NOBLE AVE/US-27 ALT/FL-121. Continue to follow US-27 ALT N. for 93.2 miles;  Turn LEFT onto W HAMPTON SPRINGS AVE/FL-30. Continue to follow FL-30. 40.5 miles;  Turn LEFT onto FL-363/PORT LEON RD. for 2.0 mi; Turn RIGHT onto SHELL ISLAND RD. for 0.1 miles;  Turn LEFT onto LADD DR. for 0.1 miles;  Turn RIGHT onto WARD ST. 0.1 miles;  End at Saint Marks, FL 32355 US or I-10 to Hwy 27 turns into Hwy 363 South continue on Hwy 363 and 1700 ft before Highway 98 right hand side. From I-10, Exit 199, take US 27 south to the junction of SR 363 and continue south on SR 363. Follow SR 363 south to the site, about 1.1 miles north of the junction of US 98. The site is on the right by the welding shop.",
-    "hostName": null,
-    "ipAddress": null,
-    "frequency": null,
     "reserveField1": null,
     "reserveField2": null,
     "reserveField3": null,
@@ -22,28 +19,25 @@
       "$oid": "69fca8e57d89a2c17023fbfc"
     },
     "imagePath": null,
-    "email": [
-      "pspcsysops@l3harris.com"
-    ],
     "lastEditedBy": {
       "$oid": "69fc9a275d7502a03d84520e"
     },
-    "lastEditedTimestamp": "2026-08-04T14:25:53.111Z"
+    "email": [
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedTimestamp": "2026-08-06T13:11:34.287Z"
   },
   {
-    "type": "Mutual Aid",
+    "type": "CP Conventional",
     "caseType": "Ticket",
-    "collection": "Channels",
+    "collection": "CP Conventional",
     "network": "SLERS 2",
     "siteid": {
       "$oid": "6a21a18e7d89a2c17023fe22"
     },
-    "equipmentName": "Adams Mutual Aid TAC 91",
-    "equipmentID": "R850S019C2",
+    "equipmentName": "Adams Conventional Analog Voter TAC 1",
+    "equipmentID": "R850S019CCPA2",
     "additionalInfo": "Start out going South on TPC DR toward HAZELTINE NATIONAL DR. 0.2 miles;  Turn RIGHT onto HAZELTINE NATIONAL DR. 0.9 miles;  Turn LEFT onto FL-436 S/S SEMORAN BLVD. 0.4 miles;  Take the SR-528-TOLL W ramp toward TAMPA. 0.5 miles;  Merge onto BEE LINE EXWY/FL-528 W (Portions toll). 5.8 miles;  Take the TURNPIKE exit toward US-17/US-441/US-92. for 0.1 miles;   Take the TURNPIKE exit. for 0.9 miles; Merge onto FLORIDA'S TURNPIKE N (Portions toll). 53.7 miles;  Stay straight to go onto I-75 N. for 24.5 miles;  Take the US-27 N exit- exit number 354- toward WILLISTON/TALLAHASSEE.  for 0.3 miles;  Turn LEFT onto US-27 N/FL-500 N. Continue to follow US-27 N. for 21.3 miles;  Stay straight to go onto W NOBLE AVE/US-27 ALT/FL-121. Continue to follow US-27 ALT N. for 93.2 miles;  Turn LEFT onto W HAMPTON SPRINGS AVE/FL-30. Continue to follow FL-30. 40.5 miles;  Turn LEFT onto FL-363/PORT LEON RD. for 2.0 mi; Turn RIGHT onto SHELL ISLAND RD. for 0.1 miles;  Turn LEFT onto LADD DR. for 0.1 miles;  Turn RIGHT onto WARD ST. 0.1 miles;  End at Saint Marks, FL 32355 US or I-10 to Hwy 27 turns into Hwy 363 South continue on Hwy 363 and 1700 ft before Highway 98 right hand side. From I-10, Exit 199, take US 27 south to the junction of SR 363 and continue south on SR 363. Follow SR 363 south to the site, about 1.1 miles north of the junction of US 98. The site is on the right by the welding shop.",
-    "hostName": null,
-    "ipAddress": null,
-    "frequency": null,
     "reserveField1": null,
     "reserveField2": null,
     "reserveField3": null,
@@ -53,28 +47,25 @@
       "$oid": "69fca8e57d89a2c17023fbfc"
     },
     "imagePath": null,
-    "email": [
-      "pspcsysops@l3harris.com"
-    ],
     "lastEditedBy": {
       "$oid": "69fc9a275d7502a03d84520e"
     },
-    "lastEditedTimestamp": "2026-08-04T14:39:12.840Z"
+    "email": [
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedTimestamp": "2026-08-06T13:12:40.514Z"
   },
   {
-    "type": "Mutual Aid",
+    "type": "CP Conventional",
     "caseType": "Ticket",
-    "collection": "Channels",
+    "collection": "CP Conventional",
     "network": "SLERS 2",
     "siteid": {
       "$oid": "6a21a18e7d89a2c17023fe22"
     },
-    "equipmentName": "Adams Mutual Aid TAC 92",
-    "equipmentID": "R850S019C3",
+    "equipmentName": "Adams Audio Test Equipment",
+    "equipmentID": "R850S019CCPCA",
     "additionalInfo": "Start out going South on TPC DR toward HAZELTINE NATIONAL DR. 0.2 miles;  Turn RIGHT onto HAZELTINE NATIONAL DR. 0.9 miles;  Turn LEFT onto FL-436 S/S SEMORAN BLVD. 0.4 miles;  Take the SR-528-TOLL W ramp toward TAMPA. 0.5 miles;  Merge onto BEE LINE EXWY/FL-528 W (Portions toll). 5.8 miles;  Take the TURNPIKE exit toward US-17/US-441/US-92. for 0.1 miles;   Take the TURNPIKE exit. for 0.9 miles; Merge onto FLORIDA'S TURNPIKE N (Portions toll). 53.7 miles;  Stay straight to go onto I-75 N. for 24.5 miles;  Take the US-27 N exit- exit number 354- toward WILLISTON/TALLAHASSEE.  for 0.3 miles;  Turn LEFT onto US-27 N/FL-500 N. Continue to follow US-27 N. for 21.3 miles;  Stay straight to go onto W NOBLE AVE/US-27 ALT/FL-121. Continue to follow US-27 ALT N. for 93.2 miles;  Turn LEFT onto W HAMPTON SPRINGS AVE/FL-30. Continue to follow FL-30. 40.5 miles;  Turn LEFT onto FL-363/PORT LEON RD. for 2.0 mi; Turn RIGHT onto SHELL ISLAND RD. for 0.1 miles;  Turn LEFT onto LADD DR. for 0.1 miles;  Turn RIGHT onto WARD ST. 0.1 miles;  End at Saint Marks, FL 32355 US or I-10 to Hwy 27 turns into Hwy 363 South continue on Hwy 363 and 1700 ft before Highway 98 right hand side. From I-10, Exit 199, take US 27 south to the junction of SR 363 and continue south on SR 363. Follow SR 363 south to the site, about 1.1 miles north of the junction of US 98. The site is on the right by the welding shop.",
-    "hostName": null,
-    "ipAddress": null,
-    "frequency": null,
     "reserveField1": null,
     "reserveField2": null,
     "reserveField3": null,
@@ -84,28 +75,25 @@
       "$oid": "69fca8e57d89a2c17023fbfc"
     },
     "imagePath": null,
-    "email": [
-      "pspcsysops@l3harris.com"
-    ],
     "lastEditedBy": {
       "$oid": "69fc9a275d7502a03d84520e"
     },
-    "lastEditedTimestamp": "2026-08-04T14:42:00.504Z"
+    "email": [
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedTimestamp": "2026-08-06T13:16:16.903Z"
   },
   {
-    "type": "Mutual Aid",
+    "type": "CP Conventional",
     "caseType": "Ticket",
-    "collection": "Channels",
+    "collection": "CP Conventional",
     "network": "SLERS 2",
     "siteid": {
       "$oid": "6a21a18e7d89a2c17023fe22"
     },
-    "equipmentName": "Adams Mutual Aid TAC 93",
-    "equipmentID": "R850S019C4",
+    "equipmentName": "Adams GPS Receiver",
+    "equipmentID": "R850S019CCPCG",
     "additionalInfo": "Start out going South on TPC DR toward HAZELTINE NATIONAL DR. 0.2 miles;  Turn RIGHT onto HAZELTINE NATIONAL DR. 0.9 miles;  Turn LEFT onto FL-436 S/S SEMORAN BLVD. 0.4 miles;  Take the SR-528-TOLL W ramp toward TAMPA. 0.5 miles;  Merge onto BEE LINE EXWY/FL-528 W (Portions toll). 5.8 miles;  Take the TURNPIKE exit toward US-17/US-441/US-92. for 0.1 miles;   Take the TURNPIKE exit. for 0.9 miles; Merge onto FLORIDA'S TURNPIKE N (Portions toll). 53.7 miles;  Stay straight to go onto I-75 N. for 24.5 miles;  Take the US-27 N exit- exit number 354- toward WILLISTON/TALLAHASSEE.  for 0.3 miles;  Turn LEFT onto US-27 N/FL-500 N. Continue to follow US-27 N. for 21.3 miles;  Stay straight to go onto W NOBLE AVE/US-27 ALT/FL-121. Continue to follow US-27 ALT N. for 93.2 miles;  Turn LEFT onto W HAMPTON SPRINGS AVE/FL-30. Continue to follow FL-30. 40.5 miles;  Turn LEFT onto FL-363/PORT LEON RD. for 2.0 mi; Turn RIGHT onto SHELL ISLAND RD. for 0.1 miles;  Turn LEFT onto LADD DR. for 0.1 miles;  Turn RIGHT onto WARD ST. 0.1 miles;  End at Saint Marks, FL 32355 US or I-10 to Hwy 27 turns into Hwy 363 South continue on Hwy 363 and 1700 ft before Highway 98 right hand side. From I-10, Exit 199, take US 27 south to the junction of SR 363 and continue south on SR 363. Follow SR 363 south to the site, about 1.1 miles north of the junction of US 98. The site is on the right by the welding shop.",
-    "hostName": null,
-    "ipAddress": null,
-    "frequency": null,
     "reserveField1": null,
     "reserveField2": null,
     "reserveField3": null,
@@ -115,28 +103,25 @@
       "$oid": "69fca8e57d89a2c17023fbfc"
     },
     "imagePath": null,
-    "email": [
-      "pspcsysops@l3harris.com"
-    ],
     "lastEditedBy": {
       "$oid": "69fc9a275d7502a03d84520e"
     },
-    "lastEditedTimestamp": "2026-08-04T14:42:40.469Z"
+    "email": [
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedTimestamp": "2026-08-06T13:17:00.622Z"
   },
   {
-    "type": "Mutual Aid",
+    "type": "CP Conventional",
     "caseType": "Ticket",
-    "collection": "Channels",
+    "collection": "CP Conventional",
     "network": "SLERS 2",
     "siteid": {
       "$oid": "6a21a18e7d89a2c17023fe22"
     },
-    "equipmentName": "Adams Mutual Aid TAC 94",
-    "equipmentID": "R850S019C5",
+    "equipmentName": "Adams Oscilliscope",
+    "equipmentID": "R850S019CCPCO",
     "additionalInfo": "Start out going South on TPC DR toward HAZELTINE NATIONAL DR. 0.2 miles;  Turn RIGHT onto HAZELTINE NATIONAL DR. 0.9 miles;  Turn LEFT onto FL-436 S/S SEMORAN BLVD. 0.4 miles;  Take the SR-528-TOLL W ramp toward TAMPA. 0.5 miles;  Merge onto BEE LINE EXWY/FL-528 W (Portions toll). 5.8 miles;  Take the TURNPIKE exit toward US-17/US-441/US-92. for 0.1 miles;   Take the TURNPIKE exit. for 0.9 miles; Merge onto FLORIDA'S TURNPIKE N (Portions toll). 53.7 miles;  Stay straight to go onto I-75 N. for 24.5 miles;  Take the US-27 N exit- exit number 354- toward WILLISTON/TALLAHASSEE.  for 0.3 miles;  Turn LEFT onto US-27 N/FL-500 N. Continue to follow US-27 N. for 21.3 miles;  Stay straight to go onto W NOBLE AVE/US-27 ALT/FL-121. Continue to follow US-27 ALT N. for 93.2 miles;  Turn LEFT onto W HAMPTON SPRINGS AVE/FL-30. Continue to follow FL-30. 40.5 miles;  Turn LEFT onto FL-363/PORT LEON RD. for 2.0 mi; Turn RIGHT onto SHELL ISLAND RD. for 0.1 miles;  Turn LEFT onto LADD DR. for 0.1 miles;  Turn RIGHT onto WARD ST. 0.1 miles;  End at Saint Marks, FL 32355 US or I-10 to Hwy 27 turns into Hwy 363 South continue on Hwy 363 and 1700 ft before Highway 98 right hand side. From I-10, Exit 199, take US 27 south to the junction of SR 363 and continue south on SR 363. Follow SR 363 south to the site, about 1.1 miles north of the junction of US 98. The site is on the right by the welding shop.",
-    "hostName": null,
-    "ipAddress": null,
-    "frequency": null,
     "reserveField1": null,
     "reserveField2": null,
     "reserveField3": null,
@@ -146,27 +131,25 @@
       "$oid": "69fca8e57d89a2c17023fbfc"
     },
     "imagePath": null,
-    "email": [
-      "pspcsysops@l3harris.com"
-    ],
     "lastEditedBy": {
       "$oid": "69fc9a275d7502a03d84520e"
     },
-    "lastEditedTimestamp": "2026-08-04T14:50:14.894Z"
+    "email": [
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedTimestamp": "2026-08-06T13:18:00.049Z"
   },
   {
-    "type": "Mutual Aid GPS",
+    "type": "CP Conventional",
     "caseType": "Ticket",
-    "collection": "Channels",
+    "collection": "CP Conventional",
     "network": "SLERS 2",
     "siteid": {
       "$oid": "6a21a18e7d89a2c17023fe22"
     },
-    "equipmentName": "Adams Mutual Aid GPS ",
-    "equipmentID": "R850S019CCG",
+    "equipmentName": "Adams Power Supply",
+    "equipmentID": "R850S019CCPCP",
     "additionalInfo": "Start out going South on TPC DR toward HAZELTINE NATIONAL DR. 0.2 miles;  Turn RIGHT onto HAZELTINE NATIONAL DR. 0.9 miles;  Turn LEFT onto FL-436 S/S SEMORAN BLVD. 0.4 miles;  Take the SR-528-TOLL W ramp toward TAMPA. 0.5 miles;  Merge onto BEE LINE EXWY/FL-528 W (Portions toll). 5.8 miles;  Take the TURNPIKE exit toward US-17/US-441/US-92. for 0.1 miles;   Take the TURNPIKE exit. for 0.9 miles; Merge onto FLORIDA'S TURNPIKE N (Portions toll). 53.7 miles;  Stay straight to go onto I-75 N. for 24.5 miles;  Take the US-27 N exit- exit number 354- toward WILLISTON/TALLAHASSEE.  for 0.3 miles;  Turn LEFT onto US-27 N/FL-500 N. Continue to follow US-27 N. for 21.3 miles;  Stay straight to go onto W NOBLE AVE/US-27 ALT/FL-121. Continue to follow US-27 ALT N. for 93.2 miles;  Turn LEFT onto W HAMPTON SPRINGS AVE/FL-30. Continue to follow FL-30. 40.5 miles;  Turn LEFT onto FL-363/PORT LEON RD. for 2.0 mi; Turn RIGHT onto SHELL ISLAND RD. for 0.1 miles;  Turn LEFT onto LADD DR. for 0.1 miles;  Turn RIGHT onto WARD ST. 0.1 miles;  End at Saint Marks, FL 32355 US or I-10 to Hwy 27 turns into Hwy 363 South continue on Hwy 363 and 1700 ft before Highway 98 right hand side. From I-10, Exit 199, take US 27 south to the junction of SR 363 and continue south on SR 363. Follow SR 363 south to the site, about 1.1 miles north of the junction of US 98. The site is on the right by the welding shop.",
-    "modelNumber": null,
-    "serialNumber": null,
     "reserveField1": null,
     "reserveField2": null,
     "reserveField3": null,
@@ -176,24 +159,24 @@
       "$oid": "69fca8e57d89a2c17023fbfc"
     },
     "imagePath": null,
-    "email": [
-      "pspcsysops@l3harris.com"
-    ],
     "lastEditedBy": {
       "$oid": "69fc9a275d7502a03d84520e"
     },
-    "lastEditedTimestamp": "2026-08-04T14:51:20.873Z"
+    "email": [
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedTimestamp": "2026-08-06T13:18:32.681Z"
   },
   {
-    "type": "Mutual Aid Multiplexer",
+    "type": "CP Conventional",
     "caseType": "Ticket",
-    "collection": "Channels",
+    "collection": "CP Conventional",
     "network": "SLERS 2",
     "siteid": {
       "$oid": "6a21a18e7d89a2c17023fe22"
     },
-    "equipmentName": "Adams Mutual Aid Multiplexer ",
-    "equipmentID": "R850S019CCM",
+    "equipmentName": "Adams Sync Shelf",
+    "equipmentID": "R850S019CCPCS",
     "additionalInfo": "Start out going South on TPC DR toward HAZELTINE NATIONAL DR. 0.2 miles;  Turn RIGHT onto HAZELTINE NATIONAL DR. 0.9 miles;  Turn LEFT onto FL-436 S/S SEMORAN BLVD. 0.4 miles;  Take the SR-528-TOLL W ramp toward TAMPA. 0.5 miles;  Merge onto BEE LINE EXWY/FL-528 W (Portions toll). 5.8 miles;  Take the TURNPIKE exit toward US-17/US-441/US-92. for 0.1 miles;   Take the TURNPIKE exit. for 0.9 miles; Merge onto FLORIDA'S TURNPIKE N (Portions toll). 53.7 miles;  Stay straight to go onto I-75 N. for 24.5 miles;  Take the US-27 N exit- exit number 354- toward WILLISTON/TALLAHASSEE.  for 0.3 miles;  Turn LEFT onto US-27 N/FL-500 N. Continue to follow US-27 N. for 21.3 miles;  Stay straight to go onto W NOBLE AVE/US-27 ALT/FL-121. Continue to follow US-27 ALT N. for 93.2 miles;  Turn LEFT onto W HAMPTON SPRINGS AVE/FL-30. Continue to follow FL-30. 40.5 miles;  Turn LEFT onto FL-363/PORT LEON RD. for 2.0 mi; Turn RIGHT onto SHELL ISLAND RD. for 0.1 miles;  Turn LEFT onto LADD DR. for 0.1 miles;  Turn RIGHT onto WARD ST. 0.1 miles;  End at Saint Marks, FL 32355 US or I-10 to Hwy 27 turns into Hwy 363 South continue on Hwy 363 and 1700 ft before Highway 98 right hand side. From I-10, Exit 199, take US 27 south to the junction of SR 363 and continue south on SR 363. Follow SR 363 south to the site, about 1.1 miles north of the junction of US 98. The site is on the right by the welding shop.",
     "reserveField1": null,
     "reserveField2": null,
@@ -204,24 +187,24 @@
       "$oid": "69fca8e57d89a2c17023fbfc"
     },
     "imagePath": null,
-    "email": [
-      "pspcsysops@l3harris.com"
-    ],
     "lastEditedBy": {
       "$oid": "69fc9a275d7502a03d84520e"
     },
-    "lastEditedTimestamp": "2026-08-04T14:52:20.759Z"
+    "email": [
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedTimestamp": "2026-08-06T13:19:13.155Z"
   },
   {
-    "type": "Mutual Aid Power Supply",
+    "type": "CP Conventional",
     "caseType": "Ticket",
-    "collection": "Channels",
+    "collection": "CP Conventional",
     "network": "SLERS 2",
     "siteid": {
       "$oid": "6a21a18e7d89a2c17023fe22"
     },
-    "equipmentName": "Adams Mutual Aid Power Supply ",
-    "equipmentID": "R850S019CCPS",
+    "equipmentName": "Adams Test Radio",
+    "equipmentID": "R850S019CCPCT",
     "additionalInfo": "Start out going South on TPC DR toward HAZELTINE NATIONAL DR. 0.2 miles;  Turn RIGHT onto HAZELTINE NATIONAL DR. 0.9 miles;  Turn LEFT onto FL-436 S/S SEMORAN BLVD. 0.4 miles;  Take the SR-528-TOLL W ramp toward TAMPA. 0.5 miles;  Merge onto BEE LINE EXWY/FL-528 W (Portions toll). 5.8 miles;  Take the TURNPIKE exit toward US-17/US-441/US-92. for 0.1 miles;   Take the TURNPIKE exit. for 0.9 miles; Merge onto FLORIDA'S TURNPIKE N (Portions toll). 53.7 miles;  Stay straight to go onto I-75 N. for 24.5 miles;  Take the US-27 N exit- exit number 354- toward WILLISTON/TALLAHASSEE.  for 0.3 miles;  Turn LEFT onto US-27 N/FL-500 N. Continue to follow US-27 N. for 21.3 miles;  Stay straight to go onto W NOBLE AVE/US-27 ALT/FL-121. Continue to follow US-27 ALT N. for 93.2 miles;  Turn LEFT onto W HAMPTON SPRINGS AVE/FL-30. Continue to follow FL-30. 40.5 miles;  Turn LEFT onto FL-363/PORT LEON RD. for 2.0 mi; Turn RIGHT onto SHELL ISLAND RD. for 0.1 miles;  Turn LEFT onto LADD DR. for 0.1 miles;  Turn RIGHT onto WARD ST. 0.1 miles;  End at Saint Marks, FL 32355 US or I-10 to Hwy 27 turns into Hwy 363 South continue on Hwy 363 and 1700 ft before Highway 98 right hand side. From I-10, Exit 199, take US 27 south to the junction of SR 363 and continue south on SR 363. Follow SR 363 south to the site, about 1.1 miles north of the junction of US 98. The site is on the right by the welding shop.",
     "reserveField1": null,
     "reserveField2": null,
@@ -232,24 +215,24 @@
       "$oid": "69fca8e57d89a2c17023fbfc"
     },
     "imagePath": null,
-    "email": [
-      "pspcsysops@l3harris.com"
-    ],
     "lastEditedBy": {
       "$oid": "69fc9a275d7502a03d84520e"
     },
-    "lastEditedTimestamp": "2026-08-04T15:39:25.033Z"
+    "email": [
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedTimestamp": "2026-08-06T13:20:06.529Z"
   },
   {
-    "type": "Mutual Aid Sync Shelf",
+    "type": "CP Conventional",
     "caseType": "Ticket",
-    "collection": "Channels",
+    "collection": "CP Conventional",
     "network": "SLERS 2",
     "siteid": {
       "$oid": "6a21a18e7d89a2c17023fe22"
     },
-    "equipmentName": "Adams Mutual Aid Sync Shelf",
-    "equipmentID": "R850S019CCS",
+    "equipmentName": "Adams Conventional SC MUX (Adams)",
+    "equipmentID": "R850S019CCPM1",
     "additionalInfo": "Start out going South on TPC DR toward HAZELTINE NATIONAL DR. 0.2 miles;  Turn RIGHT onto HAZELTINE NATIONAL DR. 0.9 miles;  Turn LEFT onto FL-436 S/S SEMORAN BLVD. 0.4 miles;  Take the SR-528-TOLL W ramp toward TAMPA. 0.5 miles;  Merge onto BEE LINE EXWY/FL-528 W (Portions toll). 5.8 miles;  Take the TURNPIKE exit toward US-17/US-441/US-92. for 0.1 miles;   Take the TURNPIKE exit. for 0.9 miles; Merge onto FLORIDA'S TURNPIKE N (Portions toll). 53.7 miles;  Stay straight to go onto I-75 N. for 24.5 miles;  Take the US-27 N exit- exit number 354- toward WILLISTON/TALLAHASSEE.  for 0.3 miles;  Turn LEFT onto US-27 N/FL-500 N. Continue to follow US-27 N. for 21.3 miles;  Stay straight to go onto W NOBLE AVE/US-27 ALT/FL-121. Continue to follow US-27 ALT N. for 93.2 miles;  Turn LEFT onto W HAMPTON SPRINGS AVE/FL-30. Continue to follow FL-30. 40.5 miles;  Turn LEFT onto FL-363/PORT LEON RD. for 2.0 mi; Turn RIGHT onto SHELL ISLAND RD. for 0.1 miles;  Turn LEFT onto LADD DR. for 0.1 miles;  Turn RIGHT onto WARD ST. 0.1 miles;  End at Saint Marks, FL 32355 US or I-10 to Hwy 27 turns into Hwy 363 South continue on Hwy 363 and 1700 ft before Highway 98 right hand side. From I-10, Exit 199, take US 27 south to the junction of SR 363 and continue south on SR 363. Follow SR 363 south to the site, about 1.1 miles north of the junction of US 98. The site is on the right by the welding shop.",
     "reserveField1": null,
     "reserveField2": null,
@@ -260,12 +243,68 @@
       "$oid": "69fca8e57d89a2c17023fbfc"
     },
     "imagePath": null,
-    "email": [
-      "pspcsysops@l3harris.com"
-    ],
     "lastEditedBy": {
       "$oid": "69fc9a275d7502a03d84520e"
     },
-    "lastEditedTimestamp": "2026-08-04T15:41:46.189Z"
+    "email": [
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedTimestamp": "2026-08-06T13:28:01.623Z"
+  },
+  {
+    "type": "CP Conventional",
+    "caseType": "Ticket",
+    "collection": "CP Conventional",
+    "network": "SLERS 2",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fe22"
+    },
+    "equipmentName": "Adams Conventional SC MUX (Crawfordville)",
+    "equipmentID": "R850S019CCPM2",
+    "additionalInfo": "Start out going South on TPC DR toward HAZELTINE NATIONAL DR. 0.2 miles;  Turn RIGHT onto HAZELTINE NATIONAL DR. 0.9 miles;  Turn LEFT onto FL-436 S/S SEMORAN BLVD. 0.4 miles;  Take the SR-528-TOLL W ramp toward TAMPA. 0.5 miles;  Merge onto BEE LINE EXWY/FL-528 W (Portions toll). 5.8 miles;  Take the TURNPIKE exit toward US-17/US-441/US-92. for 0.1 miles;   Take the TURNPIKE exit. for 0.9 miles; Merge onto FLORIDA'S TURNPIKE N (Portions toll). 53.7 miles;  Stay straight to go onto I-75 N. for 24.5 miles;  Take the US-27 N exit- exit number 354- toward WILLISTON/TALLAHASSEE.  for 0.3 miles;  Turn LEFT onto US-27 N/FL-500 N. Continue to follow US-27 N. for 21.3 miles;  Stay straight to go onto W NOBLE AVE/US-27 ALT/FL-121. Continue to follow US-27 ALT N. for 93.2 miles;  Turn LEFT onto W HAMPTON SPRINGS AVE/FL-30. Continue to follow FL-30. 40.5 miles;  Turn LEFT onto FL-363/PORT LEON RD. for 2.0 mi; Turn RIGHT onto SHELL ISLAND RD. for 0.1 miles;  Turn LEFT onto LADD DR. for 0.1 miles;  Turn RIGHT onto WARD ST. 0.1 miles;  End at Saint Marks, FL 32355 US or I-10 to Hwy 27 turns into Hwy 363 South continue on Hwy 363 and 1700 ft before Highway 98 right hand side. From I-10, Exit 199, take US 27 south to the junction of SR 363 and continue south on SR 363. Follow SR 363 south to the site, about 1.1 miles north of the junction of US 98. The site is on the right by the welding shop.",
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbfc"
+    },
+    "imagePath": null,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "email": [
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedTimestamp": "2026-08-06T13:29:11.662Z"
+  },
+  {
+    "type": "CP Conventional",
+    "caseType": "Ticket",
+    "collection": "CP Conventional",
+    "network": "SLERS 2",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fe22"
+    },
+    "equipmentName": "Adams Conventional SC MUX (Barker)",
+    "equipmentID": "R850S019CCPM3",
+    "additionalInfo": "Start out going South on TPC DR toward HAZELTINE NATIONAL DR. 0.2 miles;  Turn RIGHT onto HAZELTINE NATIONAL DR. 0.9 miles;  Turn LEFT onto FL-436 S/S SEMORAN BLVD. 0.4 miles;  Take the SR-528-TOLL W ramp toward TAMPA. 0.5 miles;  Merge onto BEE LINE EXWY/FL-528 W (Portions toll). 5.8 miles;  Take the TURNPIKE exit toward US-17/US-441/US-92. for 0.1 miles;   Take the TURNPIKE exit. for 0.9 miles; Merge onto FLORIDA'S TURNPIKE N (Portions toll). 53.7 miles;  Stay straight to go onto I-75 N. for 24.5 miles;  Take the US-27 N exit- exit number 354- toward WILLISTON/TALLAHASSEE.  for 0.3 miles;  Turn LEFT onto US-27 N/FL-500 N. Continue to follow US-27 N. for 21.3 miles;  Stay straight to go onto W NOBLE AVE/US-27 ALT/FL-121. Continue to follow US-27 ALT N. for 93.2 miles;  Turn LEFT onto W HAMPTON SPRINGS AVE/FL-30. Continue to follow FL-30. 40.5 miles;  Turn LEFT onto FL-363/PORT LEON RD. for 2.0 mi; Turn RIGHT onto SHELL ISLAND RD. for 0.1 miles;  Turn LEFT onto LADD DR. for 0.1 miles;  Turn RIGHT onto WARD ST. 0.1 miles;  End at Saint Marks, FL 32355 US or I-10 to Hwy 27 turns into Hwy 363 South continue on Hwy 363 and 1700 ft before Highway 98 right hand side. From I-10, Exit 199, take US 27 south to the junction of SR 363 and continue south on SR 363. Follow SR 363 south to the site, about 1.1 miles north of the junction of US 98. The site is on the right by the welding shop.",
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbfc"
+    },
+    "imagePath": null,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "email": [
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedTimestamp": "2026-08-06T13:30:07.074Z"
   }
 ]
