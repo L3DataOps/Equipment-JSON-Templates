@@ -104,8 +104,10 @@ if (network == "SLERS") {
   const num = prompt("Enter which number for the for the channel (Ex. 1 = Channel 1): ").trim();
 
   const equipmentName = `${siteName} Channel ${num}`;
-  const num2 = prompt("Enter the number after the E in the equipment number for SLERS 1 EQ:")
-  const equipmentID = `${selectedSite.altSiteName}E${num2}`;
+  const equipmentSuffix = prompt(
+  "Enter the equipment ID suffix (R850S103XXXXX, x404XXXX): "
+).trim();
+  const equipmentID = `${selectedSite.altSiteName}${equipmentSuffix}`;
 
   let additionalInfo = prompt("Additional Info: ").trim();
   if (additionalInfo == ""){
@@ -195,8 +197,10 @@ const email = [
   const num = prompt("Enter which number for the for the channel (Ex. 1 = Channel 1): ").trim();
 
   const equipmentName = `${siteName} Channel ${num}`;
-  const num2 = prompt("Enter the number after the U in the equipment number for SLERS 2 EQ:")
-  const equipmentID = `${selectedSite.siteNumber}U${num2}TBS`;
+  const equipmentSuffix = prompt(
+  "Enter the equipment ID suffix (R850S103XXXXX, x404XXXX): "
+).trim();
+  const equipmentID = `${selectedSite.siteNumber}${equipmentSuffix}`;
 
   let additionalInfo = prompt("Additional Info: ").trim();
   if (additionalInfo == ""){

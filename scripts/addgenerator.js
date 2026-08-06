@@ -303,7 +303,6 @@ const email = [
       pmType,
     pmNeeded,
     pmHistory,
-      lastPM,
       reserveField1,
       reserveField2,
       reserveField3,

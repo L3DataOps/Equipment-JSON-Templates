@@ -27,7 +27,8 @@ const options = [
   "Add Site Civil",
   "Add Site Telecom",
   "Add AC-DC Power Supply Module",
-  "Add Vegetation Control"
+  "Add Vegetation Control",
+  "Add Shelter"
 ];
 //==================================================================================
 for (let i = 0; i < options.length; i++) {
@@ -536,6 +537,94 @@ const email = [
         pmType,
     pmNeeded,
     pmHistory,
+        reserveField1,
+        reserveField2,
+        reserveField3,
+        reserveField4,
+        reserveField5,
+        defaultVendor,
+        imagePath,
+        email,
+        lastEditedBy,
+        lastEditedTimestamp: new Date().toISOString()
+      };
+
+      // =======================
+      // SAVE
+      // =======================
+    
+
+      Object.keys(newEntry).forEach(key => {
+  if (newEntry[key] === "") {
+    newEntry[key] = null;
+  }
+});
+
+    data.push(newEntry);
+    
+    fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
+    
+    console.log("\n✅ Entry added successfully!");
+    console.log(newEntry);
+  break}
+  case "6":{
+    const type = "Shelter";
+    const caseType = "Work Order";
+    const collection = "Shelter";
+
+    const equipmentName = `${siteName} Shelter`;
+    const equipmentID = `${siteEQ}XS`;
+
+    let additionalInfo = prompt("Additional Info: ").trim();
+    if (additionalInfo == ""){
+        additionalInfo = selectedSite.additionalInfo
+    }
+
+    const serialNumber = prompt("Enter the shelter serial number:")
+    const make = prompt("Enter the shelter manufacturer:")
+    const model = prompt("Enter the shelter model or part number:")
+
+    const reserveField1 = "";
+    const reserveField2 = "";
+    const reserveField3 = "";
+    const reserveField4 = "";
+    const reserveField5 = "";
+
+  const vendorSelection = selectFromList(
+  vendorOptions,
+  "Enter default vendor separated by commas: ",
+  "vendorName",
+  "_id",
+  { multi: false }
+);
+
+      const selectedVendor = vendorOptions.find(
+  v => v._id.$oid === vendorSelection.$oid
+);
+
+const defaultVendor = vendorSelection;
+
+    const imagePath = "";
+const email = [
+  "pspcsysops@l3harris.com",
+  ...(Array.isArray(selectedVendor.vendorEmail)
+    ? selectedVendor.vendorEmail
+    : [selectedVendor.vendorEmail])
+].filter(email => email);
+    const lastEditedBy = selectFromList(userOptions, "Enter user: ", "username", "_id", { multi: false });
+
+    const newEntry = {
+        type,
+        caseType,
+        collection,
+        network: networkName,
+        siteid,
+        equipmentName,
+        equipmentID,
+        additionalInfo,
+        serialNumber,
+        make,
+        model,
         reserveField1,
         reserveField2,
         reserveField3,
