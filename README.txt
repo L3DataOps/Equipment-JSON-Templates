@@ -19,12 +19,17 @@ To update Vendors to Mongo:
     - After the Vendors are updated, hit "Export Data" > "Export the full collection" to download the new updated vendors collection from Mongo.
 
 
+When creating a new script for a general piece of equipment. Use "addconventional_cp.js" as a template.
+
+
 Equipment Types per JS script file:
 
     - addanalogchannel.js
         - analog channels
     - addats.js
         - ats
+    - addbackupradio.js
+        - add back up radios.
     - addchannel.js
         - channels
     - addcompound.js
