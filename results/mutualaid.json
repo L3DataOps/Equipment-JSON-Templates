@@ -267,5 +267,160 @@
       "$oid": "69fc9a275d7502a03d84520e"
     },
     "lastEditedTimestamp": "2026-08-04T15:41:46.189Z"
+  },
+  {
+    "type": "Mutual Aid",
+    "caseType": "Ticket",
+    "collection": "Channels",
+    "network": "SLERS",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fe9a"
+    },
+    "equipmentName": "Alva Mutual Aid Calling",
+    "equipmentID": "XC1C1",
+    "additionalInfo": "Take I-75 south to State Road 80 West (Exit 25).  Take State Road 80 East for approximately 13 miles to State Road 884/Joel Blvd.  Stay on State Road 80 East, go past State Road 884 for approximately 2.6 miles, the site is on the south side of State Road 80.  042017 1036 TLO - Changed  80 West  to  80 East.   Site is East of I-75, rather than West.  American Tower SITE # 5163",
+    "hostName": null,
+    "ipAddress": null,
+    "frequency": null,
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbf1"
+    },
+    "imagePath": null,
+    "email": [
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-08-06T18:12:07.482Z"
+  },
+  {
+    "type": "Mutual Aid",
+    "caseType": "Ticket",
+    "collection": "Channels",
+    "network": "SLERS",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fe9a"
+    },
+    "equipmentName": "Alva Mutual Aid TAC 91",
+    "equipmentID": "XC1C2",
+    "additionalInfo": "Take I-75 south to State Road 80 West (Exit 25).  Take State Road 80 East for approximately 13 miles to State Road 884/Joel Blvd.  Stay on State Road 80 East, go past State Road 884 for approximately 2.6 miles, the site is on the south side of State Road 80.  042017 1036 TLO - Changed  80 West  to  80 East.   Site is East of I-75, rather than West.  American Tower SITE # 5163",
+    "hostName": null,
+    "ipAddress": null,
+    "frequency": null,
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbf1"
+    },
+    "imagePath": null,
+    "email": [
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-08-06T18:15:51.267Z"
+  },
+  {
+    "type": "Mutual Aid",
+    "caseType": "Ticket",
+    "collection": "Channels",
+    "network": "SLERS",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fe9a"
+    },
+    "equipmentName": "Alva Mutual Aid TAC 92",
+    "equipmentID": "XC1C3",
+    "additionalInfo": "Take I-75 south to State Road 80 West (Exit 25).  Take State Road 80 East for approximately 13 miles to State Road 884/Joel Blvd.  Stay on State Road 80 East, go past State Road 884 for approximately 2.6 miles, the site is on the south side of State Road 80.  042017 1036 TLO - Changed  80 West  to  80 East.   Site is East of I-75, rather than West.  American Tower SITE # 5163",
+    "hostName": null,
+    "ipAddress": null,
+    "frequency": null,
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbf1"
+    },
+    "imagePath": null,
+    "email": [
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-08-06T18:25:38.635Z"
+  },
+  {
+    "type": "Mutual Aid",
+    "caseType": "Ticket",
+    "collection": "Channels",
+    "network": "SLERS",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fe9a"
+    },
+    "equipmentName": "Alva Mutual Aid TAC 93",
+    "equipmentID": "XC1C4",
+    "additionalInfo": "Take I-75 south to State Road 80 West (Exit 25).  Take State Road 80 East for approximately 13 miles to State Road 884/Joel Blvd.  Stay on State Road 80 East, go past State Road 884 for approximately 2.6 miles, the site is on the south side of State Road 80.  042017 1036 TLO - Changed  80 West  to  80 East.   Site is East of I-75, rather than West.  American Tower SITE # 5163",
+    "hostName": null,
+    "ipAddress": null,
+    "frequency": null,
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbf1"
+    },
+    "imagePath": null,
+    "email": [
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-08-06T18:27:54.810Z"
+  },
+  {
+    "type": "Mutual Aid",
+    "caseType": "Ticket",
+    "collection": "Channels",
+    "network": "SLERS",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fe9a"
+    },
+    "equipmentName": "Alva Mutual Aid TAC 94",
+    "equipmentID": "XC1C5",
+    "additionalInfo": "Take I-75 south to State Road 80 West (Exit 25).  Take State Road 80 East for approximately 13 miles to State Road 884/Joel Blvd.  Stay on State Road 80 East, go past State Road 884 for approximately 2.6 miles, the site is on the south side of State Road 80.  042017 1036 TLO - Changed  80 West  to  80 East.   Site is East of I-75, rather than West.  American Tower SITE # 5163",
+    "hostName": null,
+    "ipAddress": null,
+    "frequency": null,
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbf1"
+    },
+    "imagePath": null,
+    "email": [
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-08-06T18:30:02.049Z"
   }
 ]
