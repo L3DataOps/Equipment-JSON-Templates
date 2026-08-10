@@ -22,7 +22,20 @@ else{
 }
 const siteName = selectedSite.siteName
 const siteid = selectedSite._id
+const options = [
+  "Add Backup Radio",
+  "Add Backup Radio Circuit",
+];
 
+//==================================================================================
+for (let i = 0; i < options.length; i++) {
+  console.log(`${i + 1}. ${options[i]}`);
+}
+
+let userSelect = prompt("Choose a number option: ");
+
+
+console.log(`You selected: ${options[userSelect - 1]}`);
 
 
 // Load existing data
@@ -80,6 +93,8 @@ function selectFromList(options, question, displayKey, valueKey, { multi = true 
 // PROMPTS
 // =======================
 
+switch (userSelect) {
+  case "1":{
   const type = "Backup Radio";
   const caseType = "Ticket";
   const collection = "Backup Radio";
@@ -174,5 +189,105 @@ const email = [
 
   console.log("\n✅ Entry added successfully!");
   console.log(newEntry);
+  break}
+
+  case "2":{
+  const type = "Backup Radio Circuit";
+  const caseType = "Ticket";
+  const collection = "Backup Radio";
+
+  const equipmentType = prompt(
+  "Enter the name of the equipment (Ex. Switch 1, Power Supply, GPS Receiver...): "
+).trim();
+
+const equipmentName = `${siteName} ${equipmentType}`;
+
+const equipmentSuffix = prompt(
+  "Enter the equipment ID suffix (R850S103XXXXX, x404XXXX): "
+).trim();
+
+const equipmentID = network == "SLERS"
+  ? `${selectedSite.altSiteName}${equipmentSuffix}`
+  : `${selectedSite.siteNumber}${equipmentSuffix}`;
+
+  let additionalInfo = prompt("Additional Info: ").trim();
+  if (additionalInfo == ""){
+    additionalInfo = selectedSite.additionalInfo
+  }
+
+  const reserveField1 = "";
+    const reserveField2 = "";
+    const reserveField3 = "";
+    const reserveField4 = "";
+    const reserveField5 = "";
+
+
+ const vendorSelection = selectFromList(
+  vendorOptions,
+  "Enter default vendor separated by commas: ",
+  "vendorName",
+  "_id",
+  { multi: false }
+);
+
+const selectedVendor = vendorOptions.find(
+  v => v._id.$oid === vendorSelection.$oid
+);
+
+const defaultVendor = vendorSelection;
+  const imagePath = "";
+const email = [
+  "pspcsysops@l3harris.com",
+  ...(Array.isArray(selectedVendor.vendorEmail)
+    ? selectedVendor.vendorEmail
+    : [selectedVendor.vendorEmail])
+].filter(email => email);
+
+  const lastEditedBy = selectFromList(userOptions, "Enter user: ", "username", "_id", { multi: false });
+
+  // =======================
+  // BUILD ENTRY
+  // =======================
+
+  const newEntry = {
+    type,
+    caseType,
+    collection,
+    network:networkName,
+    siteid,
+    equipmentName,
+    equipmentID,
+    additionalInfo,
+    reserveField1,
+    reserveField2,
+    reserveField3,
+    reserveField4,
+    reserveField5,
+    defaultVendor,
+    imagePath,
+    lastEditedBy,
+    email,
+    lastEditedTimestamp: new Date().toISOString()
+  };
+
+  // =======================
+  // SAVE
+  // =======================
+
+  Object.keys(newEntry).forEach(key => {
+  if (newEntry[key] === "") {
+    newEntry[key] = null;
+  }
+});
+
+  data.push(newEntry);
+
+  fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
+
+  console.log("\n✅ Entry added successfully!");
+  console.log(newEntry);
+  break}
+
+}
 
 
