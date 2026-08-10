@@ -80,5 +80,90 @@
       "bulletproofpower@gmail.com"
     ],
     "lastEditedTimestamp": "2026-08-05T19:21:07.065Z"
+  },
+  {
+    "type": "Rectifier",
+    "caseType": "Work Order",
+    "collection": "UPS/Rectifier",
+    "network": "SLERS",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fe9a"
+    },
+    "equipmentName": "Alva Rectifier Rack",
+    "equipmentID": "XC1MR",
+    "serialNumber": "25450001884 MFG 10/01/2025",
+    "make": "ELTEK",
+    "model": "FPSK59I-ANL-BC / FLATPACK",
+    "capacity": "25 AMP",
+    "dateInstalled": "01/07/2026",
+    "batteryDate": "06/01/2025",
+    "pmType": "Rectifier",
+    "pmNeeded": true,
+    "pmHistory": [],
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "additionalInfo": "Battery Info: GNB 50",
+    "defaultVendor": {
+      "$oid": "6a394d727d89a2c17023feed"
+    },
+    "imagePath": null,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "email": [
+      "pspcsysops@l3harris.com",
+      "kevin.behana@l3harris.com",
+      "dan.keppel@l3harris.com",
+      "dfriedman@eolapower.com",
+      "ndiaz@eolapower.com"
+    ],
+    "lastEditedTimestamp": "2026-08-09T21:48:23.494Z"
+  },
+  {
+    "type": "UPS",
+    "caseType": "Work Order",
+    "collection": "UPS/Rectifier",
+    "network": "SLERS",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fe9a"
+    },
+    "equipmentName": "Alva UPS",
+    "equipmentID": "XC1XU",
+    "serialNumber": "BJ171T0032",
+    "make": "POWERWARE",
+    "model": "9170+",
+    "capacity": "12KVA/40",
+    "dateInstalled": null,
+    "batteryDate": "07/19/2022",
+    "hostName": "1UPS1801",
+    "ipAddress": "10.0.117.80",
+    "upsURL": "http://1UPS1801",
+    "pmType": "UPS",
+    "pmNeeded": true,
+    "pmHistory": [],
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "additionalInfo": "Take I-75 south to State Road 80 West (Exit 25).  Take State Road 80 East for approximately 13 miles to State Road 884/Joel Blvd.  Stay on State Road 80 East, go past State Road 884 for approximately 2.6 miles, the site is on the south side of State Road 80.  042017 1036 TLO - Changed  80 West  to  80 East.   Site is East of I-75, rather than West.  American Tower SITE # 5163",
+    "defaultVendor": {
+      "$oid": "6a394d727d89a2c17023feed"
+    },
+    "imagePath": null,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "email": [
+      "pspcsysops@l3harris.com",
+      "kevin.behana@l3harris.com",
+      "dan.keppel@l3harris.com",
+      "dfriedman@eolapower.com",
+      "ndiaz@eolapower.com"
+    ],
+    "lastEditedTimestamp": "2026-08-09T23:49:11.868Z"
   }
 ]

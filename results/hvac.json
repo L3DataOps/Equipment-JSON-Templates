@@ -9,7 +9,7 @@
     },
     "equipmentName": "Adams HVAC 1",
     "equipmentID": "R850S019XH1",
-    "additionalInfo": "Start out going South on TPC DR toward HAZELTINE NATIONAL DR. 0.2 miles;  Turn RIGHT onto HAZELTINE NATIONAL DR. 0.9 miles;  Turn LEFT onto FL-436 S/S SEMORAN BLVD. 0.4 miles;  Take the SR-528-TOLL W ramp toward TAMPA. 0.5 miles;  Merge onto BEE LINE EXWY/FL-528 W (Portions toll). 5.8 miles;  Take the TURNPIKE exit toward US-17/US-441/US-92. for 0.1 miles;   Take the TURNPIKE exit. for 0.9 miles; Merge onto FLORIDA'S TURNPIKE N (Portions toll). 53.7 miles;  Stay straight to go onto I-75 N. for 24.5 miles;  Take the US-27 N exit- exit number 354- toward WILLISTON/TALLAHASSEE.  for 0.3 miles;  Turn LEFT onto US-27 N/FL-500 N. Continue to follow US-27 N. for 21.3 miles;  Stay straight to go onto W NOBLE AVE/US-27 ALT/FL-121. Continue to follow US-27 ALT N. for 93.2 miles;  Turn LEFT onto W HAMPTON SPRINGS AVE/FL-30. Continue to follow FL-30. 40.5 miles;  Turn LEFT onto FL-363/PORT LEON RD. for 2.0 mi; Turn RIGHT onto SHELL ISLAND RD. for 0.1 miles;  Turn LEFT onto LADD DR. for 0.1 miles;  Turn RIGHT onto WARD ST. 0.1 miles;  End at Saint Marks, FL 32355 US or I-10 to Hwy 27 turns into Hwy 363 South continue on Hwy 363 and 1700 ft before Highway 98 right hand side. From I-10, Exit 199, take US 27 south to the junction of SR 363 and continue south on SR 363. Follow SR 363 south to the site, about 1.1 miles north of the junction of US 98. The site is on the right by the welding shop.",
+    "additionalInfo": "** IF REPAIR WORK ORDER EMAIL WHEN COMPLETED **",
     "make": "BARD - WALL MOUNT",
     "model": "W60AY-A05XPXXXJ",
     "serialNumber": "289H244216192-02",
@@ -48,7 +48,7 @@
     },
     "equipmentName": "Adams HVAC 2",
     "equipmentID": "R850S019XH2",
-    "additionalInfo": "Start out going South on TPC DR toward HAZELTINE NATIONAL DR. 0.2 miles;  Turn RIGHT onto HAZELTINE NATIONAL DR. 0.9 miles;  Turn LEFT onto FL-436 S/S SEMORAN BLVD. 0.4 miles;  Take the SR-528-TOLL W ramp toward TAMPA. 0.5 miles;  Merge onto BEE LINE EXWY/FL-528 W (Portions toll). 5.8 miles;  Take the TURNPIKE exit toward US-17/US-441/US-92. for 0.1 miles;   Take the TURNPIKE exit. for 0.9 miles; Merge onto FLORIDA'S TURNPIKE N (Portions toll). 53.7 miles;  Stay straight to go onto I-75 N. for 24.5 miles;  Take the US-27 N exit- exit number 354- toward WILLISTON/TALLAHASSEE.  for 0.3 miles;  Turn LEFT onto US-27 N/FL-500 N. Continue to follow US-27 N. for 21.3 miles;  Stay straight to go onto W NOBLE AVE/US-27 ALT/FL-121. Continue to follow US-27 ALT N. for 93.2 miles;  Turn LEFT onto W HAMPTON SPRINGS AVE/FL-30. Continue to follow FL-30. 40.5 miles;  Turn LEFT onto FL-363/PORT LEON RD. for 2.0 mi; Turn RIGHT onto SHELL ISLAND RD. for 0.1 miles;  Turn LEFT onto LADD DR. for 0.1 miles;  Turn RIGHT onto WARD ST. 0.1 miles;  End at Saint Marks, FL 32355 US or I-10 to Hwy 27 turns into Hwy 363 South continue on Hwy 363 and 1700 ft before Highway 98 right hand side. From I-10, Exit 199, take US 27 south to the junction of SR 363 and continue south on SR 363. Follow SR 363 south to the site, about 1.1 miles north of the junction of US 98. The site is on the right by the welding shop.",
+    "additionalInfo": "** IF REPAIR WORK ORDER EMAIL WHEN COMPLETED **",
     "make": "BARD - WALL MOUNT",
     "model": "WA602-A00XWXXXJ",
     "serialNumber": "153-0021714947-02",
@@ -76,5 +76,83 @@
       "commercialservice@peakpowerservices.com"
     ],
     "lastEditedTimestamp": "2026-08-05T18:48:13.204Z"
+  },
+  {
+    "type": "HVAC",
+    "caseType": "Work Order",
+    "collection": "HVAC",
+    "network": "SLERS",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fe9a"
+    },
+    "equipmentName": "Alva HVAC 1",
+    "equipmentID": "XC1XH1",
+    "additionalInfo": "** IF REPAIR WORK ORDER EMAIL WHEN COMPLETED **",
+    "make": "BARD",
+    "model": "W48A2-A00",
+    "serialNumber": "400C193633753-02",
+    "capacity": "3.5T",
+    "dateInstalled": "10/08/2020",
+    "pmType": "HVAC",
+    "pmNeeded": true,
+    "pmHistory": [],
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "6a394d727d89a2c17023feeb"
+    },
+    "imagePath": null,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "email": [
+      "pspcsysops@l3harris.com",
+      "kevin.behana@l3harris.com",
+      "dan.keppel@l3harris.com",
+      "commercialservice@peakpowerservices.com"
+    ],
+    "lastEditedTimestamp": "2026-08-09T23:18:10.863Z"
+  },
+  {
+    "type": "HVAC",
+    "caseType": "Work Order",
+    "collection": "HVAC",
+    "network": "SLERS",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fe9a"
+    },
+    "equipmentName": "Alva HVAC 2",
+    "equipmentID": "XC1XH2",
+    "additionalInfo": "** IF REPAIR WORK ORDER EMAIL WHEN COMPLETED **",
+    "make": "BARD",
+    "model": "WA421A05XP5XXJ",
+    "serialNumber": "126H011642961",
+    "capacity": "3.5 TON",
+    "dateInstalled": null,
+    "pmType": "HVAC",
+    "pmNeeded": true,
+    "pmHistory": [],
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "6a394d727d89a2c17023feeb"
+    },
+    "imagePath": null,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "email": [
+      "pspcsysops@l3harris.com",
+      "kevin.behana@l3harris.com",
+      "dan.keppel@l3harris.com",
+      "commercialservice@peakpowerservices.com"
+    ],
+    "lastEditedTimestamp": "2026-08-09T23:19:21.451Z"
   }
 ]

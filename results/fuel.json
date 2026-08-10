@@ -72,5 +72,79 @@
       "pspcsysops@l3harris.com"
     ],
     "lastEditedTimestamp": "2026-08-05T15:55:01.362Z"
+  },
+  {
+    "type": "Fuel",
+    "caseType": "Work Order",
+    "collection": "Fuel",
+    "network": "SLERS",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fe9a"
+    },
+    "equipmentName": "Alva Fuel",
+    "pmNeeded": true,
+    "pmType": "SPCC",
+    "pmHistory": [],
+    "equipmentID": "XC1XF",
+    "serialNumber": null,
+    "make": null,
+    "model": null,
+    "capacity": "622 GALLONS",
+    "reserveField1": null,
+    "reserveField2": null,
+    "additionalInfo": "Primary Fuel Vendor: PALMDALE OIL / Jessica Whited 561-732-2433 Ext: 106 / Jwhited@Palmdaleoil.com. Secondary Fuel Vendor: JAGUAR FUELING  / AMBER ISAACKS 832-428-5826 / service@jaguarfueling.com",
+    "defaultVendor": {
+      "$oid": "6a512aa57d89a2c17023ff43"
+    },
+    "imagePath": null,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "email": [
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedTimestamp": "2026-08-09T22:16:18.806Z"
+  },
+  {
+    "type": "Fuel Tank",
+    "caseType": "Work Order",
+    "collection": "Fuel",
+    "network": "SLERS",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fe9a"
+    },
+    "equipmentName": "Alva Fuel Tank",
+    "equipmentID": "XC1XFT",
+    "serialNumber": null,
+    "make": null,
+    "model": null,
+    "capacity": "622 Gallons",
+    "fuelType": "Diesel",
+    "fuelHistory": [
+      {
+        "recordDate": null,
+        "recordCaseNumber": null,
+        "recordType": null,
+        "previousPercentageAmount": null,
+        "currentPercentageAmount": null,
+        "gallonsFilled": null,
+        "lastFillVendor": null
+      }
+    ],
+    "refuelNeeded": true,
+    "reserveField1": null,
+    "reserveField2": null,
+    "additionalInfo": "Primary Fuel Vendor: PALMDALE OIL / Jessica Whited 561-732-2433 Ext: 106 / Jwhited@Palmdaleoil.com. Secondary Fuel Vendor: JAGUAR FUELING  / AMBER ISAACKS 832-428-5826 / service@jaguarfueling.com",
+    "defaultVendor": {
+      "$oid": "6a512aa57d89a2c17023ff43"
+    },
+    "imagePath": null,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "email": [
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedTimestamp": "2026-08-09T22:53:05.165Z"
   }
 ]

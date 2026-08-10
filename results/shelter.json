@@ -122,5 +122,98 @@
       "$oid": "69fc9a275d7502a03d84520e"
     },
     "lastEditedTimestamp": "2026-08-05T18:58:57.346Z"
+  },
+  {
+    "type": "Civil",
+    "caseType": "Work Order",
+    "collection": "Shelter",
+    "network": "SLERS",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fe9a"
+    },
+    "equipmentName": "Alva Civil Work",
+    "equipmentID": "XC1XC",
+    "additionalInfo": "Take I-75 south to State Road 80 West (Exit 25).  Take State Road 80 East for approximately 13 miles to State Road 884/Joel Blvd.  Stay on State Road 80 East, go past State Road 884 for approximately 2.6 miles, the site is on the south side of State Road 80.  042017 1036 TLO - Changed  80 West  to  80 East.   Site is East of I-75, rather than West.  American Tower SITE # 5163",
+    "pmType": "Civil",
+    "pmNeeded": true,
+    "pmHistory": [],
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "6a394d727d89a2c17023feec"
+    },
+    "imagePath": null,
+    "email": [
+      "pspcsysops@l3harris.com",
+      "onsitegroupinc1@gmail.com"
+    ],
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-08-09T21:59:43.307Z"
+  },
+  {
+    "type": "Electric",
+    "caseType": "Ticket",
+    "collection": "Shelter",
+    "network": "SLERS",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fe9a"
+    },
+    "equipmentName": "Alva Site Electric",
+    "equipmentID": "XC1XE",
+    "additionalInfo": "METER # ACD0955",
+    "accountNumber": "2740763467",
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "6a469c047d89a2c17023ff1e"
+    },
+    "imagePath": null,
+    "email": [
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-08-09T22:00:54.729Z"
+  },
+  {
+    "type": "Shelter",
+    "caseType": "Work Order",
+    "collection": "Shelter",
+    "network": "SLERS",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fe9a"
+    },
+    "equipmentName": "Alva Shelter",
+    "equipmentID": "XC1XS",
+    "additionalInfo": "Take I-75 south to State Road 80 West (Exit 25).  Take State Road 80 East for approximately 13 miles to State Road 884/Joel Blvd.  Stay on State Road 80 East, go past State Road 884 for approximately 2.6 miles, the site is on the south side of State Road 80.  042017 1036 TLO - Changed  80 West  to  80 East.   Site is East of I-75, rather than West.  American Tower SITE # 5163",
+    "serialNumber": null,
+    "make": "ROHN",
+    "model": "12' X 26'",
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "6a394d727d89a2c17023feec"
+    },
+    "imagePath": null,
+    "email": [
+      "pspcsysops@l3harris.com",
+      "onsitegroupinc1@gmail.com"
+    ],
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-08-09T23:20:56.219Z"
   }
 ]

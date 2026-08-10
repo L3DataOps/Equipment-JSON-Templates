@@ -76,5 +76,83 @@
       "harriscomm@ips.us"
     ],
     "lastEditedTimestamp": "2026-08-05T18:45:09.059Z"
+  },
+  {
+    "type": "ATS",
+    "caseType": "Work Order",
+    "collection": "Generator",
+    "network": "SLERS",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fe9a"
+    },
+    "equipmentName": "Alva ATS",
+    "equipmentID": "XC1XATS",
+    "serialNumber": "K0712063",
+    "make": "KOHLER",
+    "model": "K-564231-0225",
+    "additionalInfo": "Take I-75 south to State Road 80 West (Exit 25).  Take State Road 80 East for approximately 13 miles to State Road 884/Joel Blvd.  Stay on State Road 80 East, go past State Road 884 for approximately 2.6 miles, the site is on the south side of State Road 80.  042017 1036 TLO - Changed  80 West  to  80 East.   Site is East of I-75, rather than West.  American Tower SITE # 5163",
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "6a394d727d89a2c17023feea"
+    },
+    "imagePath": null,
+    "email": [
+      "pspcsysops@l3harris.com",
+      "kevin.behana@l3harris.com",
+      "dan.keppel@l3harris.com",
+      "harriscomm@ips.us"
+    ],
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-08-09T21:59:01.428Z"
+  },
+  {
+    "type": "Generator",
+    "caseType": "Work Order",
+    "collection": "Generator",
+    "network": "SLERS",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fe9a"
+    },
+    "equipmentName": "Alva Generator",
+    "equipmentID": "XC1XG",
+    "serialNumber": "0701882",
+    "make": "KOHLER",
+    "model": "60REOZJ",
+    "fuelType": "Diesel",
+    "capacity": "60KW",
+    "dateInstalled": null,
+    "batteryDate": "06/01/2022",
+    "exerciseDay": "Tuesday",
+    "exerciseTime": "13:00",
+    "runTime": null,
+    "pmType": "Generator",
+    "pmNeeded": true,
+    "pmHistory": [],
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "additionalInfo": "Take I-75 south to State Road 80 West (Exit 25).  Take State Road 80 East for approximately 13 miles to State Road 884/Joel Blvd.  Stay on State Road 80 East, go past State Road 884 for approximately 2.6 miles, the site is on the south side of State Road 80.  042017 1036 TLO - Changed  80 West  to  80 East.   Site is East of I-75, rather than West.  American Tower SITE # 5163",
+    "defaultVendor": {
+      "$oid": "6a394d727d89a2c17023feea"
+    },
+    "imagePath": null,
+    "email": [
+      "pspcsysops@l3harris.com",
+      "kevin.behana@l3harris.com",
+      "dan.keppel@l3harris.com",
+      "harriscomm@ips.us"
+    ],
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-08-09T22:55:36.933Z"
   }
 ]
