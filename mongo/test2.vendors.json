@@ -1206,4 +1206,22 @@
   "reserveField5": null,
   "imagePath": null,
   "lastEditedTimestamp": "2026-08-05T19:23:57.943Z"
+},
+{
+  "_id": {
+    "$oid": "6a8344227d89a2c17023ffa0"
+  },
+  "vendorName": "GOFF COMMUNICATIONS INC (Rick Clark)",
+  "vendorNumber": "941-955-7106",
+  "vendorEmail": null,
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "imagePath": null,
+  "lastEditedTimestamp": "2026-08-17T15:41:29.911Z"
 }]

@@ -310,5 +310,38 @@
       "pspcsysops@l3harris.com"
     ],
     "lastEditedTimestamp": "2026-08-09T21:54:38.743Z"
+  },
+  {
+    "type": "Tower",
+    "caseType": "Ticket",
+    "collection": "Tower",
+    "network": "SLERS",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fe9a"
+    },
+    "equipmentName": "Alva Tower",
+    "equipmentID": "XC1XT",
+    "serialNumber": null,
+    "make": null,
+    "model": null,
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "additionalInfo": "TOWER OWNER - ATC. SECONDARY TOWER CREW - DYNAMIC CONSTRUCTION. TERTIARY CREW - SBA -  OCALA",
+    "defaultVendor": {
+      "$oid": "6a8344227d89a2c17023ffa0"
+    },
+    "imagePath": null,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "email": [
+      "pspcsysops@l3harris.com",
+      "kevin.behana@l3harris.com",
+      "dan.keppel@l3harris.com"
+    ],
+    "lastEditedTimestamp": "2026-08-18T12:47:49.265Z"
   }
 ]
