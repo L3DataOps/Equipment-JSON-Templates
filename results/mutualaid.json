@@ -422,5 +422,160 @@
       "$oid": "69fc9a275d7502a03d84520e"
     },
     "lastEditedTimestamp": "2026-08-06T18:30:02.049Z"
+  },
+  {
+    "type": "Mutual Aid",
+    "caseType": "Ticket",
+    "collection": "Channels",
+    "network": "SLERS",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fe6c"
+    },
+    "equipmentName": "Apopka Mutual Aid Calling",
+    "equipmentID": "X405C1",
+    "additionalInfo": "FROM M/A COM OFFICE IN ORLANDO TAKE THE B LINE, SR 528, TO THE FLORIDA TURNPIKE AND GO NORTH. AT THE EXIT FOR SR 429 TAKE SR 429 NORTH. AT EXIT FOR CR 437 TAKE A LEFT ONTO CR 437 AND GO NORTHEAST TO THE CROSS ROAD S. HAWTRHORNE AVE. TURN LEFT ONTO S. HAWTHORNE AVE. TRUN RIGHT ONTO FOURTH ST. AND THE TOWER ACCESS ROAD IS ON THE LEFT.",
+    "hostName": null,
+    "ipAddress": null,
+    "frequency": null,
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbf8"
+    },
+    "imagePath": null,
+    "email": [
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-08-18T22:13:52.712Z"
+  },
+  {
+    "type": "Mutual Aid",
+    "caseType": "Ticket",
+    "collection": "Channels",
+    "network": "SLERS",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fe6c"
+    },
+    "equipmentName": "Apopka Mutual Aid TAC 91",
+    "equipmentID": "X405C2",
+    "additionalInfo": "FROM M/A COM OFFICE IN ORLANDO TAKE THE B LINE, SR 528, TO THE FLORIDA TURNPIKE AND GO NORTH. AT THE EXIT FOR SR 429 TAKE SR 429 NORTH. AT EXIT FOR CR 437 TAKE A LEFT ONTO CR 437 AND GO NORTHEAST TO THE CROSS ROAD S. HAWTRHORNE AVE. TURN LEFT ONTO S. HAWTHORNE AVE. TRUN RIGHT ONTO FOURTH ST. AND THE TOWER ACCESS ROAD IS ON THE LEFT.",
+    "hostName": null,
+    "ipAddress": null,
+    "frequency": null,
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbf8"
+    },
+    "imagePath": null,
+    "email": [
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-08-18T22:17:06.864Z"
+  },
+  {
+    "type": "Mutual Aid",
+    "caseType": "Ticket",
+    "collection": "Channels",
+    "network": "SLERS",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fe6c"
+    },
+    "equipmentName": "Apopka Mutual Aid TAC 92",
+    "equipmentID": "X405C3",
+    "additionalInfo": "FROM M/A COM OFFICE IN ORLANDO TAKE THE B LINE, SR 528, TO THE FLORIDA TURNPIKE AND GO NORTH. AT THE EXIT FOR SR 429 TAKE SR 429 NORTH. AT EXIT FOR CR 437 TAKE A LEFT ONTO CR 437 AND GO NORTHEAST TO THE CROSS ROAD S. HAWTRHORNE AVE. TURN LEFT ONTO S. HAWTHORNE AVE. TRUN RIGHT ONTO FOURTH ST. AND THE TOWER ACCESS ROAD IS ON THE LEFT.",
+    "hostName": null,
+    "ipAddress": null,
+    "frequency": null,
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbf8"
+    },
+    "imagePath": null,
+    "email": [
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-08-18T23:16:51.439Z"
+  },
+  {
+    "type": "Mutual Aid",
+    "caseType": "Ticket",
+    "collection": "Channels",
+    "network": "SLERS",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fe6c"
+    },
+    "equipmentName": "Apopka Mutual Aid TAC 93",
+    "equipmentID": "X405C4",
+    "additionalInfo": "FROM M/A COM OFFICE IN ORLANDO TAKE THE B LINE, SR 528, TO THE FLORIDA TURNPIKE AND GO NORTH. AT THE EXIT FOR SR 429 TAKE SR 429 NORTH. AT EXIT FOR CR 437 TAKE A LEFT ONTO CR 437 AND GO NORTHEAST TO THE CROSS ROAD S. HAWTRHORNE AVE. TURN LEFT ONTO S. HAWTHORNE AVE. TRUN RIGHT ONTO FOURTH ST. AND THE TOWER ACCESS ROAD IS ON THE LEFT.",
+    "hostName": null,
+    "ipAddress": null,
+    "frequency": null,
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbf8"
+    },
+    "imagePath": null,
+    "email": [
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-08-18T23:17:28.019Z"
+  },
+  {
+    "type": "Mutual Aid",
+    "caseType": "Ticket",
+    "collection": "Channels",
+    "network": "SLERS",
+    "siteid": {
+      "$oid": "6a21a18e7d89a2c17023fe6c"
+    },
+    "equipmentName": "Apopka Mutual Aid TAC 94",
+    "equipmentID": "X405C5",
+    "additionalInfo": "FROM M/A COM OFFICE IN ORLANDO TAKE THE B LINE, SR 528, TO THE FLORIDA TURNPIKE AND GO NORTH. AT THE EXIT FOR SR 429 TAKE SR 429 NORTH. AT EXIT FOR CR 437 TAKE A LEFT ONTO CR 437 AND GO NORTHEAST TO THE CROSS ROAD S. HAWTRHORNE AVE. TURN LEFT ONTO S. HAWTHORNE AVE. TRUN RIGHT ONTO FOURTH ST. AND THE TOWER ACCESS ROAD IS ON THE LEFT.",
+    "hostName": null,
+    "ipAddress": null,
+    "frequency": null,
+    "reserveField1": null,
+    "reserveField2": null,
+    "reserveField3": null,
+    "reserveField4": null,
+    "reserveField5": null,
+    "defaultVendor": {
+      "$oid": "69fca8e57d89a2c17023fbf8"
+    },
+    "imagePath": null,
+    "email": [
+      "pspcsysops@l3harris.com"
+    ],
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-08-18T23:18:19.336Z"
   }
 ]
