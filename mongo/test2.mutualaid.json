@@ -1,0 +1,668 @@
+[{
+  "_id": {
+    "$oid": "6a3051937d89a2c17023fecf"
+  },
+  "type": "Mutual Aid",
+  "caseType": "Ticket",
+  "siteid": {
+    "$oid": "6a21a18e7d89a2c17023fdf1"
+  },
+  "equipmentName": "Meacham Mutual Aid Calling",
+  "equipmentID": "R850S135C1",
+  "additionalInfo": "From Penacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+  "hostName": "",
+  "ipAddress": "",
+  "frequency": "",
+  "defaultVendor": {
+    "$oid": "69fca8e57d89a2c17023fbfb"
+  },
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "lastEditedTimestamp": "2026-06-12T13:16:24.567Z"
+},
+{
+  "_id": {
+    "$oid": "6a3051937d89a2c17023fed0"
+  },
+  "type": "Mutual Aid",
+  "caseType": "Ticket",
+  "siteid": {
+    "$oid": "6a21a18e7d89a2c17023fdf1"
+  },
+  "equipmentName": "Meacham Mutual Aid TAC 91",
+  "equipmentID": "R850S135C2",
+  "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+  "hostName": "",
+  "ipAddress": "",
+  "frequency": "",
+  "defaultVendor": {
+    "$oid": "69fca8e57d89a2c17023fbfb"
+  },
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "lastEditedTimestamp": "2026-06-12T13:25:16.734Z"
+},
+{
+  "_id": {
+    "$oid": "6a3051937d89a2c17023fed1"
+  },
+  "type": "Mutual Aid",
+  "caseType": "Ticket",
+  "siteid": {
+    "$oid": "6a21a18e7d89a2c17023fdf1"
+  },
+  "equipmentName": "Meacham Mutual Aid TAC 92",
+  "equipmentID": "R850S135C3",
+  "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+  "hostName": "",
+  "ipAddress": "",
+  "frequency": "",
+  "defaultVendor": {
+    "$oid": "69fca8e57d89a2c17023fbfb"
+  },
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "lastEditedTimestamp": "2026-06-12T13:33:03.627Z"
+},
+{
+  "_id": {
+    "$oid": "6a3051937d89a2c17023fed2"
+  },
+  "type": "Mutual Aid",
+  "caseType": "Ticket",
+  "siteid": {
+    "$oid": "6a21a18e7d89a2c17023fdf1"
+  },
+  "equipmentName": "Meacham Mutual Aid TAC 93",
+  "equipmentID": "R850S135C4",
+  "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+  "hostName": "",
+  "ipAddress": "",
+  "frequency": "",
+  "defaultVendor": {
+    "$oid": "69fca8e57d89a2c17023fbfb"
+  },
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "lastEditedTimestamp": "2026-06-12T13:37:40.199Z"
+},
+{
+  "_id": {
+    "$oid": "6a3051937d89a2c17023fed3"
+  },
+  "type": "Mutual Aid",
+  "caseType": "Ticket",
+  "siteid": {
+    "$oid": "6a21a18e7d89a2c17023fdf1"
+  },
+  "equipmentName": "Meacham Mutual Aid TAC 94",
+  "equipmentID": "R850S135C5",
+  "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+  "hostName": "",
+  "ipAddress": "",
+  "frequency": "",
+  "defaultVendor": {
+    "$oid": "69fca8e57d89a2c17023fbfb"
+  },
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "lastEditedTimestamp": "2026-06-12T13:38:20.590Z"
+},
+{
+  "_id": {
+    "$oid": "6a3051937d89a2c17023fed4"
+  },
+  "type": "Mutual Aid GPS",
+  "caseType": "Ticket",
+  "siteid": {
+    "$oid": "6a21a18e7d89a2c17023fdf1"
+  },
+  "equipmentName": "Meacham Mutual Aid GPS ",
+  "equipmentID": "R850S135CCG",
+  "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+  "modelNumber": "",
+  "serialNumber": "",
+  "defaultVendor": {
+    "$oid": "69fca8e57d89a2c17023fbfb"
+  },
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-06-15T13:48:14.482Z"
+},
+{
+  "_id": {
+    "$oid": "6a3051937d89a2c17023fed5"
+  },
+  "type": "Mutual Aid Multiplexer",
+  "caseType": "Ticket",
+  "siteid": {
+    "$oid": "6a21a18e7d89a2c17023fdf1"
+  },
+  "equipmentName": "Meacham Mutual Aid Multiplexer ",
+  "equipmentID": "R850S135CCM",
+  "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+  "defaultVendor": {
+    "$oid": "69fca8e57d89a2c17023fbfb"
+  },
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-06-15T18:41:46.589Z"
+},
+{
+  "_id": {
+    "$oid": "6a3051937d89a2c17023fed6"
+  },
+  "type": "Mutual Aid Power Supply",
+  "caseType": "Ticket",
+  "siteid": {
+    "$oid": "6a21a18e7d89a2c17023fdf1"
+  },
+  "equipmentName": "Meacham Mutual Aid Power Supply ",
+  "equipmentID": "R850S135CCPS",
+  "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+  "defaultVendor": {
+    "$oid": "69fca8e57d89a2c17023fbfb"
+  },
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-06-15T18:42:22.938Z"
+},
+{
+  "_id": {
+    "$oid": "6a3051937d89a2c17023fed7"
+  },
+  "type": "Mutual Aid Sync Shelf",
+  "caseType": "Ticket",
+  "siteid": {
+    "$oid": "6a21a18e7d89a2c17023fdf1"
+  },
+  "equipmentName": "Meacham Mutual Aid Sync Shelf",
+  "equipmentID": "R850S135CCS",
+  "additionalInfo": "From Pensacola FL, take US 90 (US 98) east to US 29 (SR 95).   Turn left (west) onto CR-182 (Molino Rd).  Turn right (North) onto HWY 99 (CR 99). Continue (North) on CR 99.  Turn left (west) onto Hwy 97-A (CR 97A). Follow 97A North after 3 miles driving west. Tower site will be on your left.  Arrive at 1311 CR-97A, Walnut HIll, FL 32568.",
+  "defaultVendor": {
+    "$oid": "69fca8e57d89a2c17023fbfb"
+  },
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520d"
+  },
+  "lastEditedTimestamp": "2026-06-15T18:51:51.147Z"
+},
+{
+  "_id": {
+    "$oid": "6a5650a47d89a2c17023ff55"
+  },
+  "type": "Mutual Aid",
+  "caseType": "Ticket",
+  "collection": "Channels",
+  "network": "SLERS",
+  "siteid": {
+    "$oid": "6a21a18e7d89a2c17023fec5"
+  },
+  "equipmentName": "Big Pine Mutual Aid Calling",
+  "equipmentID": "X106C1",
+  "additionalInfo": "From Orlando take the Florida Turnpike south to the end and take US 1 into the Keys. Follow US 1 to Big Pine Key. Turn right onto Key Deer Blvd. Turn left into the correctional institution. Check in with the Office and go to the tower site. KE  Cross Street information:  Key Deer Blvd. and Wilder Road, Big Pine Key   As of 04/18/2017:  At 450 Key Deer Blvd, Road Prison, I gave Sergeant Stanley the FDOT front gate lock with combination 3368 and it will be installed onto the front gate chain when they close next week.  Directions: From Key Deer Blvd in Big Pine Key, Florida one would turn right (West) at the traffic light driving west on the blvd and then at address 450 one would turn left (South) at the main gate which will be locked, then one would find the lock with FDOT marking and use the combination code 3368 to remove the chain and open gate, then one would drive onto the facility driving South until you see a parking lot on your left (East) and then one would turn left (East) into the parking lot and park and walk to the shelter gate where the FDOT lock combination is also 3368.   Additional Access Information: The after hours (5pm-7am) contact number 305-470-5830 this is the Sun Guide Building they are open 24/7.  If something is going on during regular hours please contact me at 305 470-5431, if I'm not available you can ask for Renato Marrero, or Ruel Umbay, or Keith Jimmerson.  South Dade is approximately 100 miles away. The nearest Sheriff Department to contact is on Cudjo Key about 10 miles south and their non- emergency number is 305 289-2351.  They will  dispatch a Deputy upon request.   They also will be performing enhanced nighttime patrolling.  Please let me know if you have any questions.  Thank you,  Guy Gladson, PE Florida Department of Transportation District 6 Deputy Maintenance Engineer 305 470-5431  022119 0906 TLO - Per George, FDOT combo is 0305 should open silver lock.  And FWCC lock is 2796.  When all else fails, try old faithful 7022  030824 - Combo for unlabeled lock is 1313.  012225 DAD - Brian took over Guy Gladson's position. Brian: 305-470-5358",
+  "hostName": null,
+  "ipAddress": null,
+  "frequency": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "defaultVendor": {
+    "$oid": "69fca8e57d89a2c17023fbf4"
+  },
+  "imagePath": null,
+  "email": [
+    null,
+    "pspcsysops@l3harris.com"
+  ],
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "lastEditedTimestamp": "2026-07-14T14:27:23.343Z"
+},
+{
+  "_id": {
+    "$oid": "6a5650a47d89a2c17023ff56"
+  },
+  "type": "Mutual Aid",
+  "caseType": "Ticket",
+  "collection": "Channels",
+  "network": "SLERS",
+  "siteid": {
+    "$oid": "6a21a18e7d89a2c17023fec5"
+  },
+  "equipmentName": "Big Pine Mutual Aid TAC 91",
+  "equipmentID": "X106C2",
+  "additionalInfo": "From Orlando take the Florida Turnpike south to the end and take US 1 into the Keys. Follow US 1 to Big Pine Key. Turn right onto Key Deer Blvd. Turn left into the correctional institution. Check in with the Office and go to the tower site. KE  Cross Street information:  Key Deer Blvd. and Wilder Road, Big Pine Key   As of 04/18/2017:  At 450 Key Deer Blvd, Road Prison, I gave Sergeant Stanley the FDOT front gate lock with combination 3368 and it will be installed onto the front gate chain when they close next week.  Directions: From Key Deer Blvd in Big Pine Key, Florida one would turn right (West) at the traffic light driving west on the blvd and then at address 450 one would turn left (South) at the main gate which will be locked, then one would find the lock with FDOT marking and use the combination code 3368 to remove the chain and open gate, then one would drive onto the facility driving South until you see a parking lot on your left (East) and then one would turn left (East) into the parking lot and park and walk to the shelter gate where the FDOT lock combination is also 3368.   Additional Access Information: The after hours (5pm-7am) contact number 305-470-5830 this is the Sun Guide Building they are open 24/7.  If something is going on during regular hours please contact me at 305 470-5431, if I'm not available you can ask for Renato Marrero, or Ruel Umbay, or Keith Jimmerson.  South Dade is approximately 100 miles away. The nearest Sheriff Department to contact is on Cudjo Key about 10 miles south and their non- emergency number is 305 289-2351.  They will  dispatch a Deputy upon request.   They also will be performing enhanced nighttime patrolling.  Please let me know if you have any questions.  Thank you,  Guy Gladson, PE Florida Department of Transportation District 6 Deputy Maintenance Engineer 305 470-5431  022119 0906 TLO - Per George, FDOT combo is 0305 should open silver lock.  And FWCC lock is 2796.  When all else fails, try old faithful 7022  030824 - Combo for unlabeled lock is 1313.  012225 DAD - Brian took over Guy Gladson's position. Brian: 305-470-5358",
+  "hostName": null,
+  "ipAddress": null,
+  "frequency": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "defaultVendor": {
+    "$oid": "69fca8e57d89a2c17023fbf4"
+  },
+  "imagePath": null,
+  "email": [
+    null,
+    "pspcsysops@l3harris.com"
+  ],
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "lastEditedTimestamp": "2026-07-14T14:59:44.192Z"
+},
+{
+  "_id": {
+    "$oid": "6a5650a47d89a2c17023ff57"
+  },
+  "type": "Mutual Aid",
+  "caseType": "Ticket",
+  "collection": "Channels",
+  "network": "SLERS",
+  "siteid": {
+    "$oid": "6a21a18e7d89a2c17023fec5"
+  },
+  "equipmentName": "Big Pine Mutual Aid TAC 92",
+  "equipmentID": "X106C3",
+  "additionalInfo": "From Orlando take the Florida Turnpike south to the end and take US 1 into the Keys. Follow US 1 to Big Pine Key. Turn right onto Key Deer Blvd. Turn left into the correctional institution. Check in with the Office and go to the tower site. KE  Cross Street information:  Key Deer Blvd. and Wilder Road, Big Pine Key   As of 04/18/2017:  At 450 Key Deer Blvd, Road Prison, I gave Sergeant Stanley the FDOT front gate lock with combination 3368 and it will be installed onto the front gate chain when they close next week.  Directions: From Key Deer Blvd in Big Pine Key, Florida one would turn right (West) at the traffic light driving west on the blvd and then at address 450 one would turn left (South) at the main gate which will be locked, then one would find the lock with FDOT marking and use the combination code 3368 to remove the chain and open gate, then one would drive onto the facility driving South until you see a parking lot on your left (East) and then one would turn left (East) into the parking lot and park and walk to the shelter gate where the FDOT lock combination is also 3368.   Additional Access Information: The after hours (5pm-7am) contact number 305-470-5830 this is the Sun Guide Building they are open 24/7.  If something is going on during regular hours please contact me at 305 470-5431, if I'm not available you can ask for Renato Marrero, or Ruel Umbay, or Keith Jimmerson.  South Dade is approximately 100 miles away. The nearest Sheriff Department to contact is on Cudjo Key about 10 miles south and their non- emergency number is 305 289-2351.  They will  dispatch a Deputy upon request.   They also will be performing enhanced nighttime patrolling.  Please let me know if you have any questions.  Thank you,  Guy Gladson, PE Florida Department of Transportation District 6 Deputy Maintenance Engineer 305 470-5431  022119 0906 TLO - Per George, FDOT combo is 0305 should open silver lock.  And FWCC lock is 2796.  When all else fails, try old faithful 7022  030824 - Combo for unlabeled lock is 1313.  012225 DAD - Brian took over Guy Gladson's position. Brian: 305-470-5358",
+  "hostName": null,
+  "ipAddress": null,
+  "frequency": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "defaultVendor": {
+    "$oid": "69fca8e57d89a2c17023fbf4"
+  },
+  "imagePath": null,
+  "email": [
+    null,
+    "pspcsysops@l3harris.com"
+  ],
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "lastEditedTimestamp": "2026-07-14T15:00:33.137Z"
+},
+{
+  "_id": {
+    "$oid": "6a5650a47d89a2c17023ff58"
+  },
+  "type": "Mutual Aid",
+  "caseType": "Ticket",
+  "collection": "Channels",
+  "network": "SLERS",
+  "siteid": {
+    "$oid": "6a21a18e7d89a2c17023fec5"
+  },
+  "equipmentName": "Big Pine Mutual Aid TAC 93",
+  "equipmentID": "X106C4",
+  "additionalInfo": "From Orlando take the Florida Turnpike south to the end and take US 1 into the Keys. Follow US 1 to Big Pine Key. Turn right onto Key Deer Blvd. Turn left into the correctional institution. Check in with the Office and go to the tower site. KE  Cross Street information:  Key Deer Blvd. and Wilder Road, Big Pine Key   As of 04/18/2017:  At 450 Key Deer Blvd, Road Prison, I gave Sergeant Stanley the FDOT front gate lock with combination 3368 and it will be installed onto the front gate chain when they close next week.  Directions: From Key Deer Blvd in Big Pine Key, Florida one would turn right (West) at the traffic light driving west on the blvd and then at address 450 one would turn left (South) at the main gate which will be locked, then one would find the lock with FDOT marking and use the combination code 3368 to remove the chain and open gate, then one would drive onto the facility driving South until you see a parking lot on your left (East) and then one would turn left (East) into the parking lot and park and walk to the shelter gate where the FDOT lock combination is also 3368.   Additional Access Information: The after hours (5pm-7am) contact number 305-470-5830 this is the Sun Guide Building they are open 24/7.  If something is going on during regular hours please contact me at 305 470-5431, if I'm not available you can ask for Renato Marrero, or Ruel Umbay, or Keith Jimmerson.  South Dade is approximately 100 miles away. The nearest Sheriff Department to contact is on Cudjo Key about 10 miles south and their non- emergency number is 305 289-2351.  They will  dispatch a Deputy upon request.   They also will be performing enhanced nighttime patrolling.  Please let me know if you have any questions.  Thank you,  Guy Gladson, PE Florida Department of Transportation District 6 Deputy Maintenance Engineer 305 470-5431  022119 0906 TLO - Per George, FDOT combo is 0305 should open silver lock.  And FWCC lock is 2796.  When all else fails, try old faithful 7022  030824 - Combo for unlabeled lock is 1313.  012225 DAD - Brian took over Guy Gladson's position. Brian: 305-470-5358",
+  "hostName": null,
+  "ipAddress": null,
+  "frequency": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "defaultVendor": {
+    "$oid": "69fca8e57d89a2c17023fbf4"
+  },
+  "imagePath": null,
+  "email": [
+    null,
+    "pspcsysops@l3harris.com"
+  ],
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "lastEditedTimestamp": "2026-07-14T15:01:09.862Z"
+},
+{
+  "_id": {
+    "$oid": "6a5650a47d89a2c17023ff59"
+  },
+  "type": "Mutual Aid",
+  "caseType": "Ticket",
+  "collection": "Channels",
+  "network": "SLERS",
+  "siteid": {
+    "$oid": "6a21a18e7d89a2c17023fec5"
+  },
+  "equipmentName": "Big Pine Mutual Aid TAC 94",
+  "equipmentID": "X106C5",
+  "additionalInfo": "From Orlando take the Florida Turnpike south to the end and take US 1 into the Keys. Follow US 1 to Big Pine Key. Turn right onto Key Deer Blvd. Turn left into the correctional institution. Check in with the Office and go to the tower site. KE  Cross Street information:  Key Deer Blvd. and Wilder Road, Big Pine Key   As of 04/18/2017:  At 450 Key Deer Blvd, Road Prison, I gave Sergeant Stanley the FDOT front gate lock with combination 3368 and it will be installed onto the front gate chain when they close next week.  Directions: From Key Deer Blvd in Big Pine Key, Florida one would turn right (West) at the traffic light driving west on the blvd and then at address 450 one would turn left (South) at the main gate which will be locked, then one would find the lock with FDOT marking and use the combination code 3368 to remove the chain and open gate, then one would drive onto the facility driving South until you see a parking lot on your left (East) and then one would turn left (East) into the parking lot and park and walk to the shelter gate where the FDOT lock combination is also 3368.   Additional Access Information: The after hours (5pm-7am) contact number 305-470-5830 this is the Sun Guide Building they are open 24/7.  If something is going on during regular hours please contact me at 305 470-5431, if I'm not available you can ask for Renato Marrero, or Ruel Umbay, or Keith Jimmerson.  South Dade is approximately 100 miles away. The nearest Sheriff Department to contact is on Cudjo Key about 10 miles south and their non- emergency number is 305 289-2351.  They will  dispatch a Deputy upon request.   They also will be performing enhanced nighttime patrolling.  Please let me know if you have any questions.  Thank you,  Guy Gladson, PE Florida Department of Transportation District 6 Deputy Maintenance Engineer 305 470-5431  022119 0906 TLO - Per George, FDOT combo is 0305 should open silver lock.  And FWCC lock is 2796.  When all else fails, try old faithful 7022  030824 - Combo for unlabeled lock is 1313.  012225 DAD - Brian took over Guy Gladson's position. Brian: 305-470-5358",
+  "hostName": null,
+  "ipAddress": null,
+  "frequency": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "defaultVendor": {
+    "$oid": "69fca8e57d89a2c17023fbf4"
+  },
+  "imagePath": null,
+  "email": [
+    null,
+    "pspcsysops@l3harris.com"
+  ],
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "lastEditedTimestamp": "2026-07-14T15:01:40.045Z"
+},
+{
+  "_id": {
+    "$oid": "6a872b2a7d89a2c17023ffe1"
+  },
+  "type": "Mutual Aid",
+  "caseType": "Ticket",
+  "collection": "Channels",
+  "network": "SLERS 2",
+  "siteid": {
+    "$oid": "6a21a18e7d89a2c17023fe22"
+  },
+  "equipmentName": "Adams Mutual Aid Calling",
+  "equipmentID": "R850S019C1",
+  "additionalInfo": "Start out going South on TPC DR toward HAZELTINE NATIONAL DR. 0.2 miles;  Turn RIGHT onto HAZELTINE NATIONAL DR. 0.9 miles;  Turn LEFT onto FL-436 S/S SEMORAN BLVD. 0.4 miles;  Take the SR-528-TOLL W ramp toward TAMPA. 0.5 miles;  Merge onto BEE LINE EXWY/FL-528 W (Portions toll). 5.8 miles;  Take the TURNPIKE exit toward US-17/US-441/US-92. for 0.1 miles;   Take the TURNPIKE exit. for 0.9 miles; Merge onto FLORIDA'S TURNPIKE N (Portions toll). 53.7 miles;  Stay straight to go onto I-75 N. for 24.5 miles;  Take the US-27 N exit- exit number 354- toward WILLISTON/TALLAHASSEE.  for 0.3 miles;  Turn LEFT onto US-27 N/FL-500 N. Continue to follow US-27 N. for 21.3 miles;  Stay straight to go onto W NOBLE AVE/US-27 ALT/FL-121. Continue to follow US-27 ALT N. for 93.2 miles;  Turn LEFT onto W HAMPTON SPRINGS AVE/FL-30. Continue to follow FL-30. 40.5 miles;  Turn LEFT onto FL-363/PORT LEON RD. for 2.0 mi; Turn RIGHT onto SHELL ISLAND RD. for 0.1 miles;  Turn LEFT onto LADD DR. for 0.1 miles;  Turn RIGHT onto WARD ST. 0.1 miles;  End at Saint Marks, FL 32355 US or I-10 to Hwy 27 turns into Hwy 363 South continue on Hwy 363 and 1700 ft before Highway 98 right hand side. From I-10, Exit 199, take US 27 south to the junction of SR 363 and continue south on SR 363. Follow SR 363 south to the site, about 1.1 miles north of the junction of US 98. The site is on the right by the welding shop.",
+  "hostName": null,
+  "ipAddress": null,
+  "frequency": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "defaultVendor": {
+    "$oid": "69fca8e57d89a2c17023fbfc"
+  },
+  "imagePath": null,
+  "email": [
+    "pspcsysops@l3harris.com"
+  ],
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "lastEditedTimestamp": "2026-08-04T14:25:53.111Z"
+},
+{
+  "_id": {
+    "$oid": "6a872b2a7d89a2c17023ffe2"
+  },
+  "type": "Mutual Aid",
+  "caseType": "Ticket",
+  "collection": "Channels",
+  "network": "SLERS 2",
+  "siteid": {
+    "$oid": "6a21a18e7d89a2c17023fe22"
+  },
+  "equipmentName": "Adams Mutual Aid TAC 91",
+  "equipmentID": "R850S019C2",
+  "additionalInfo": "Start out going South on TPC DR toward HAZELTINE NATIONAL DR. 0.2 miles;  Turn RIGHT onto HAZELTINE NATIONAL DR. 0.9 miles;  Turn LEFT onto FL-436 S/S SEMORAN BLVD. 0.4 miles;  Take the SR-528-TOLL W ramp toward TAMPA. 0.5 miles;  Merge onto BEE LINE EXWY/FL-528 W (Portions toll). 5.8 miles;  Take the TURNPIKE exit toward US-17/US-441/US-92. for 0.1 miles;   Take the TURNPIKE exit. for 0.9 miles; Merge onto FLORIDA'S TURNPIKE N (Portions toll). 53.7 miles;  Stay straight to go onto I-75 N. for 24.5 miles;  Take the US-27 N exit- exit number 354- toward WILLISTON/TALLAHASSEE.  for 0.3 miles;  Turn LEFT onto US-27 N/FL-500 N. Continue to follow US-27 N. for 21.3 miles;  Stay straight to go onto W NOBLE AVE/US-27 ALT/FL-121. Continue to follow US-27 ALT N. for 93.2 miles;  Turn LEFT onto W HAMPTON SPRINGS AVE/FL-30. Continue to follow FL-30. 40.5 miles;  Turn LEFT onto FL-363/PORT LEON RD. for 2.0 mi; Turn RIGHT onto SHELL ISLAND RD. for 0.1 miles;  Turn LEFT onto LADD DR. for 0.1 miles;  Turn RIGHT onto WARD ST. 0.1 miles;  End at Saint Marks, FL 32355 US or I-10 to Hwy 27 turns into Hwy 363 South continue on Hwy 363 and 1700 ft before Highway 98 right hand side. From I-10, Exit 199, take US 27 south to the junction of SR 363 and continue south on SR 363. Follow SR 363 south to the site, about 1.1 miles north of the junction of US 98. The site is on the right by the welding shop.",
+  "hostName": null,
+  "ipAddress": null,
+  "frequency": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "defaultVendor": {
+    "$oid": "69fca8e57d89a2c17023fbfc"
+  },
+  "imagePath": null,
+  "email": [
+    "pspcsysops@l3harris.com"
+  ],
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "lastEditedTimestamp": "2026-08-04T14:39:12.840Z"
+},
+{
+  "_id": {
+    "$oid": "6a872b2a7d89a2c17023ffe3"
+  },
+  "type": "Mutual Aid",
+  "caseType": "Ticket",
+  "collection": "Channels",
+  "network": "SLERS 2",
+  "siteid": {
+    "$oid": "6a21a18e7d89a2c17023fe22"
+  },
+  "equipmentName": "Adams Mutual Aid TAC 92",
+  "equipmentID": "R850S019C3",
+  "additionalInfo": "Start out going South on TPC DR toward HAZELTINE NATIONAL DR. 0.2 miles;  Turn RIGHT onto HAZELTINE NATIONAL DR. 0.9 miles;  Turn LEFT onto FL-436 S/S SEMORAN BLVD. 0.4 miles;  Take the SR-528-TOLL W ramp toward TAMPA. 0.5 miles;  Merge onto BEE LINE EXWY/FL-528 W (Portions toll). 5.8 miles;  Take the TURNPIKE exit toward US-17/US-441/US-92. for 0.1 miles;   Take the TURNPIKE exit. for 0.9 miles; Merge onto FLORIDA'S TURNPIKE N (Portions toll). 53.7 miles;  Stay straight to go onto I-75 N. for 24.5 miles;  Take the US-27 N exit- exit number 354- toward WILLISTON/TALLAHASSEE.  for 0.3 miles;  Turn LEFT onto US-27 N/FL-500 N. Continue to follow US-27 N. for 21.3 miles;  Stay straight to go onto W NOBLE AVE/US-27 ALT/FL-121. Continue to follow US-27 ALT N. for 93.2 miles;  Turn LEFT onto W HAMPTON SPRINGS AVE/FL-30. Continue to follow FL-30. 40.5 miles;  Turn LEFT onto FL-363/PORT LEON RD. for 2.0 mi; Turn RIGHT onto SHELL ISLAND RD. for 0.1 miles;  Turn LEFT onto LADD DR. for 0.1 miles;  Turn RIGHT onto WARD ST. 0.1 miles;  End at Saint Marks, FL 32355 US or I-10 to Hwy 27 turns into Hwy 363 South continue on Hwy 363 and 1700 ft before Highway 98 right hand side. From I-10, Exit 199, take US 27 south to the junction of SR 363 and continue south on SR 363. Follow SR 363 south to the site, about 1.1 miles north of the junction of US 98. The site is on the right by the welding shop.",
+  "hostName": null,
+  "ipAddress": null,
+  "frequency": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "defaultVendor": {
+    "$oid": "69fca8e57d89a2c17023fbfc"
+  },
+  "imagePath": null,
+  "email": [
+    "pspcsysops@l3harris.com"
+  ],
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "lastEditedTimestamp": "2026-08-04T14:42:00.504Z"
+},
+{
+  "_id": {
+    "$oid": "6a872b2a7d89a2c17023ffe4"
+  },
+  "type": "Mutual Aid",
+  "caseType": "Ticket",
+  "collection": "Channels",
+  "network": "SLERS 2",
+  "siteid": {
+    "$oid": "6a21a18e7d89a2c17023fe22"
+  },
+  "equipmentName": "Adams Mutual Aid TAC 93",
+  "equipmentID": "R850S019C4",
+  "additionalInfo": "Start out going South on TPC DR toward HAZELTINE NATIONAL DR. 0.2 miles;  Turn RIGHT onto HAZELTINE NATIONAL DR. 0.9 miles;  Turn LEFT onto FL-436 S/S SEMORAN BLVD. 0.4 miles;  Take the SR-528-TOLL W ramp toward TAMPA. 0.5 miles;  Merge onto BEE LINE EXWY/FL-528 W (Portions toll). 5.8 miles;  Take the TURNPIKE exit toward US-17/US-441/US-92. for 0.1 miles;   Take the TURNPIKE exit. for 0.9 miles; Merge onto FLORIDA'S TURNPIKE N (Portions toll). 53.7 miles;  Stay straight to go onto I-75 N. for 24.5 miles;  Take the US-27 N exit- exit number 354- toward WILLISTON/TALLAHASSEE.  for 0.3 miles;  Turn LEFT onto US-27 N/FL-500 N. Continue to follow US-27 N. for 21.3 miles;  Stay straight to go onto W NOBLE AVE/US-27 ALT/FL-121. Continue to follow US-27 ALT N. for 93.2 miles;  Turn LEFT onto W HAMPTON SPRINGS AVE/FL-30. Continue to follow FL-30. 40.5 miles;  Turn LEFT onto FL-363/PORT LEON RD. for 2.0 mi; Turn RIGHT onto SHELL ISLAND RD. for 0.1 miles;  Turn LEFT onto LADD DR. for 0.1 miles;  Turn RIGHT onto WARD ST. 0.1 miles;  End at Saint Marks, FL 32355 US or I-10 to Hwy 27 turns into Hwy 363 South continue on Hwy 363 and 1700 ft before Highway 98 right hand side. From I-10, Exit 199, take US 27 south to the junction of SR 363 and continue south on SR 363. Follow SR 363 south to the site, about 1.1 miles north of the junction of US 98. The site is on the right by the welding shop.",
+  "hostName": null,
+  "ipAddress": null,
+  "frequency": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "defaultVendor": {
+    "$oid": "69fca8e57d89a2c17023fbfc"
+  },
+  "imagePath": null,
+  "email": [
+    "pspcsysops@l3harris.com"
+  ],
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "lastEditedTimestamp": "2026-08-04T14:42:40.469Z"
+},
+{
+  "_id": {
+    "$oid": "6a872b2a7d89a2c17023ffe5"
+  },
+  "type": "Mutual Aid",
+  "caseType": "Ticket",
+  "collection": "Channels",
+  "network": "SLERS 2",
+  "siteid": {
+    "$oid": "6a21a18e7d89a2c17023fe22"
+  },
+  "equipmentName": "Adams Mutual Aid TAC 94",
+  "equipmentID": "R850S019C5",
+  "additionalInfo": "Start out going South on TPC DR toward HAZELTINE NATIONAL DR. 0.2 miles;  Turn RIGHT onto HAZELTINE NATIONAL DR. 0.9 miles;  Turn LEFT onto FL-436 S/S SEMORAN BLVD. 0.4 miles;  Take the SR-528-TOLL W ramp toward TAMPA. 0.5 miles;  Merge onto BEE LINE EXWY/FL-528 W (Portions toll). 5.8 miles;  Take the TURNPIKE exit toward US-17/US-441/US-92. for 0.1 miles;   Take the TURNPIKE exit. for 0.9 miles; Merge onto FLORIDA'S TURNPIKE N (Portions toll). 53.7 miles;  Stay straight to go onto I-75 N. for 24.5 miles;  Take the US-27 N exit- exit number 354- toward WILLISTON/TALLAHASSEE.  for 0.3 miles;  Turn LEFT onto US-27 N/FL-500 N. Continue to follow US-27 N. for 21.3 miles;  Stay straight to go onto W NOBLE AVE/US-27 ALT/FL-121. Continue to follow US-27 ALT N. for 93.2 miles;  Turn LEFT onto W HAMPTON SPRINGS AVE/FL-30. Continue to follow FL-30. 40.5 miles;  Turn LEFT onto FL-363/PORT LEON RD. for 2.0 mi; Turn RIGHT onto SHELL ISLAND RD. for 0.1 miles;  Turn LEFT onto LADD DR. for 0.1 miles;  Turn RIGHT onto WARD ST. 0.1 miles;  End at Saint Marks, FL 32355 US or I-10 to Hwy 27 turns into Hwy 363 South continue on Hwy 363 and 1700 ft before Highway 98 right hand side. From I-10, Exit 199, take US 27 south to the junction of SR 363 and continue south on SR 363. Follow SR 363 south to the site, about 1.1 miles north of the junction of US 98. The site is on the right by the welding shop.",
+  "hostName": null,
+  "ipAddress": null,
+  "frequency": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "defaultVendor": {
+    "$oid": "69fca8e57d89a2c17023fbfc"
+  },
+  "imagePath": null,
+  "email": [
+    "pspcsysops@l3harris.com"
+  ],
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "lastEditedTimestamp": "2026-08-04T14:50:14.894Z"
+},
+{
+  "_id": {
+    "$oid": "6a872b2a7d89a2c17023ffe6"
+  },
+  "type": "Mutual Aid GPS",
+  "caseType": "Ticket",
+  "collection": "Channels",
+  "network": "SLERS 2",
+  "siteid": {
+    "$oid": "6a21a18e7d89a2c17023fe22"
+  },
+  "equipmentName": "Adams Mutual Aid GPS ",
+  "equipmentID": "R850S019CCG",
+  "additionalInfo": "Start out going South on TPC DR toward HAZELTINE NATIONAL DR. 0.2 miles;  Turn RIGHT onto HAZELTINE NATIONAL DR. 0.9 miles;  Turn LEFT onto FL-436 S/S SEMORAN BLVD. 0.4 miles;  Take the SR-528-TOLL W ramp toward TAMPA. 0.5 miles;  Merge onto BEE LINE EXWY/FL-528 W (Portions toll). 5.8 miles;  Take the TURNPIKE exit toward US-17/US-441/US-92. for 0.1 miles;   Take the TURNPIKE exit. for 0.9 miles; Merge onto FLORIDA'S TURNPIKE N (Portions toll). 53.7 miles;  Stay straight to go onto I-75 N. for 24.5 miles;  Take the US-27 N exit- exit number 354- toward WILLISTON/TALLAHASSEE.  for 0.3 miles;  Turn LEFT onto US-27 N/FL-500 N. Continue to follow US-27 N. for 21.3 miles;  Stay straight to go onto W NOBLE AVE/US-27 ALT/FL-121. Continue to follow US-27 ALT N. for 93.2 miles;  Turn LEFT onto W HAMPTON SPRINGS AVE/FL-30. Continue to follow FL-30. 40.5 miles;  Turn LEFT onto FL-363/PORT LEON RD. for 2.0 mi; Turn RIGHT onto SHELL ISLAND RD. for 0.1 miles;  Turn LEFT onto LADD DR. for 0.1 miles;  Turn RIGHT onto WARD ST. 0.1 miles;  End at Saint Marks, FL 32355 US or I-10 to Hwy 27 turns into Hwy 363 South continue on Hwy 363 and 1700 ft before Highway 98 right hand side. From I-10, Exit 199, take US 27 south to the junction of SR 363 and continue south on SR 363. Follow SR 363 south to the site, about 1.1 miles north of the junction of US 98. The site is on the right by the welding shop.",
+  "modelNumber": null,
+  "serialNumber": null,
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "defaultVendor": {
+    "$oid": "69fca8e57d89a2c17023fbfc"
+  },
+  "imagePath": null,
+  "email": [
+    "pspcsysops@l3harris.com"
+  ],
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "lastEditedTimestamp": "2026-08-04T14:51:20.873Z"
+},
+{
+  "_id": {
+    "$oid": "6a872b2a7d89a2c17023ffe7"
+  },
+  "type": "Mutual Aid Multiplexer",
+  "caseType": "Ticket",
+  "collection": "Channels",
+  "network": "SLERS 2",
+  "siteid": {
+    "$oid": "6a21a18e7d89a2c17023fe22"
+  },
+  "equipmentName": "Adams Mutual Aid Multiplexer ",
+  "equipmentID": "R850S019CCM",
+  "additionalInfo": "Start out going South on TPC DR toward HAZELTINE NATIONAL DR. 0.2 miles;  Turn RIGHT onto HAZELTINE NATIONAL DR. 0.9 miles;  Turn LEFT onto FL-436 S/S SEMORAN BLVD. 0.4 miles;  Take the SR-528-TOLL W ramp toward TAMPA. 0.5 miles;  Merge onto BEE LINE EXWY/FL-528 W (Portions toll). 5.8 miles;  Take the TURNPIKE exit toward US-17/US-441/US-92. for 0.1 miles;   Take the TURNPIKE exit. for 0.9 miles; Merge onto FLORIDA'S TURNPIKE N (Portions toll). 53.7 miles;  Stay straight to go onto I-75 N. for 24.5 miles;  Take the US-27 N exit- exit number 354- toward WILLISTON/TALLAHASSEE.  for 0.3 miles;  Turn LEFT onto US-27 N/FL-500 N. Continue to follow US-27 N. for 21.3 miles;  Stay straight to go onto W NOBLE AVE/US-27 ALT/FL-121. Continue to follow US-27 ALT N. for 93.2 miles;  Turn LEFT onto W HAMPTON SPRINGS AVE/FL-30. Continue to follow FL-30. 40.5 miles;  Turn LEFT onto FL-363/PORT LEON RD. for 2.0 mi; Turn RIGHT onto SHELL ISLAND RD. for 0.1 miles;  Turn LEFT onto LADD DR. for 0.1 miles;  Turn RIGHT onto WARD ST. 0.1 miles;  End at Saint Marks, FL 32355 US or I-10 to Hwy 27 turns into Hwy 363 South continue on Hwy 363 and 1700 ft before Highway 98 right hand side. From I-10, Exit 199, take US 27 south to the junction of SR 363 and continue south on SR 363. Follow SR 363 south to the site, about 1.1 miles north of the junction of US 98. The site is on the right by the welding shop.",
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "defaultVendor": {
+    "$oid": "69fca8e57d89a2c17023fbfc"
+  },
+  "imagePath": null,
+  "email": [
+    "pspcsysops@l3harris.com"
+  ],
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "lastEditedTimestamp": "2026-08-04T14:52:20.759Z"
+},
+{
+  "_id": {
+    "$oid": "6a872b2a7d89a2c17023ffe8"
+  },
+  "type": "Mutual Aid Power Supply",
+  "caseType": "Ticket",
+  "collection": "Channels",
+  "network": "SLERS 2",
+  "siteid": {
+    "$oid": "6a21a18e7d89a2c17023fe22"
+  },
+  "equipmentName": "Adams Mutual Aid Power Supply ",
+  "equipmentID": "R850S019CCPS",
+  "additionalInfo": "Start out going South on TPC DR toward HAZELTINE NATIONAL DR. 0.2 miles;  Turn RIGHT onto HAZELTINE NATIONAL DR. 0.9 miles;  Turn LEFT onto FL-436 S/S SEMORAN BLVD. 0.4 miles;  Take the SR-528-TOLL W ramp toward TAMPA. 0.5 miles;  Merge onto BEE LINE EXWY/FL-528 W (Portions toll). 5.8 miles;  Take the TURNPIKE exit toward US-17/US-441/US-92. for 0.1 miles;   Take the TURNPIKE exit. for 0.9 miles; Merge onto FLORIDA'S TURNPIKE N (Portions toll). 53.7 miles;  Stay straight to go onto I-75 N. for 24.5 miles;  Take the US-27 N exit- exit number 354- toward WILLISTON/TALLAHASSEE.  for 0.3 miles;  Turn LEFT onto US-27 N/FL-500 N. Continue to follow US-27 N. for 21.3 miles;  Stay straight to go onto W NOBLE AVE/US-27 ALT/FL-121. Continue to follow US-27 ALT N. for 93.2 miles;  Turn LEFT onto W HAMPTON SPRINGS AVE/FL-30. Continue to follow FL-30. 40.5 miles;  Turn LEFT onto FL-363/PORT LEON RD. for 2.0 mi; Turn RIGHT onto SHELL ISLAND RD. for 0.1 miles;  Turn LEFT onto LADD DR. for 0.1 miles;  Turn RIGHT onto WARD ST. 0.1 miles;  End at Saint Marks, FL 32355 US or I-10 to Hwy 27 turns into Hwy 363 South continue on Hwy 363 and 1700 ft before Highway 98 right hand side. From I-10, Exit 199, take US 27 south to the junction of SR 363 and continue south on SR 363. Follow SR 363 south to the site, about 1.1 miles north of the junction of US 98. The site is on the right by the welding shop.",
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "defaultVendor": {
+    "$oid": "69fca8e57d89a2c17023fbfc"
+  },
+  "imagePath": null,
+  "email": [
+    "pspcsysops@l3harris.com"
+  ],
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "lastEditedTimestamp": "2026-08-04T15:39:25.033Z"
+},
+{
+  "_id": {
+    "$oid": "6a872b2a7d89a2c17023ffe9"
+  },
+  "type": "Mutual Aid Sync Shelf",
+  "caseType": "Ticket",
+  "collection": "Channels",
+  "network": "SLERS 2",
+  "siteid": {
+    "$oid": "6a21a18e7d89a2c17023fe22"
+  },
+  "equipmentName": "Adams Mutual Aid Sync Shelf",
+  "equipmentID": "R850S019CCS",
+  "additionalInfo": "Start out going South on TPC DR toward HAZELTINE NATIONAL DR. 0.2 miles;  Turn RIGHT onto HAZELTINE NATIONAL DR. 0.9 miles;  Turn LEFT onto FL-436 S/S SEMORAN BLVD. 0.4 miles;  Take the SR-528-TOLL W ramp toward TAMPA. 0.5 miles;  Merge onto BEE LINE EXWY/FL-528 W (Portions toll). 5.8 miles;  Take the TURNPIKE exit toward US-17/US-441/US-92. for 0.1 miles;   Take the TURNPIKE exit. for 0.9 miles; Merge onto FLORIDA'S TURNPIKE N (Portions toll). 53.7 miles;  Stay straight to go onto I-75 N. for 24.5 miles;  Take the US-27 N exit- exit number 354- toward WILLISTON/TALLAHASSEE.  for 0.3 miles;  Turn LEFT onto US-27 N/FL-500 N. Continue to follow US-27 N. for 21.3 miles;  Stay straight to go onto W NOBLE AVE/US-27 ALT/FL-121. Continue to follow US-27 ALT N. for 93.2 miles;  Turn LEFT onto W HAMPTON SPRINGS AVE/FL-30. Continue to follow FL-30. 40.5 miles;  Turn LEFT onto FL-363/PORT LEON RD. for 2.0 mi; Turn RIGHT onto SHELL ISLAND RD. for 0.1 miles;  Turn LEFT onto LADD DR. for 0.1 miles;  Turn RIGHT onto WARD ST. 0.1 miles;  End at Saint Marks, FL 32355 US or I-10 to Hwy 27 turns into Hwy 363 South continue on Hwy 363 and 1700 ft before Highway 98 right hand side. From I-10, Exit 199, take US 27 south to the junction of SR 363 and continue south on SR 363. Follow SR 363 south to the site, about 1.1 miles north of the junction of US 98. The site is on the right by the welding shop.",
+  "reserveField1": null,
+  "reserveField2": null,
+  "reserveField3": null,
+  "reserveField4": null,
+  "reserveField5": null,
+  "defaultVendor": {
+    "$oid": "69fca8e57d89a2c17023fbfc"
+  },
+  "imagePath": null,
+  "email": [
+    "pspcsysops@l3harris.com"
+  ],
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "lastEditedTimestamp": "2026-08-04T15:41:46.189Z"
+}]
