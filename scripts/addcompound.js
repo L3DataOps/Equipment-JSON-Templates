@@ -89,7 +89,7 @@ function selectFromList(options, question, displayKey, valueKey, { multi = true 
   const collection = "Compound";
 
   const equipmentName = `${siteName} Shelter Compound`;
-  const equipmentID = `${siteEQ}`;
+  const equipmentID = `${siteEQ}MI`;
 
   let additionalInfo = prompt("Additional Info: ").trim();
   if (additionalInfo == ""){
