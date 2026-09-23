@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "6ab3cc407d89a2c1702400bb"
+  },
+  "customer": {
+    "$oid": "6ab128fc7d89a2c17024009f"
+  },
+  "collection": "RNM Vendors",
+  "vendorName": "Worcester Techs",
+  "lastEditedBy": {
+    "$oid": "69fc9a275d7502a03d84520e"
+  },
+  "lastEditedTimestamp": "2026-09-23T12:45:16.180Z"
+}]
