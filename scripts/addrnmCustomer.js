@@ -59,31 +59,19 @@ function selectFromList(
 // =======================
 
 const customerName = prompt("Enter customer name: ").trim();
-
 const state = prompt("Enter state: ").trim();
-
 const county = prompt("Enter county: ").trim();
-
-const timezone = prompt(
-  "Enter timezone (Eastern/Central): "
-).trim();
-
-const emailInput = prompt(
-  "Enter customer emails separated by commas: "
-).trim();
-
+const timezone = prompt("Enter timezone (Eastern/Central): ").trim();
+const emailInput = prompt("Enter customer emails separated by commas: ").trim();
 const email = emailInput
   .split(",")
   .map(address => address.trim())
   .filter(address => address !== "");
 
-const notes = prompt(
-  "Enter notes (Special instructions, quirks, etc.): "
-).trim();
-
-const alarmMatrix = prompt(
-  "Enter alarm matrix file path: "
-).trim();
+const notes = prompt("Enter notes (Special instructions, quirks, etc.): ").trim();
+const alarmMatrix = prompt("Enter alarm matrix file path: ").trim();
+const screenNumber = prompt("Enter the RNM Screen Number (1, 2, 3, etc.): ").trim();
+const wallLocation = prompt("Enter the RNM Screen Location (Right/Left): ").trim();
 
 // =======================
 // UPLOADING USER
@@ -112,6 +100,8 @@ const newEntry = {
   email,
   notes,
   alarmMatrix,
+  screenNumber,
+  wallLocation,
   reserveField1,
   reserveField2,
   lastEditedBy,

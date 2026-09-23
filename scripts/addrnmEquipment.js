@@ -2,8 +2,9 @@ const fs = require("fs");
 const prompt = require("prompt-sync")({ sigint: true });
 
 // File paths
-const filePath = "./results/rnmSites.json";
+const filePath = "./results/rnmEquipment.json";
 const customerFilePath = "./mongo/test2.rnmCustomers.json";
+const siteFilePath = "./mongo/test2.rnmSites.json";
 
 const userOptions = JSON.parse(
   fs.readFileSync("./results/users.json", "utf8")
@@ -13,8 +14,12 @@ const customerOptions = JSON.parse(
   fs.readFileSync(customerFilePath, "utf8")
 );
 
+const siteOptions = JSON.parse(
+  fs.readFileSync(siteFilePath, "utf8")
+);
+
 // =======================
-// LOAD EXISTING SITE DATA
+// LOAD EXISTING EQUIPMENT DATA
 // =======================
 
 let data = [];
@@ -23,7 +28,7 @@ if (fs.existsSync(filePath)) {
   try {
     data = JSON.parse(fs.readFileSync(filePath, "utf8"));
   } catch (err) {
-    console.error("Invalid JSON in rnmSites.json.");
+    console.error("Invalid JSON in rnmEquipment.json.");
     process.exit(1);
   }
 }
@@ -82,56 +87,44 @@ const selectedCustomer = customerOptions.find(
 );
 
 // =======================
-// SITE INFORMATION
-// =======================
-/*
-{
-    "customer": "Worcester",
-    "siteName": "Central",
-    "siteNumber": "Site 11",
-    "caseType": "Remote",
-    "collection": "RNM Sites",
-    "email": [
-      "belinda.newland@l3harris.com",
-      "kelley@easterncommunications.com",
-      "netcontrol@racom.net",
-      "diana.purvis@racom.net",
-      "m.deffenbaugh@easterncommunications.com",
-      "jpbrown@worcestermd.gov",
-      "cs.ansspc.com",
-      "PSPCSysOps@L3Harris.com",
-      "rodney.philgren@l3harris.com",
-      "Rrhode@co.worcester.md.us",
-      "Gsterling@co.worcester.md.us",
-      "Jhamilton@co.worcester.md.us"
-    ],
-    "notes": null,
-    "equipmentID": "Worcester_S11_Central",
-    "orderNumber": "3",
-    "lastEditedBy": {
-      "$oid": "69fc9a275d7502a03d84520e"
-    },
-    "lastEditedTimestamp": "2026-09-22T15:03:02.825Z"
-  }
-
-  */
-
-// =======================
-// SITE INFORMATION
+// SELECT SITE
 // =======================
 
-const siteName = prompt("Enter site name: ").trim();
-const siteNumber = prompt("Enter site number (Site 1, Site 2, etc.): ").trim();
+// Only show sites belonging to the selected customer
+const customerSites = siteOptions.filter(
+  site => site.customer.$oid === customerSelection.$oid
+);
+
+if (customerSites.length === 0) {
+  console.error("\nNo sites found for the selected customer.");
+  process.exit(1);
+}
+
+console.log("\n=======================");
+console.log("SELECT RNM SITE");
+console.log("=======================\n");
+
+const siteSelection = selectFromList(
+  customerSites,
+  "Enter site: ",
+  "siteName",
+  "_id",
+  { multi: false }
+);
+
+// =======================
+// EQUIPMENT INFORMATION
+// =======================
+
+const type = prompt("Enter equipment type (Channel or NWS. If not either, hit enter to leave this null): ").trim();
 const caseType = "Remote";
-const collection = "RNM Sites";
-
-const email = selectedCustomer.email;
-
+const collection = "RNM Equipment";
+const equipmentName = prompt("Enter equipment name: ").trim();
+const equipmentID = prompt("Enter equipment ID (S11U1CHN, etc.): ").trim();
+const orderNumber = prompt("Enter the order number that the equipment is in: ").trim();
 const notes = prompt("Enter notes (Special instructions, quirks, etc.): ").trim();
 
-const equipmentID = prompt("Enter the equipment ID (Worcester_S11_Central, etc.): ").trim();
-const orderNumber = prompt("Enter the order number that the equipment is in: ").trim();
-
+const email = selectedCustomer.email;
 
 const lastEditedBy = selectFromList(
   userOptions,
@@ -147,12 +140,13 @@ const lastEditedBy = selectFromList(
 
 const newEntry = {
   customer: customerSelection,
-  siteName,
-  siteNumber,
+  site: siteSelection,
+  type: type,
   caseType,
   collection,
   email,
   notes,
+  equipmentName,
   equipmentID,
   orderNumber,
   lastEditedBy,
@@ -176,5 +170,5 @@ fs.writeFileSync(
   JSON.stringify(data, null, 2)
 );
 
-console.log("\n✅ RNM site added successfully!");
+console.log("\n✅ RNM equipment added successfully!");
 console.log(newEntry);
