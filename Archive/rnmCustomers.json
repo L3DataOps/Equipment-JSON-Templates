@@ -1,0 +1,35 @@
+[
+  {
+    "rnmVendor": {
+      "$oid": "6ab424117d89a2c170240104"
+    },
+    "customerName": "Worcester",
+    "state": "Maryland",
+    "county": "Worcester",
+    "timezone": "Eastern",
+    "email": [
+      "belinda.newland@l3harris.com",
+      "kelley@easterncommunications.com",
+      "netcontrol@racom.net",
+      "diana.purvis@racom.net",
+      "m.deffenbaugh@easterncommunications.com",
+      "jpbrown@worcestermd.gov",
+      "cs.ansspc.com",
+      "PSPCSysOps@L3Harris.com",
+      "rodney.philgren@l3harris.com",
+      "Rrhode@co.worcester.md.us",
+      "Gsterling@co.worcester.md.us",
+      "Jhamilton@co.worcester.md.us"
+    ],
+    "notes": null,
+    "alarmMatrix": "N:\\State of Florida\\Remote\\WORCESTER ALARM.xlsx",
+    "screenNumber": 13,
+    "wallLocation": "Left",
+    "reserveField1": null,
+    "reserveField2": null,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-09-24T13:02:11.559Z"
+  }
+]
