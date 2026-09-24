@@ -2,7 +2,7 @@ const fs = require("fs");
 const prompt = require("prompt-sync")({ sigint: true });
 
 // File paths
-const filePath = "./results/rnmCustomers.json";
+const filePath = "./results/rnmTechs.json";
 const vendorFilePath = "./mongo/test2.rnmVendors.json";
 
 const userOptions = JSON.parse(
@@ -14,7 +14,7 @@ const vendorOptions = JSON.parse(
 );
 
 // =======================
-// LOAD EXISTING CUSTOMER DATA
+// LOAD EXISTING TECH DATA
 // =======================
 
 let data = [];
@@ -23,7 +23,7 @@ if (fs.existsSync(filePath)) {
   try {
     data = JSON.parse(fs.readFileSync(filePath, "utf8"));
   } catch (err) {
-    console.error("Invalid JSON in rnmCustomers.json.");
+    console.error("Invalid JSON in rnmTechs.json.");
     process.exit(1);
   }
 }
@@ -66,7 +66,7 @@ function selectFromList(
 // =======================
 
 console.log("\n=======================");
-console.log("Select RNM Vendor associated with the customer you are adding:");
+console.log("Select RNM Vendor to add a tech for:");
 console.log("=======================\n");
 
 const vendorSelection = selectFromList(
@@ -78,78 +78,22 @@ const vendorSelection = selectFromList(
 );
 
 // =======================
-// CUSTOMER INFORMATION
+// TECH INFORMATION
 // =======================
 
 console.log("\n=======================");
-console.log("Add RNM Customer");
+console.log("Add RNM Tech");
 console.log("=======================\n");
 
-const customerName = prompt(
-  "Enter customer name: "
+const collection = "RNM Techs";
+
+const techName = prompt(
+  "Enter tech name (Guy Sterling, etc.): "
 ).trim();
 
-const state = prompt(
-  "Enter state: "
+const techPhone = prompt(
+  "Enter tech phone number (443-365-3492, etc.): "
 ).trim();
-
-const county = prompt(
-  "Enter county: "
-).trim();
-
-const timezone = prompt(
-  "Enter timezone (Eastern/Central): "
-).trim();
-
-const emailInput = prompt(
-  "Enter customer emails separated by commas: "
-).trim();
-
-const email = emailInput
-  .split(",")
-  .map(address => address.trim())
-  .filter(address => address !== "");
-
-const notes = prompt(
-  "Enter notes (Special instructions, quirks, etc.): "
-).trim();
-
-const alarmMatrix = prompt(
-  "Enter alarm matrix file path: "
-).trim();
-
-// =======================
-// SCREEN NUMBER
-// =======================
-
-let screenNumber;
-
-while (true) {
-
-  const input = prompt(
-    "Enter the RNM Screen Number (1, 2, 3, etc.): "
-  ).trim();
-
-  if (input === "") {
-    screenNumber = null;
-    break;
-  }
-
-  if (/^\d+$/.test(input)) {
-    screenNumber = parseInt(input, 10);
-    break;
-  }
-
-  console.log("❌ Please enter a valid whole number.");
-}
-
-const wallLocation = prompt(
-  "Enter the RNM Screen Location (Right/Left): "
-).trim();
-
-// =======================
-// UPLOADING USER
-// =======================
 
 const lastEditedBy = selectFromList(
   userOptions,
@@ -159,26 +103,15 @@ const lastEditedBy = selectFromList(
   { multi: false }
 );
 
-const reserveField1 = null;
-const reserveField2 = null;
-
 // =======================
 // BUILD ENTRY
 // =======================
 
 const newEntry = {
   rnmVendor: vendorSelection,
-  customerName,
-  state,
-  county,
-  timezone,
-  email,
-  notes,
-  alarmMatrix,
-  screenNumber,
-  wallLocation,
-  reserveField1,
-  reserveField2,
+  collection,
+  techName,
+  techPhone,
   lastEditedBy,
   lastEditedTimestamp: new Date().toISOString()
 };
@@ -197,8 +130,8 @@ data.push(newEntry);
 
 fs.writeFileSync(
   filePath,
-  JSON.stringify(data, null, 2
-));
+  JSON.stringify(data, null, 2)
+);
 
-console.log("\n✅ Remote customer added successfully!");
+console.log("\n✅ RNM Tech added successfully!");
 console.log(newEntry);
