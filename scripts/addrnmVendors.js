@@ -1,12 +1,17 @@
 const fs = require("fs");
 const prompt = require("prompt-sync")({ sigint: true });
 
-// File path
+// File paths
 const filePath = "./results/rnmVendors.json";
+const customerFilePath = "./mongo/test2.rnmCustomers.json";
 
 const userOptions = JSON.parse(
   fs.readFileSync("./results/users.json", "utf8")
 ).filter(user => user.role === "admin");
+
+const customerOptions = JSON.parse(
+  fs.readFileSync(customerFilePath, "utf8")
+);
 
 // =======================
 // LOAD EXISTING VENDOR DATA
@@ -57,6 +62,22 @@ function selectFromList(
 }
 
 // =======================
+// SELECT CUSTOMER
+// =======================
+
+console.log("\n=======================");
+console.log("SELECT RNM CUSTOMER");
+console.log("=======================\n");
+
+const customerSelection = selectFromList(
+  customerOptions,
+  "Enter customer: ",
+  "customerName",
+  "_id",
+  { multi: false }
+);
+
+// =======================
 // VENDOR INFORMATION
 // =======================
 
@@ -64,7 +85,6 @@ console.log("\n=======================");
 console.log("ADD RNM VENDOR");
 console.log("=======================\n");
 
-const collection = "RNM Vendors";
 
 const vendorName = prompt(
   "Enter vendor name (by customer: Worcester Techs, NICC Techs, etc.): "
@@ -83,7 +103,7 @@ const lastEditedBy = selectFromList(
 // =======================
 
 const newEntry = {
-  collection,
+  customer: customerSelection,
   vendorName,
   lastEditedBy,
   lastEditedTimestamp: new Date().toISOString()

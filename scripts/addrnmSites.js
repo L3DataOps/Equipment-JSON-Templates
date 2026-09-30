@@ -328,7 +328,6 @@ const selectedCustomer = customerOptions.find(
 const siteName = prompt("Enter site name: ").trim();
 const siteNumber = prompt("Enter site number (Site 1, Site 2, etc.): ").trim();
 const caseType = "Remote";
-const collection = "RNM Sites";
 
 const email = manageEmails(selectedCustomer.email);
 
@@ -363,7 +362,6 @@ const newEntry = {
   siteName,
   siteNumber,
   caseType,
-  collection,
   email,
   notes,
   equipmentID,
