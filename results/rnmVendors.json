@@ -1,6 +1,8 @@
 [
   {
-    "collection": "RNM Vendors",
+    "customer": {
+      "$oid": "6ab128fc7d89a2c17024009f"
+    },
     "vendorName": "Worcester Techs",
     "lastEditedBy": {
       "$oid": "69fc9a275d7502a03d84520e"

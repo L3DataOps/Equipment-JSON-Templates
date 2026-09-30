@@ -1,3 +1,893 @@
 [
-  
+  {
+    "customer": {
+      "$oid": "6ab128fc7d89a2c17024009f"
+    },
+    "site": {
+      "$oid": "6aba7cca7d89a2c170240116"
+    },
+    "type": null,
+    "caseType": "Remote",
+    "collection": "RNM Equipment",
+    "email": [
+      "belinda.newland@l3harris.com",
+      "kelley@easterncommunications.com",
+      "netcontrol@racom.net",
+      "diana.purvis@racom.net",
+      "m.deffenbaugh@easterncommunications.com",
+      "jpbrown@worcestermd.gov",
+      "cs.ansspc.com",
+      "PSPCSysOps@L3Harris.com",
+      "rodney.philgren@l3harris.com",
+      "Rrhode@co.worcester.md.us",
+      "Gsterling@co.worcester.md.us",
+      "Jhamilton@co.worcester.md.us"
+    ],
+    "notes": null,
+    "equipmentName": "Snow Hill Dispatch",
+    "equipmentID": "s91_Snow_Hill_Dispatch",
+    "orderNumber": 1,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-09-28T19:22:03.461Z"
+  },
+  {
+    "customer": {
+      "$oid": "6ab128fc7d89a2c17024009f"
+    },
+    "site": {
+      "$oid": "6aba7cca7d89a2c170240116"
+    },
+    "type": null,
+    "caseType": "Remote",
+    "collection": "RNM Equipment",
+    "email": [
+      "belinda.newland@l3harris.com",
+      "kelley@easterncommunications.com",
+      "netcontrol@racom.net",
+      "diana.purvis@racom.net",
+      "m.deffenbaugh@easterncommunications.com",
+      "jpbrown@worcestermd.gov",
+      "cs.ansspc.com",
+      "PSPCSysOps@L3Harris.com",
+      "rodney.philgren@l3harris.com",
+      "Rrhode@co.worcester.md.us",
+      "Gsterling@co.worcester.md.us",
+      "Jhamilton@co.worcester.md.us"
+    ],
+    "notes": null,
+    "equipmentName": "Newark Dispatch",
+    "equipmentID": "s93_Newark_Dispatch",
+    "orderNumber": 2,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-09-28T19:23:07.890Z"
+  },
+  {
+    "customer": {
+      "$oid": "6ab128fc7d89a2c17024009f"
+    },
+    "site": {
+      "$oid": "6aba7cca7d89a2c170240119"
+    },
+    "type": null,
+    "caseType": "Remote",
+    "collection": "RNM Equipment",
+    "email": [
+      "belinda.newland@l3harris.com",
+      "kelley@easterncommunications.com",
+      "netcontrol@racom.net",
+      "diana.purvis@racom.net",
+      "m.deffenbaugh@easterncommunications.com",
+      "jpbrown@worcestermd.gov",
+      "cs.ansspc.com",
+      "PSPCSysOps@L3Harris.com",
+      "rodney.philgren@l3harris.com",
+      "Rrhode@co.worcester.md.us",
+      "Gsterling@co.worcester.md.us",
+      "Jhamilton@co.worcester.md.us"
+    ],
+    "notes": null,
+    "equipmentName": "S51 Radio Shop",
+    "equipmentID": "s51_Radio_Shop",
+    "orderNumber": 1,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-09-28T19:35:42.150Z"
+  },
+  {
+    "customer": {
+      "$oid": "6ab128fc7d89a2c17024009f"
+    },
+    "site": {
+      "$oid": "6aba7cca7d89a2c17024011b"
+    },
+    "type": null,
+    "caseType": "Remote",
+    "collection": "RNM Equipment",
+    "email": [
+      "belinda.newland@l3harris.com",
+      "kelley@easterncommunications.com",
+      "netcontrol@racom.net",
+      "diana.purvis@racom.net",
+      "m.deffenbaugh@easterncommunications.com",
+      "jpbrown@worcestermd.gov",
+      "cs.ansspc.com",
+      "PSPCSysOps@L3Harris.com",
+      "rodney.philgren@l3harris.com",
+      "Rrhode@co.worcester.md.us",
+      "Gsterling@co.worcester.md.us",
+      "Jhamilton@co.worcester.md.us"
+    ],
+    "notes": null,
+    "equipmentName": "BeOn LAP 1",
+    "equipmentID": "s0_LAP1",
+    "orderNumber": 1,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-09-28T19:36:39.346Z"
+  },
+  {
+    "customer": {
+      "$oid": "6ab128fc7d89a2c17024009f"
+    },
+    "site": {
+      "$oid": "6aba7cca7d89a2c17024011b"
+    },
+    "type": null,
+    "caseType": "Remote",
+    "collection": "RNM Equipment",
+    "email": [
+      "belinda.newland@l3harris.com",
+      "kelley@easterncommunications.com",
+      "netcontrol@racom.net",
+      "diana.purvis@racom.net",
+      "m.deffenbaugh@easterncommunications.com",
+      "jpbrown@worcestermd.gov",
+      "cs.ansspc.com",
+      "PSPCSysOps@L3Harris.com",
+      "rodney.philgren@l3harris.com",
+      "Rrhode@co.worcester.md.us",
+      "Gsterling@co.worcester.md.us",
+      "Jhamilton@co.worcester.md.us"
+    ],
+    "notes": null,
+    "equipmentName": "BeOn LAP 2",
+    "equipmentID": "s0_LAP2",
+    "orderNumber": 2,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-09-28T19:38:59.689Z"
+  },
+  {
+    "customer": {
+      "$oid": "6ab128fc7d89a2c17024009f"
+    },
+    "site": {
+      "$oid": "6aba7cca7d89a2c17024011e"
+    },
+    "type": null,
+    "caseType": "Remote",
+    "collection": "RNM Equipment",
+    "email": [
+      "belinda.newland@l3harris.com",
+      "kelley@easterncommunications.com",
+      "netcontrol@racom.net",
+      "diana.purvis@racom.net",
+      "m.deffenbaugh@easterncommunications.com",
+      "jpbrown@worcestermd.gov",
+      "cs.ansspc.com",
+      "PSPCSysOps@L3Harris.com",
+      "rodney.philgren@l3harris.com",
+      "Rrhode@co.worcester.md.us",
+      "Gsterling@co.worcester.md.us",
+      "Jhamilton@co.worcester.md.us"
+    ],
+    "notes": null,
+    "equipmentName": "Central UAC 1",
+    "equipmentID": "s11_Central_UAC1",
+    "orderNumber": 1,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-09-29T17:38:33.313Z"
+  },
+  {
+    "customer": {
+      "$oid": "6ab128fc7d89a2c17024009f"
+    },
+    "site": {
+      "$oid": "6aba7cca7d89a2c17024011e"
+    },
+    "type": null,
+    "caseType": "Remote",
+    "collection": "RNM Equipment",
+    "email": [
+      "belinda.newland@l3harris.com",
+      "kelley@easterncommunications.com",
+      "netcontrol@racom.net",
+      "diana.purvis@racom.net",
+      "m.deffenbaugh@easterncommunications.com",
+      "jpbrown@worcestermd.gov",
+      "cs.ansspc.com",
+      "PSPCSysOps@L3Harris.com",
+      "rodney.philgren@l3harris.com",
+      "Rrhode@co.worcester.md.us",
+      "Gsterling@co.worcester.md.us",
+      "Jhamilton@co.worcester.md.us"
+    ],
+    "notes": null,
+    "equipmentName": "Central UAC 2",
+    "equipmentID": "s11_Central_UAC2",
+    "orderNumber": 2,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-09-29T17:40:19.069Z"
+  },
+  {
+    "customer": {
+      "$oid": "6ab128fc7d89a2c17024009f"
+    },
+    "site": {
+      "$oid": "6aba7cca7d89a2c17024011e"
+    },
+    "type": null,
+    "caseType": "Remote",
+    "collection": "RNM Equipment",
+    "email": [
+      "belinda.newland@l3harris.com",
+      "kelley@easterncommunications.com",
+      "netcontrol@racom.net",
+      "diana.purvis@racom.net",
+      "m.deffenbaugh@easterncommunications.com",
+      "jpbrown@worcestermd.gov",
+      "cs.ansspc.com",
+      "PSPCSysOps@L3Harris.com",
+      "rodney.philgren@l3harris.com",
+      "Rrhode@co.worcester.md.us",
+      "Gsterling@co.worcester.md.us",
+      "Jhamilton@co.worcester.md.us"
+    ],
+    "notes": null,
+    "equipmentName": "Central UAC 3",
+    "equipmentID": "s11_Central_UAC3",
+    "orderNumber": 3,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-09-29T17:40:54.488Z"
+  },
+  {
+    "customer": {
+      "$oid": "6ab128fc7d89a2c17024009f"
+    },
+    "site": {
+      "$oid": "6aba7cca7d89a2c17024011e"
+    },
+    "type": null,
+    "caseType": "Remote",
+    "collection": "RNM Equipment",
+    "email": [
+      "belinda.newland@l3harris.com",
+      "kelley@easterncommunications.com",
+      "netcontrol@racom.net",
+      "diana.purvis@racom.net",
+      "m.deffenbaugh@easterncommunications.com",
+      "jpbrown@worcestermd.gov",
+      "cs.ansspc.com",
+      "PSPCSysOps@L3Harris.com",
+      "rodney.philgren@l3harris.com",
+      "Rrhode@co.worcester.md.us",
+      "Gsterling@co.worcester.md.us",
+      "Jhamilton@co.worcester.md.us"
+    ],
+    "notes": null,
+    "equipmentName": "Klej Grange UAC 1",
+    "equipmentID": "s20_Klej_Grange_UAC1",
+    "orderNumber": 4,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-09-29T17:45:02.770Z"
+  },
+  {
+    "customer": {
+      "$oid": "6ab128fc7d89a2c17024009f"
+    },
+    "site": {
+      "$oid": "6aba7cca7d89a2c17024011e"
+    },
+    "type": null,
+    "caseType": "Remote",
+    "collection": "RNM Equipment",
+    "email": [
+      "belinda.newland@l3harris.com",
+      "kelley@easterncommunications.com",
+      "netcontrol@racom.net",
+      "diana.purvis@racom.net",
+      "m.deffenbaugh@easterncommunications.com",
+      "jpbrown@worcestermd.gov",
+      "cs.ansspc.com",
+      "PSPCSysOps@L3Harris.com",
+      "rodney.philgren@l3harris.com",
+      "Rrhode@co.worcester.md.us",
+      "Gsterling@co.worcester.md.us",
+      "Jhamilton@co.worcester.md.us"
+    ],
+    "notes": null,
+    "equipmentName": "Klej Grange UAC 2",
+    "equipmentID": "s20_Klej_Grange_UAC2",
+    "orderNumber": 5,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-09-29T17:45:51.359Z"
+  },
+  {
+    "customer": {
+      "$oid": "6ab128fc7d89a2c17024009f"
+    },
+    "site": {
+      "$oid": "6aba7cca7d89a2c17024011e"
+    },
+    "type": null,
+    "caseType": "Remote",
+    "collection": "RNM Equipment",
+    "email": [
+      "belinda.newland@l3harris.com",
+      "kelley@easterncommunications.com",
+      "netcontrol@racom.net",
+      "diana.purvis@racom.net",
+      "m.deffenbaugh@easterncommunications.com",
+      "jpbrown@worcestermd.gov",
+      "cs.ansspc.com",
+      "PSPCSysOps@L3Harris.com",
+      "rodney.philgren@l3harris.com",
+      "Rrhode@co.worcester.md.us",
+      "Gsterling@co.worcester.md.us",
+      "Jhamilton@co.worcester.md.us"
+    ],
+    "notes": null,
+    "equipmentName": "Klej Grange UAC 3",
+    "equipmentID": "s20_Klej_Grange_UAC3",
+    "orderNumber": 6,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-09-29T17:45:51.359Z"
+  },
+  {
+    "customer": {
+      "$oid": "6ab128fc7d89a2c17024009f"
+    },
+    "site": {
+      "$oid": "6aba7cca7d89a2c17024011e"
+    },
+    "type": null,
+    "caseType": "Remote",
+    "collection": "RNM Equipment",
+    "email": [
+      "belinda.newland@l3harris.com",
+      "kelley@easterncommunications.com",
+      "netcontrol@racom.net",
+      "diana.purvis@racom.net",
+      "m.deffenbaugh@easterncommunications.com",
+      "jpbrown@worcestermd.gov",
+      "cs.ansspc.com",
+      "PSPCSysOps@L3Harris.com",
+      "rodney.philgren@l3harris.com",
+      "Rrhode@co.worcester.md.us",
+      "Gsterling@co.worcester.md.us",
+      "Jhamilton@co.worcester.md.us"
+    ],
+    "notes": null,
+    "equipmentName": "Klej Grange UAC 4",
+    "equipmentID": "s20_Klej_Grange_UAC4",
+    "orderNumber": 7,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-09-29T17:45:51.359Z"
+  },
+  {
+    "customer": {
+      "$oid": "6ab128fc7d89a2c17024009f"
+    },
+    "site": {
+      "$oid": "6aba7cca7d89a2c17024011e"
+    },
+    "type": null,
+    "caseType": "Remote",
+    "collection": "RNM Equipment",
+    "email": [
+      "belinda.newland@l3harris.com",
+      "kelley@easterncommunications.com",
+      "netcontrol@racom.net",
+      "diana.purvis@racom.net",
+      "m.deffenbaugh@easterncommunications.com",
+      "jpbrown@worcestermd.gov",
+      "cs.ansspc.com",
+      "PSPCSysOps@L3Harris.com",
+      "rodney.philgren@l3harris.com",
+      "Rrhode@co.worcester.md.us",
+      "Gsterling@co.worcester.md.us",
+      "Jhamilton@co.worcester.md.us"
+    ],
+    "notes": null,
+    "equipmentName": "Snow Hill WT UAC 1",
+    "equipmentID": "s23_Snow_Hill_WT_UAC1",
+    "orderNumber": 8,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-09-29T17:54:30.020Z"
+  },
+  {
+    "customer": {
+      "$oid": "6ab128fc7d89a2c17024009f"
+    },
+    "site": {
+      "$oid": "6aba7cca7d89a2c17024011e"
+    },
+    "type": null,
+    "caseType": "Remote",
+    "collection": "RNM Equipment",
+    "email": [
+      "belinda.newland@l3harris.com",
+      "kelley@easterncommunications.com",
+      "netcontrol@racom.net",
+      "diana.purvis@racom.net",
+      "m.deffenbaugh@easterncommunications.com",
+      "jpbrown@worcestermd.gov",
+      "cs.ansspc.com",
+      "PSPCSysOps@L3Harris.com",
+      "rodney.philgren@l3harris.com",
+      "Rrhode@co.worcester.md.us",
+      "Gsterling@co.worcester.md.us",
+      "Jhamilton@co.worcester.md.us"
+    ],
+    "notes": null,
+    "equipmentName": "Snow Hill WT UAC 2",
+    "equipmentID": "s23_Snow_Hill_WT_UAC2",
+    "orderNumber": 8,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-09-29T17:54:30.020Z"
+  },
+  {
+    "customer": {
+      "$oid": "6ab128fc7d89a2c17024009f"
+    },
+    "site": {
+      "$oid": "6aba7cca7d89a2c17024011e"
+    },
+    "type": null,
+    "caseType": "Remote",
+    "collection": "RNM Equipment",
+    "email": [
+      "belinda.newland@l3harris.com",
+      "kelley@easterncommunications.com",
+      "netcontrol@racom.net",
+      "diana.purvis@racom.net",
+      "m.deffenbaugh@easterncommunications.com",
+      "jpbrown@worcestermd.gov",
+      "cs.ansspc.com",
+      "PSPCSysOps@L3Harris.com",
+      "rodney.philgren@l3harris.com",
+      "Rrhode@co.worcester.md.us",
+      "Gsterling@co.worcester.md.us",
+      "Jhamilton@co.worcester.md.us"
+    ],
+    "notes": null,
+    "equipmentName": "Snow Hill Dispatch UAC 1",
+    "equipmentID": "s91_Snow_Hill_Disp_UAC1",
+    "orderNumber": 10,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-09-29T17:57:59.149Z"
+  },
+  {
+    "customer": {
+      "$oid": "6ab128fc7d89a2c17024009f"
+    },
+    "site": {
+      "$oid": "6aba7cca7d89a2c17024011e"
+    },
+    "type": null,
+    "caseType": "Remote",
+    "collection": "RNM Equipment",
+    "email": [
+      "belinda.newland@l3harris.com",
+      "kelley@easterncommunications.com",
+      "netcontrol@racom.net",
+      "diana.purvis@racom.net",
+      "m.deffenbaugh@easterncommunications.com",
+      "jpbrown@worcestermd.gov",
+      "cs.ansspc.com",
+      "PSPCSysOps@L3Harris.com",
+      "rodney.philgren@l3harris.com",
+      "Rrhode@co.worcester.md.us",
+      "Gsterling@co.worcester.md.us",
+      "Jhamilton@co.worcester.md.us"
+    ],
+    "notes": null,
+    "equipmentName": "Snow Hill Dispatch UAC 2",
+    "equipmentID": "s91_Snow_Hill_Disp_UAC2",
+    "orderNumber": 11,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-09-29T17:57:59.149Z"
+  },
+  {
+    "customer": {
+      "$oid": "6ab128fc7d89a2c17024009f"
+    },
+    "site": {
+      "$oid": "6aba7cca7d89a2c17024011e"
+    },
+    "type": null,
+    "caseType": "Remote",
+    "collection": "RNM Equipment",
+    "email": [
+      "belinda.newland@l3harris.com",
+      "kelley@easterncommunications.com",
+      "netcontrol@racom.net",
+      "diana.purvis@racom.net",
+      "m.deffenbaugh@easterncommunications.com",
+      "jpbrown@worcestermd.gov",
+      "cs.ansspc.com",
+      "PSPCSysOps@L3Harris.com",
+      "rodney.philgren@l3harris.com",
+      "Rrhode@co.worcester.md.us",
+      "Gsterling@co.worcester.md.us",
+      "Jhamilton@co.worcester.md.us"
+    ],
+    "notes": null,
+    "equipmentName": "Snow Hill Dispatch UAC 3",
+    "equipmentID": "s91_Snow_Hill_Disp_UAC3",
+    "orderNumber": 12,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-09-29T17:57:59.149Z"
+  },
+  {
+    "customer": {
+      "$oid": "6ab128fc7d89a2c17024009f"
+    },
+    "site": {
+      "$oid": "6aba7cca7d89a2c17024012b"
+    },
+    "type": null,
+    "caseType": "Remote",
+    "collection": "RNM Equipment",
+    "email": [
+      "belinda.newland@l3harris.com",
+      "kelley@easterncommunications.com",
+      "netcontrol@racom.net",
+      "diana.purvis@racom.net",
+      "m.deffenbaugh@easterncommunications.com",
+      "jpbrown@worcestermd.gov",
+      "cs.ansspc.com",
+      "PSPCSysOps@L3Harris.com",
+      "rodney.philgren@l3harris.com",
+      "Rrhode@co.worcester.md.us",
+      "Gsterling@co.worcester.md.us",
+      "Jhamilton@co.worcester.md.us"
+    ],
+    "notes": null,
+    "equipmentName": "Worcester P25 Sites",
+    "equipmentID": "s10_Worcester",
+    "orderNumber": 1,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-09-29T18:48:23.527Z"
+  },
+  {
+    "customer": {
+      "$oid": "6ab128fc7d89a2c17024009f"
+    },
+    "site": {
+      "$oid": "6aba7cca7d89a2c17024012c"
+    },
+    "type": null,
+    "caseType": "Remote",
+    "collection": "RNM Equipment",
+    "email": [
+      "belinda.newland@l3harris.com",
+      "kelley@easterncommunications.com",
+      "netcontrol@racom.net",
+      "diana.purvis@racom.net",
+      "m.deffenbaugh@easterncommunications.com",
+      "jpbrown@worcestermd.gov",
+      "cs.ansspc.com",
+      "PSPCSysOps@L3Harris.com",
+      "rodney.philgren@l3harris.com",
+      "Rrhode@co.worcester.md.us",
+      "Gsterling@co.worcester.md.us",
+      "Jhamilton@co.worcester.md.us"
+    ],
+    "notes": null,
+    "equipmentName": "Site 11 Central",
+    "equipmentID": "s11_Central",
+    "orderNumber": 1,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-09-29T18:49:19.744Z"
+  },
+  {
+    "customer": {
+      "$oid": "6ab128fc7d89a2c17024009f"
+    },
+    "site": {
+      "$oid": "6aba7cca7d89a2c17024012c"
+    },
+    "type": null,
+    "caseType": "Remote",
+    "collection": "RNM Equipment",
+    "email": [
+      "belinda.newland@l3harris.com",
+      "kelley@easterncommunications.com",
+      "netcontrol@racom.net",
+      "diana.purvis@racom.net",
+      "m.deffenbaugh@easterncommunications.com",
+      "jpbrown@worcestermd.gov",
+      "cs.ansspc.com",
+      "PSPCSysOps@L3Harris.com",
+      "rodney.philgren@l3harris.com",
+      "Rrhode@co.worcester.md.us",
+      "Gsterling@co.worcester.md.us",
+      "Jhamilton@co.worcester.md.us"
+    ],
+    "notes": null,
+    "equipmentName": "Site 13 Berlin",
+    "equipmentID": "s13_Berlin",
+    "orderNumber": 2,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-09-30T12:52:36.121Z"
+  },
+  {
+    "customer": {
+      "$oid": "6ab128fc7d89a2c17024009f"
+    },
+    "site": {
+      "$oid": "6aba7cca7d89a2c17024012c"
+    },
+    "type": null,
+    "caseType": "Remote",
+    "collection": "RNM Equipment",
+    "email": [
+      "belinda.newland@l3harris.com",
+      "kelley@easterncommunications.com",
+      "netcontrol@racom.net",
+      "diana.purvis@racom.net",
+      "m.deffenbaugh@easterncommunications.com",
+      "jpbrown@worcestermd.gov",
+      "cs.ansspc.com",
+      "PSPCSysOps@L3Harris.com",
+      "rodney.philgren@l3harris.com",
+      "Rrhode@co.worcester.md.us",
+      "Gsterling@co.worcester.md.us",
+      "Jhamilton@co.worcester.md.us"
+    ],
+    "notes": null,
+    "equipmentName": "Site 19 Pocomoke WT",
+    "equipmentID": "s19_Pocomoke_WT",
+    "orderNumber": 3,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-09-30T12:57:24.333Z"
+  },
+  {
+    "customer": {
+      "$oid": "6ab128fc7d89a2c17024009f"
+    },
+    "site": {
+      "$oid": "6aba7cca7d89a2c17024012c"
+    },
+    "type": null,
+    "caseType": "Remote",
+    "collection": "RNM Equipment",
+    "email": [
+      "belinda.newland@l3harris.com",
+      "kelley@easterncommunications.com",
+      "netcontrol@racom.net",
+      "diana.purvis@racom.net",
+      "m.deffenbaugh@easterncommunications.com",
+      "jpbrown@worcestermd.gov",
+      "cs.ansspc.com",
+      "PSPCSysOps@L3Harris.com",
+      "rodney.philgren@l3harris.com",
+      "Rrhode@co.worcester.md.us",
+      "Gsterling@co.worcester.md.us",
+      "Jhamilton@co.worcester.md.us"
+    ],
+    "notes": null,
+    "equipmentName": "Site 20 Klej Grange",
+    "equipmentID": "s20_Klej_Grange",
+    "orderNumber": 4,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-09-30T12:58:49.139Z"
+  },
+  {
+    "customer": {
+      "$oid": "6ab128fc7d89a2c17024009f"
+    },
+    "site": {
+      "$oid": "6aba7cca7d89a2c17024012c"
+    },
+    "type": null,
+    "caseType": "Remote",
+    "collection": "RNM Equipment",
+    "email": [
+      "belinda.newland@l3harris.com",
+      "kelley@easterncommunications.com",
+      "netcontrol@racom.net",
+      "diana.purvis@racom.net",
+      "m.deffenbaugh@easterncommunications.com",
+      "jpbrown@worcestermd.gov",
+      "cs.ansspc.com",
+      "PSPCSysOps@L3Harris.com",
+      "rodney.philgren@l3harris.com",
+      "Rrhode@co.worcester.md.us",
+      "Gsterling@co.worcester.md.us",
+      "Jhamilton@co.worcester.md.us"
+    ],
+    "notes": null,
+    "equipmentName": "Site 21 Mystic",
+    "equipmentID": "s21_Mystic",
+    "orderNumber": 5,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-09-30T13:02:31.450Z"
+  },
+  {
+    "customer": {
+      "$oid": "6ab128fc7d89a2c17024009f"
+    },
+    "site": {
+      "$oid": "6aba7cca7d89a2c17024012c"
+    },
+    "type": null,
+    "caseType": "Remote",
+    "collection": "RNM Equipment",
+    "email": [
+      "belinda.newland@l3harris.com",
+      "kelley@easterncommunications.com",
+      "netcontrol@racom.net",
+      "diana.purvis@racom.net",
+      "m.deffenbaugh@easterncommunications.com",
+      "jpbrown@worcestermd.gov",
+      "cs.ansspc.com",
+      "PSPCSysOps@L3Harris.com",
+      "rodney.philgren@l3harris.com",
+      "Rrhode@co.worcester.md.us",
+      "Gsterling@co.worcester.md.us",
+      "Jhamilton@co.worcester.md.us"
+    ],
+    "notes": null,
+    "equipmentName": "Site 22 Nassawango",
+    "equipmentID": "s22_Nassawango",
+    "orderNumber": 6,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-09-30T13:03:12.848Z"
+  },
+  {
+    "customer": {
+      "$oid": "6ab128fc7d89a2c17024009f"
+    },
+    "site": {
+      "$oid": "6aba7cca7d89a2c17024012c"
+    },
+    "type": null,
+    "caseType": "Remote",
+    "collection": "RNM Equipment",
+    "email": [
+      "belinda.newland@l3harris.com",
+      "kelley@easterncommunications.com",
+      "netcontrol@racom.net",
+      "diana.purvis@racom.net",
+      "m.deffenbaugh@easterncommunications.com",
+      "jpbrown@worcestermd.gov",
+      "cs.ansspc.com",
+      "PSPCSysOps@L3Harris.com",
+      "rodney.philgren@l3harris.com",
+      "Rrhode@co.worcester.md.us",
+      "Gsterling@co.worcester.md.us",
+      "Jhamilton@co.worcester.md.us"
+    ],
+    "notes": null,
+    "equipmentName": "Site 23 Snow Hill WT",
+    "equipmentID": "s23_Snow_Hill_WT",
+    "orderNumber": 7,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-09-30T13:04:03.880Z"
+  },
+  {
+    "customer": {
+      "$oid": "6ab128fc7d89a2c17024009f"
+    },
+    "site": {
+      "$oid": "6aba7cca7d89a2c170240133"
+    },
+    "type": null,
+    "caseType": "Remote",
+    "collection": "RNM Equipment",
+    "email": [
+      "belinda.newland@l3harris.com",
+      "kelley@easterncommunications.com",
+      "netcontrol@racom.net",
+      "diana.purvis@racom.net",
+      "m.deffenbaugh@easterncommunications.com",
+      "jpbrown@worcestermd.gov",
+      "cs.ansspc.com",
+      "PSPCSysOps@L3Harris.com",
+      "rodney.philgren@l3harris.com",
+      "Rrhode@co.worcester.md.us",
+      "Gsterling@co.worcester.md.us",
+      "Jhamilton@co.worcester.md.us"
+    ],
+    "notes": null,
+    "equipmentName": "NSS",
+    "equipmentID": "s0_NSS",
+    "orderNumber": 1,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-09-30T13:04:53.566Z"
+  },
+  {
+    "customer": {
+      "$oid": "6ab128fc7d89a2c17024009f"
+    },
+    "site": {
+      "$oid": "6aba7cca7d89a2c170240133"
+    },
+    "type": null,
+    "caseType": "Remote",
+    "collection": "RNM Equipment",
+    "email": [
+      "belinda.newland@l3harris.com",
+      "kelley@easterncommunications.com",
+      "netcontrol@racom.net",
+      "diana.purvis@racom.net",
+      "m.deffenbaugh@easterncommunications.com",
+      "jpbrown@worcestermd.gov",
+      "cs.ansspc.com",
+      "PSPCSysOps@L3Harris.com",
+      "rodney.philgren@l3harris.com",
+      "Rrhode@co.worcester.md.us",
+      "Gsterling@co.worcester.md.us",
+      "Jhamilton@co.worcester.md.us"
+    ],
+    "notes": null,
+    "equipmentName": "ISSI",
+    "equipmentID": "s111_ISSI",
+    "orderNumber": 2,
+    "lastEditedBy": {
+      "$oid": "69fc9a275d7502a03d84520e"
+    },
+    "lastEditedTimestamp": "2026-09-30T13:05:14.913Z"
+  }
 ]
