@@ -147,6 +147,10 @@ const wallLocation = prompt(
   "Enter the RNM Screen Location (Right/Left): "
 ).trim();
 
+const vpnInstructions = prompt(
+  "Enter VPN instructions (add the character '~' where a line break is needed): "
+).trim();
+
 // =======================
 // UPLOADING USER
 // =======================
@@ -177,6 +181,7 @@ const newEntry = {
   alarmMatrix,
   screenNumber,
   wallLocation,
+  vpnInstructions,
   reserveField1,
   reserveField2,
   lastEditedBy,
